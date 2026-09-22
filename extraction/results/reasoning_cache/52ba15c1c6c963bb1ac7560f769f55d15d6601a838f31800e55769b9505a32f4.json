@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt eine punktuelle Beule an mehreren Stellen, aber ohne Angabe, ob eine Reparatur möglich ist oder ein Austausch erforderlich wird.",
+ "evidence": "Motorhaube: Beule, punktuell, mehrere Stellen."
+}

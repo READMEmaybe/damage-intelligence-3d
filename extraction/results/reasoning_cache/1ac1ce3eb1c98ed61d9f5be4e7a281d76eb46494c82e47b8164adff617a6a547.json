@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Kunststoff eingedrückt ohne Angabe zu Reparierbarkeit oder Austausch; keine explizite Maßnahme genannt.",
+ "evidence": "Stoßstange vorne rechts ca. 3 cm Durchmesser Kunststoff eingedrückt."
+}

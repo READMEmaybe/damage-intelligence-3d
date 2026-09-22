@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer im Klarlack sind ein leichter Oberflächenschaden, der typischerweise poliert bzw. lackiert wird.",
+ "evidence": "Auch Schweller links beschädigt (Kratzer im Klarlack)."
+}

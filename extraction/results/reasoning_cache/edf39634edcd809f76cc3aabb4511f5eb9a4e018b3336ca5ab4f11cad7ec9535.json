@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Delle mit Lackschaden ohne Angabe zur Reparierbarkeit; KVA wird erbeten, daher ist eine Begutachtung angezeigt.",
+ "evidence": "Stoßstange hinten ebenfalls: Delle mit Lackschaden."
+}

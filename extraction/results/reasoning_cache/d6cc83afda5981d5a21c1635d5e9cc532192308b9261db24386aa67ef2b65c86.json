@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur punktuelle Eindrückungen ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Kunststoff eingedrückt an Motorhaube, punktuell, mehrere Stellen."
+}

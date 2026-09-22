@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Lack intakt, aber keine Aussage zu Reparatur oder Austausch der Motorhaube in der Notiz.",
+ "evidence": "Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt."
+}

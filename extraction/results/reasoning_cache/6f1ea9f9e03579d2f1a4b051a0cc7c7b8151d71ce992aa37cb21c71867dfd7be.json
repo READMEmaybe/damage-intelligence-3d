@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung des Außenspiegels legt einen Austausch nahe, da Spiegelgehäuse in der Regel nicht repariert werden.",
+ "evidence": "Außenspiegel links großflächig deformiert, ca. 40 cm."
+}

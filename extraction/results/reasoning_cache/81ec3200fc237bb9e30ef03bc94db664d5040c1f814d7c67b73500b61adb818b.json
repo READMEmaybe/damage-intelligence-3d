@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung von ca. 40 cm an einer Tür spricht für Austausch statt Reparatur.",
+ "evidence": "Tür hinten links: großflächig deformiert, ca. 40 cm."
+}

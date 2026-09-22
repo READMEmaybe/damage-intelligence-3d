@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Durchgebrochenes Bauteil an der vorderen Stoßstange bei schwerem Wildunfall legt Austausch nahe.",
+ "evidence": "An Stoßstange vorne Bauteil durchgebrochen (handtellergroß)."
+}

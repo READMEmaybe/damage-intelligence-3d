@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf Grundierung sind typischerweise durch Lackierung reparierbar, kein Austausch des Schwellers angezeigt.",
+ "evidence": "Schweller rechts ebenfalls: Kratzer bis auf Grundierung."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Ein gerissenes und loses Karosserieteil bei schwerem Wildunfall ist in der Regel nicht wirtschaftlich reparierbar, sondern wird ersetzt.",
+ "evidence": "Zusätzlich Kotflügel vorne rechts betroffen, Teil gerissen und lose."
+}

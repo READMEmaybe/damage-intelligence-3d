@@ -1,0 +1,5307 @@
+[
+ {
+  "case_id": 820223,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "insurance_type": "haftpflicht",
+   "severity": "druckstelle, schramme\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 820558,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "insurance_type": "zahlt selbst",
+   "severity": "delle\\w*, kleine\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.667
+  },
+  "notes": []
+ },
+ {
+  "case_id": 820869,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 821214,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Kotflügel vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "ohne versicherung",
+   "severity": "abgeplatzt",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 821533,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Fahrertür",
+   "Kotflügel hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Fahrertür": "fahrertür",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "insurance_type": "selbstzahler",
+   "severity": "delle\\w*, kratz\\w*, feine\\w*, kleine\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.743
+  },
+  "notes": []
+ },
+ {
+  "case_id": 822311,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 823086,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 824137,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 824427,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 824529,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "tk",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 824844,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 825751,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 826049,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 826351,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "tk",
+   "severity": "abgeplatzt",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 826694,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Außenspiegel links",
+   "Heckklappe",
+   "Schweller rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Außenspiegel links": "außenspiegel links",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Schweller rechts": "schweller rechts",
+   "insurance_type": "tk",
+   "severity": "kratz\\w*, feine\\w*, schramme\\w*, lack nicht durch",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.9
+  },
+  "notes": []
+ },
+ {
+  "case_id": 827140,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Stoßstange vorne",
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "haftpflicht",
+   "severity": "delle\\w*, kleine\\w*, schramme\\w*",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 828141,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange hinten links",
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Stoßstange hinten links": "stoßstange hinten links",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "vk",
+   "severity": "grundierung, lackschaden\\w*, delle\\w*, kratz\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.483
+  },
+  "notes": []
+ },
+ {
+  "case_id": 828166,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 828556,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 829369,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne links",
+   "Stoßstange hinten"
+  ],
+  "severity": "schwer",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "haftpflicht",
+   "severity": "durchgebrochen, abgerissen, aufnahme",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 830087,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "insurance_type": "teilkasko",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 830612,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Außenspiegel links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Außenspiegel links": "außenspiegel links",
+   "insurance_type": "ohne versicherung",
+   "severity": "lackschaden\\w*, delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.667
+  },
+  "notes": []
+ },
+ {
+  "case_id": 830928,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "insurance_type": "steuerung",
+   "severity": "gebrochen, halterung",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 831499,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 831881,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "haftpflicht",
+   "severity": "kratz\\w*, klarlack",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 832173,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 832696,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "tk",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 833075,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Heckklappe",
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "insurance_type": "gesteuert",
+   "severity": "eingedrückt, kunststoff",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.857
+  },
+  "notes": []
+ },
+ {
+  "case_id": 833827,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 834130,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Außenspiegel rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Außenspiegel rechts": "außenspiegel rechts",
+   "insurance_type": "vk",
+   "severity": "schramme\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 834462,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 834616,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "schwer",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "insurance_type": "ohne versicherung",
+   "severity": "stark, eingedrückt",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.4
+  },
+  "notes": []
+ },
+ {
+  "case_id": 834726,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Fahrertür",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Fahrertür": "fahrertür",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "insurance_type": "vollkasko",
+   "severity": "kratz\\w*, feine\\w*, klarlack",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.867
+  },
+  "notes": []
+ },
+ {
+  "case_id": 834742,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "teilkasko",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 835359,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Beifahrertür"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Beifahrertür": "beifahrertür",
+   "insurance_type": "zahlt selbst",
+   "severity": "abgeplatzt",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 835918,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 836898,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "teilkasko",
+   "severity": "riss",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.75
+  },
+  "notes": []
+ },
+ {
+  "case_id": 837732,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "teilkasko",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 837808,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 837856,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "insurance_type": "ohne versicherung",
+   "severity": "eingedrückt, kunststoff, riss",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.902
+  },
+  "notes": []
+ },
+ {
+  "case_id": 837956,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Heckklappe",
+   "Kotflügel vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "schadensteuerer",
+   "severity": "abgerissen, verzogen, lech, aufnahme",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 838289,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 838641,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 838742,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Stoßstange vorne links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "insurance_type": "vollkasko",
+   "severity": "kratz\\w*, druckstelle, lack nicht durch",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.867
+  },
+  "notes": []
+ },
+ {
+  "case_id": 838936,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 839073,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 839223,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "tüv",
+   "case_kind": "tüv",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 839875,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 840416,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Außenspiegel links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Außenspiegel links": "außenspiegel links",
+   "insurance_type": "selbstzahler",
+   "severity": "kratz\\w*, klarlack",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 841315,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "räder",
+   "case_kind": "räder",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 841460,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 841588,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Stoßstange vorne links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "haftung dem grunde",
+   "severity": "delle\\w*, kratz\\w*, kleine\\w*, klarlack",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.743
+  },
+  "notes": []
+ },
+ {
+  "case_id": 841953,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "teilkasko",
+   "severity": "",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 842246,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 842879,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 843740,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "selbstzahler",
+   "severity": "riss",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.75
+  },
+  "notes": []
+ },
+ {
+  "case_id": 843747,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Beifahrertür",
+   "Stoßstange hinten"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Beifahrertür": "beifahrertür",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "selbstzahler",
+   "severity": "eingedrückt, kunststoff, grundierung, kratz\\w*",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.683
+  },
+  "notes": []
+ },
+ {
+  "case_id": 844069,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "tk",
+   "severity": "",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 844124,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 845351,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 846261,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 846640,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 846736,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 846807,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "insurance_type": "selbstzahler",
+   "severity": "lackabrie",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 847051,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "tk",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 848366,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne links",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "steuerung",
+   "severity": "delle\\w*, kratz\\w*, kleine\\w*, lack nicht durch",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.743
+  },
+  "notes": []
+ },
+ {
+  "case_id": 848599,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 848920,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 849332,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 849458,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "ohne versicherung",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 849692,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 849708,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "tk",
+   "severity": "riss",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.75
+  },
+  "notes": []
+ },
+ {
+  "case_id": 849735,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 850382,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "haftpflicht",
+   "severity": "kratz\\w*, klarlack, lack nicht durch",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.867
+  },
+  "notes": []
+ },
+ {
+  "case_id": 850870,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Stoßstange hinten",
+   "Tür hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "vollkasko",
+   "severity": "grundierung, riss, kratz\\w*",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.455
+  },
+  "notes": []
+ },
+ {
+  "case_id": 851110,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 851332,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Motorhaube",
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Motorhaube": "motorhaube",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "tk",
+   "severity": "abgerissen, deformiert, großflächig, aufnahme",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 851459,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 851803,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 852213,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Tür hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "haftpflicht",
+   "severity": "grundierung, kratz\\w*",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.286
+  },
+  "notes": []
+ },
+ {
+  "case_id": 852650,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Fahrertür",
+   "Kotflügel vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Fahrertür": "fahrertür",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "steuerung",
+   "severity": "abgerissen, aufnahme",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 852844,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "teilkasko",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 852899,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Tür hinten rechts"
+  ],
+  "severity": "schwer",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "insurance_type": "zahlt selbst",
+   "severity": "deformiert, großflächig, verzogen, lech",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 853052,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "räder",
+   "case_kind": "räder",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 853217,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "tüv",
+   "case_kind": "tüv",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 853534,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Außenspiegel links",
+   "Stoßstange hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Außenspiegel links": "außenspiegel links",
+   "zone:Stoßstange hinten links": "stoßstange hinten links",
+   "insurance_type": "vk",
+   "severity": "kratz\\w*, lackabrie, lack nicht durch",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.867
+  },
+  "notes": []
+ },
+ {
+  "case_id": 854548,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "selbstzahler",
+   "severity": "",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 854758,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 854832,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 855146,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 855940,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 856097,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "vk",
+   "severity": "delle\\w*, kleine\\w*, druckstelle",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 856176,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 857254,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 857268,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 857332,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "haftpflicht",
+   "severity": "eingedrückt, kunststoff",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.857
+  },
+  "notes": []
+ },
+ {
+  "case_id": 857915,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Heckklappe",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "vollkasko",
+   "severity": "gebrochen, halterung, eule\\w*, riss",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.947
+  },
+  "notes": []
+ },
+ {
+  "case_id": 858134,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 858459,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 858572,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 859189,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 859329,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Tür hinten links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "selbstzahler",
+   "severity": "verformt, träger",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 860356,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 860601,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 860796,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 862097,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 862159,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Beifahrertür",
+   "Kotflügel vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Beifahrertür": "beifahrertür",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "vk",
+   "severity": "verzogen, lech, gerissen",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 862161,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "insurance_type": "vollkasko",
+   "severity": "lackabrie",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 862379,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "tk",
+   "severity": "",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 862507,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "insurance_type": "haftpflicht",
+   "severity": "delle\\w*, kratz\\w*, kleine\\w*, lack nicht durch",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.743
+  },
+  "notes": []
+ },
+ {
+  "case_id": 862646,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 863160,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 863515,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 863853,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "tk",
+   "severity": "riss",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.75
+  },
+  "notes": []
+ },
+ {
+  "case_id": 863870,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 864149,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 864355,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 864671,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 864893,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 864894,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 865286,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 865981,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 867265,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links",
+   "Stoßstange hinten"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "haftung dem grunde",
+   "severity": "gebrochen, halterung, eule\\w*, riss",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.947
+  },
+  "notes": []
+ },
+ {
+  "case_id": 867951,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Heckklappe",
+   "Stoßstange hinten"
+  ],
+  "severity": "schwer",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "haftpflicht",
+   "severity": "durchgebrochen, deformiert, großflächig",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 868539,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "tk",
+   "severity": "",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 871198,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 871259,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "insurance_type": "haftpflicht",
+   "severity": "abgeplatzt",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 871303,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Tür hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "zahlt selbst",
+   "severity": "lackschaden\\w*, delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.667
+  },
+  "notes": []
+ },
+ {
+  "case_id": 872821,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 872984,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten links",
+   "Tür hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "insurance_type": "haftpflicht",
+   "severity": "gebrochen, halterung, grundierung, kratz\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.706
+  },
+  "notes": []
+ },
+ {
+  "case_id": 873135,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 873174,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 874892,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 875500,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "teilkasko",
+   "severity": "delle\\w*, kleine\\w*, druckstelle",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 875860,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "selbstzahler",
+   "severity": "",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 875974,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 876640,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "tk",
+   "severity": "schramme\\w*",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 876742,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Motorhaube"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "teilkasko",
+   "severity": "deformiert, großflächig",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 877890,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Außenspiegel rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Außenspiegel rechts": "außenspiegel rechts",
+   "insurance_type": "gesteuert",
+   "severity": "eule\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 878138,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 878653,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "vollkasko",
+   "severity": "grundierung, kratz\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.286
+  },
+  "notes": []
+ },
+ {
+  "case_id": 878673,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 878678,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "auffahrunfall",
+   "case_kind": "auffahrunfall",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "haftpflicht",
+   "severity": "verformt, träger",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 879298,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 879863,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 880510,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 880821,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 881399,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links",
+   "Stoßstange vorne"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "insurance_type": "tk",
+   "severity": "durchgebrochen, deformiert, großflächig",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 881785,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 881845,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Schweller rechts",
+   "Stoßstange hinten rechts",
+   "Tür hinten rechts"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Schweller rechts": "schweller rechts",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "insurance_type": "teilkasko",
+   "severity": "abgerissen, gerissen, stark, aufnahme, eingedrückt",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.824
+  },
+  "notes": []
+ },
+ {
+  "case_id": 882011,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Außenspiegel rechts",
+   "Kotflügel vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Außenspiegel rechts": "außenspiegel rechts",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "insurance_type": "selbstzahler",
+   "severity": "abgeplatzt, grundierung, kratz\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.583
+  },
+  "notes": []
+ },
+ {
+  "case_id": 883006,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 883493,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "teilkasko",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 883550,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 884436,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Fahrertür",
+   "Tür hinten rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Fahrertür": "fahrertür",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "insurance_type": "selbstzahler",
+   "severity": "delle\\w*, kleine\\w*, druckstelle",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 884480,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 884955,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 885549,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "teilkasko",
+   "severity": "",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 885968,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 886217,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 886567,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 887161,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 887724,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 888381,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Schweller rechts",
+   "Stoßstange vorne links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Schweller rechts": "schweller rechts",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "insurance_type": "ohne versicherung",
+   "severity": "schramme\\w*",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 888387,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 888443,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 888738,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 888794,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 888935,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "tk",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 889373,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Motorhaube",
+   "Tür hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Motorhaube": "motorhaube",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "insurance_type": "gesteuert",
+   "severity": "eingedrückt, kunststoff, abgeplatzt",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.909
+  },
+  "notes": []
+ },
+ {
+  "case_id": 890645,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 890706,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 891362,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 892094,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "zahlt selbst",
+   "severity": "",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 892156,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 892250,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 893103,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Stoßstange hinten",
+   "Stoßstange hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "zone:Stoßstange hinten links": "stoßstange hinten links",
+   "insurance_type": "zahlt selbst",
+   "severity": "lackabrie, schramme\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 893861,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 894099,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 894117,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895323,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hagelschaden",
+   "case_kind": "hagelschaden",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "insurance_type": "tk",
+   "severity": "delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.545
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895520,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "insurance_type": "tk",
+   "severity": "lackschaden\\w*, delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.667
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895612,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "steinschlag",
+   "case_kind": "steinschlag",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "insurance_type": "teilkasko",
+   "severity": "",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895796,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Tür hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "selbstzahler",
+   "severity": "abgeplatzt",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895806,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "räder",
+   "case_kind": "räder",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895937,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Motorhaube",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "wildunfall",
+   "case_kind": "wildunfall",
+   "zone:Motorhaube": "motorhaube",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "insurance_type": "teilkasko",
+   "severity": "eingedrückt, kunststoff, lackschaden\\w*, delle\\w*",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.846
+  },
+  "notes": []
+ },
+ {
+  "case_id": 895978,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Heckklappe",
+   "Stoßstange hinten"
+  ],
+  "severity": "schwer",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "vollkasko",
+   "severity": "abgerissen, stark, aufnahme, eingedrückt",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.769
+  },
+  "notes": []
+ },
+ {
+  "case_id": 896468,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 896932,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 897102,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "inspektion",
+   "case_kind": "inspektion",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 897638,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Stoßstange hinten rechts",
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "selbstzahler",
+   "severity": "kratz\\w*, feine\\w*, druckstelle",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.867
+  },
+  "notes": []
+ },
+ {
+  "case_id": 897690,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "reifen",
+   "case_kind": "reifen",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 897848,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Außenspiegel rechts",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Außenspiegel rechts": "außenspiegel rechts",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "insurance_type": "zahlt selbst",
+   "severity": "abgeplatzt",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 897855,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 898191,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "rangierschaden",
+   "case_kind": "rangierschaden",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "insurance_type": "vollkasko",
+   "severity": "grundierung, kratz\\w*",
+   "lifecycle_stage": "no progress fields"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.286
+  },
+  "notes": []
+ },
+ {
+  "case_id": 898607,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "hu",
+   "case_kind": "hu",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 898686,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Beifahrertür",
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "parkschaden",
+   "case_kind": "parkschaden",
+   "zone:Beifahrertür": "beifahrertür",
+   "zone:Tür hinten links": "tür hinten links",
+   "insurance_type": "steuerung",
+   "severity": "kratz\\w*, feine\\w*, lackabrie",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.867
+  },
+  "notes": []
+ },
+ {
+  "case_id": 898942,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Fahrertür",
+   "Stoßstange hinten"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Fahrertür": "fahrertür",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "teilkasko",
+   "severity": "lackschaden\\w*, eule\\w*, delle\\w*",
+   "lifecycle_stage": "reparation_start_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 0.8
+  },
+  "notes": []
+ },
+ {
+  "case_id": 899079,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Stoßstange hinten"
+  ],
+  "severity": "schwer",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "vandalismus",
+   "case_kind": "vandalismus",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "insurance_type": "zahlt selbst",
+   "severity": "deformiert, großflächig",
+   "lifecycle_stage": "canceled_at"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 1.0,
+   "lifecycle_stage": 1.0,
+   "severity": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 899366,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "öl",
+   "case_kind": "öl",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ },
+ {
+  "case_id": 899834,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "case_type": "brems",
+   "case_kind": "brems",
+   "lifecycle_stage": "completion_date_time"
+  },
+  "confidence": {
+   "case_type": 1.0,
+   "case_kind": 1.0,
+   "zones": 1.0,
+   "insurance_type": 0.0,
+   "lifecycle_stage": 1.0
+  },
+  "notes": []
+ }
+]

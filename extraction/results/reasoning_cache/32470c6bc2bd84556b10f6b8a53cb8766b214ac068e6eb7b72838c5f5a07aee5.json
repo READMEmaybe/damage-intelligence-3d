@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Nur feine Kratzspuren beschrieben, keine Aussage zu Reparatur oder Austausch möglich.",
+ "evidence": "feine Kratzspuren, ca. 15 cm"
+}

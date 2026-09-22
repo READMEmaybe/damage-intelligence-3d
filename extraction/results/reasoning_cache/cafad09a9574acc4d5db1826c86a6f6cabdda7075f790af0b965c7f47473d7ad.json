@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Abgerissene Aufnahme an der Stoßstange deutet auf einen nicht reparierbaren Befestigungsschaden hin, der einen Austausch erforderlich macht.",
+ "evidence": "Stoßstange vorne: Aufnahme abgerissen, ca. 3 cm Durchmesser."
+}

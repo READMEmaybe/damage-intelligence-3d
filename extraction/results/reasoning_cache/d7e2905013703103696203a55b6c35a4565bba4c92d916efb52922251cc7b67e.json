@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Leichte Delle ohne explizite Reparatur- oder Austauschanweisung; KVA-Abstimmung deutet auf offene Bewertung hin.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

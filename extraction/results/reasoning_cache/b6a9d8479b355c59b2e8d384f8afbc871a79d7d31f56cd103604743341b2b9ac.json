@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichter Parkschaden mit Kratzern im Klarlack am Außenspiegel deutet auf eine Lackreparatur hin, kein Austausch erforderlich.",
+ "evidence": "Kratzer im Klarlack an Außenspiegel links, ca. 40 cm."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung an der Stoßstange vorne links deutet auf eine oberflächliche Beschädigung hin, die typischerweise lackiert/repariert wird.",
+ "evidence": "Zusätzlich Stoßstange vorne links betroffen, Lack abgeplatzt."
+}

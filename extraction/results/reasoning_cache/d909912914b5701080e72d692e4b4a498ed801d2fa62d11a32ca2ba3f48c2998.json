@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren auf ganzer Länge bei leichtem Vandalismusschaden legen eine Lackierreparatur nahe, kein Austausch.",
+ "evidence": "Feine Kratzspuren an Kotflügel vorne rechts, auf ganzer Länge."
+}

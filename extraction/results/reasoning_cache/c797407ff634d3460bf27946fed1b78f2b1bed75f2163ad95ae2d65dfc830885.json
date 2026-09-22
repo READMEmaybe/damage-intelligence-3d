@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kunststoff eingedrückt ohne Angabe zu Reparierbarkeit oder Austausch; Kunde entscheidet erst nach Preis.",
+ "evidence": "Stoßstange hinten rechts ebenfalls: Kunststoff eingedrückt."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Großflächige Deformierung über zwei Bauteile bei schwerem Auffahrunfall legt Austausch der Heckklappe nahe.",
+ "evidence": "Schaden an Heckklappe, großflächig deformiert, über zwei Bauteile."
+}

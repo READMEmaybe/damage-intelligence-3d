@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Handtellergroßer Lackabrieb bei leichtem Schaden deutet auf eine Lackierreparatur hin, kein Austausch erkennbar.",
+ "evidence": "Kotflügel vorne rechts: Lackabrieb, handtellergroß."
+}

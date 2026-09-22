@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für das Dach sind zahlreiche Dellen beschrieben, aber keine Reparatur- oder Austauschentscheidung; ohne weitere Details ist die Maßnahme nicht bestimmbar.",
+ "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+}

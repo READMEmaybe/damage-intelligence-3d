@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Die Stoßstange ist ca. 25 cm eingerissen und lose, was bei einer Kunststoffstoßstange in der Regel einen Austausch erfordert.",
+ "evidence": "Stoßstange vorne links ca. 25 cm Teil gerissen und lose."
+}

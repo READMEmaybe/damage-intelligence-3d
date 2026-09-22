@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "replace",
+ "action_source": "explicit",
+ "confidence": 0.95,
+ "reason": "Die Notiz nennt für den durchgebrochenen Kotflügel ausdrücklich Austausch statt Instandsetzung.",
+ "evidence": "Ersatzteil nur komplett lieferbar, Austausch statt Instandsetzung."
+}

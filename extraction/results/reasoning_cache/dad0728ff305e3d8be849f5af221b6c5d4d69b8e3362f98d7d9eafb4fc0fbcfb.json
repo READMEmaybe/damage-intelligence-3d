@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren an der Stoßstange deuten auf einen leichten, lackierbaren Schaden hin, der repariert werden kann.",
+ "evidence": "Stoßstange vorne ebenfalls: feine Kratzspuren."
+}

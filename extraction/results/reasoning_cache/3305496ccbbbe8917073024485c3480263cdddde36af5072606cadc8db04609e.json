@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung der Fahrertür bei schwerem Vandalismusschaden legt Austausch nahe, zumal die Notiz generell 'Austausch statt Instandsetzung' vorgibt.",
+ "evidence": "Auch Fahrertür beschädigt (großflächig deformiert)."
+}

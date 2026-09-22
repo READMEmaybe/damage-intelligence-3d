@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Riss im Lack ist ein oberflächlicher Lackschaden, der typischerweise repariert (lackiert) wird, kein Austausch der Stoßstange.",
+ "evidence": "Auch Stoßstange vorne links beschädigt (Riss im Lack)."
+}

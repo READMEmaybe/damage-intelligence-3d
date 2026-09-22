@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Delle mit Lackschaden an der Motorhaube lässt Reparatur oder Austausch zu, ohne dass die Notiz eine Maßnahme nennt.",
+ "evidence": "Zusätzlich Motorhaube betroffen, Delle mit Lackschaden."
+}

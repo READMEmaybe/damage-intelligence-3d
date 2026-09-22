@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf die Grundierung bei mittlerem Schweregrad legen eine Lackierreparatur nahe, kein Austausch.",
+ "evidence": "Stoßstange hinten rechts Kratzer bis auf Grundierung, ca. 5 cm."
+}

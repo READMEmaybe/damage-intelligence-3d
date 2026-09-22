@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden mit mehreren Dellen an der Heckklappe, Smart-Repair-Dellenreparatur naheliegend, kein Austauschhinweis.",
+ "evidence": "Heckklappe mit mehreren Dellen aus Hagelschlag."
+}

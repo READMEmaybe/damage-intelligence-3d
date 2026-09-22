@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Extraction artifacts (cache is regenerable)
+extraction/results/cache/
+
+# Node
+node_modules/
+frontend/.next/
+frontend/out/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Claude Code (session-local settings)
+.claude/
+
+# Vercel (deployment link metadata)
+.vercel/
+
+# Local working notes (kept out of the public repo)
+.notes/

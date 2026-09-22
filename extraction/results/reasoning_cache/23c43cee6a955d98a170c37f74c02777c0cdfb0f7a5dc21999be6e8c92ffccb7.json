@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Großflächige Deformierung ohne Angabe zu Reparaturfähigkeit oder Austausch lässt keine eindeutige Maßnahme zu.",
+ "evidence": "Zusätzlich Schweller rechts betroffen, großflächig deformiert."
+}

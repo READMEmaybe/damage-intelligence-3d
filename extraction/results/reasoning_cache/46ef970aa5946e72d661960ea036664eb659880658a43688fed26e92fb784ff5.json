@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer ohne Lackdurchtritt bei leichtem Schaden spricht für Lackierreparatur statt Austausch.",
+ "evidence": "Stoßstange hinten links ca. 25 cm Kratzer, Lack nicht durch."
+}

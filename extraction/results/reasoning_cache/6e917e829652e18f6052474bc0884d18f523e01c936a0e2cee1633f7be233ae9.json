@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine Eindrückung der Heckklappe, ohne Reparatur oder Austausch ausdrücklich zu nennen oder den Schaden so stark zu beschreiben, dass eine Maßnahme zwingend folgt.",
+ "evidence": "Heckklappe über zwei Bauteile Kunststoff eingedrückt."
+}

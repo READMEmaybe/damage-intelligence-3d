@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Die Notiz beschreibt eine starke Eindrückung, nennt aber keine konkrete Maßnahme für die Stoßstange vorne links.",
+ "evidence": "Auch Stoßstange vorne links beschädigt (stark eingedrückt)."
+}

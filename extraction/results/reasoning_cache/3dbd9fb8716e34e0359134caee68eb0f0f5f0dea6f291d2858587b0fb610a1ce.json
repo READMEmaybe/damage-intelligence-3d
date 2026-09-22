@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Ein durchgebrochenes Bauteil an der Fahrertür ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+ "evidence": "Weiterer Schaden Fahrertür, Bauteil durchgebrochen."
+}

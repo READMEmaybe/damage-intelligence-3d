@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Ein durchgebrochenes Bauteil an der Tür hinten rechts ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+ "evidence": "Weiterer Schaden Tür hinten rechts, Bauteil durchgebrochen."
+}

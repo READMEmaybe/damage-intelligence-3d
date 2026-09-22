@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Leichte Kratzer ohne Lackdurchtrennung deuten auf eine Lackierreparatur hin.",
+ "evidence": "Kotflügel hinten rechts über zwei Bauteile Kratzer, Lack nicht durch."
+}

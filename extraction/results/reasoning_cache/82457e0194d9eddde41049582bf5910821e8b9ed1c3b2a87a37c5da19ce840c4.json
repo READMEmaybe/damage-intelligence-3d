@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Der Außenspiegel ist durchgebrochen und ein Ersatzteil wurde bereits beschafft, was auf Austausch statt Reparatur hindeutet.",
+ "evidence": "Außenspiegel links Bauteil durchgebrochen, ca. 5 cm."
+}

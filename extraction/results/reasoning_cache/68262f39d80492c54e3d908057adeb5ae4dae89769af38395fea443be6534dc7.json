@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Zahlreiche Hageldellen bei intaktem Lack deuten auf eine Dellendrück-/Smart-Repair-Maßnahme hin, nicht auf Austausch.",
+ "evidence": "Heckklappe mit zahlreichen Dellen"
+}

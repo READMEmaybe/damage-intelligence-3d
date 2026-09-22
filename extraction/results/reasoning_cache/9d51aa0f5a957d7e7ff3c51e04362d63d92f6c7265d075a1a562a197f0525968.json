@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Motorhaube wird nur ein punktueller Schaden mit abgerissener Aufnahme beschrieben, ohne dass Reparatur oder Austausch ausdrücklich genannt wird.",
+ "evidence": "Schaden an Motorhaube, Aufnahme abgerissen, punktuell, mehrere Stellen."
+}

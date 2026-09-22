@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren an der Heckklappe deuten auf oberflächlichen Lackschaden hin, der poliert oder lackiert werden kann.",
+ "evidence": "Weiterer Schaden Heckklappe, feine Kratzspuren."
+}

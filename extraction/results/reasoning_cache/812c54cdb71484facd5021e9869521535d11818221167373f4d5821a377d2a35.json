@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Verformter Träger ohne Angabe zu Reparierbarkeit oder Austausch; keine explizite Maßnahme genannt.",
+ "evidence": "Stoßstange vorne Träger verformt, ca. 10 cm."
+}

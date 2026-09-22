@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Tür hinten rechts ist nur eine Druckstelle ohne Angabe zu Reparatur oder Austausch dokumentiert.",
+ "evidence": "Zusätzlich Tür hinten rechts betroffen, Druckstelle."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung von ca. 5 cm an der Stoßstange deutet auf eine instandsetzbare Lackreparatur hin, kein Austauschgrund erkennbar.",
+ "evidence": "Schaden an Stoßstange vorne rechts, Lack abgeplatzt, ca. 5 cm."
+}

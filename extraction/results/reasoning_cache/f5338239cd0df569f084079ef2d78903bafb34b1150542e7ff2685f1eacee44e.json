@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Leichte Kratzer ohne Lackdurchtrennung sind typischerweise durch Lackreparatur behebbar.",
+ "evidence": "Kratzer, Lack nicht durch, ca. 5 cm."
+}

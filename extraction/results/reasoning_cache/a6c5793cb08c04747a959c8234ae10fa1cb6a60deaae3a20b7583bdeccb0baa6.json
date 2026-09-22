@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer im Klarlack bei leichtem Rangierschaden legen eine Lackreparatur nahe, kein Austausch.",
+ "evidence": "Kotflügel vorne rechts: Kratzer im Klarlack, auf ganzer Länge."
+}

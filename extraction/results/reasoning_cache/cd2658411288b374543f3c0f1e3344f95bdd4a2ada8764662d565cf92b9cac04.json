@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Beule an Heckklappe ohne Angabe zu Reparierbarkeit oder Austausch; KVA deutet auf Begutachtung hin.",
+ "evidence": "Kunde bittet um KVA"
+}

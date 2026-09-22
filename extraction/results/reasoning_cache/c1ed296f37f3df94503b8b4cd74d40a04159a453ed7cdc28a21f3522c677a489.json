@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzer an der Stoßstange deuten auf eine oberflächliche Beschädigung hin, die typischerweise durch Lackieren repariert wird.",
+ "evidence": "Zusätzlich Stoßstange vorne rechts betroffen, Lack abgeplatzt."
+}

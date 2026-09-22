@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die vordere rechte Stoßstange ist nur ein Lackriss beschrieben, ohne Hinweis auf Reparatur oder Austausch.",
+ "evidence": "Stoßstange vorne rechts ebenfalls: Riss im Lack."
+}

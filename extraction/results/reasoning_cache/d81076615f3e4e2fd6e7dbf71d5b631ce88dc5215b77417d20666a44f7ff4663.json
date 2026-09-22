@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur einen abgerissenen Aufsatz am Kotflügel, ohne zu klären, ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Schaden an Kotflügel hinten rechts, Aufnahme abgerissen, ca. 5 cm."
+}

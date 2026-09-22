@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle von ca. 3 cm Durchmesser bei leichtem Schaden deutet auf eine instandsetzbare Dellenreparatur hin.",
+ "evidence": "An Stoßstange vorne kleine Delle (ca. 3 cm Durchmesser)."
+}

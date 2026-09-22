@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Steinschlag mit ca. 2 cm großem Einschlag im Sichtfeld des Fahrers (unten Fahrerseite) ist in der Regel nicht mehr fachgerecht reparierbar, sondern erfordert einen Scheibenaustausch.",
+ "evidence": "Windschutzscheibe mit Einschlag ca. 2 cm, Fahrerseite unten."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Hageldellen ohne Angabe zur Reparierbarkeit; ohne Versicherung entscheidet der Kunde nach Preis, daher ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Motorhaube mit mehreren Dellen aus Hagelschlag."
+}

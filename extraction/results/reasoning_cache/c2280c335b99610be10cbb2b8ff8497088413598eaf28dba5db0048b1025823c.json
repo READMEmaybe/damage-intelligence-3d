@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Steinschlag mit 2 cm Einschlag an der Windschutzscheibe liegt über der üblichen Reparaturgrenze und Teile wurden bestellt, was auf Austausch hindeutet.",
+ "evidence": "Teiledienst: Teile bestellt, Nachricht an Dispo"
+}

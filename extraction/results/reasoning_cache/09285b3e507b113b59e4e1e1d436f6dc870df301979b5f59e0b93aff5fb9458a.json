@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle am Kotflügel deutet auf eine instandsetzbare Beschädigung hin, kein Austausch erwähnt.",
+ "evidence": "Kotflügel vorne rechts ca. 40 cm kleine Delle."
+}

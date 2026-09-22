@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Nur eine kleine Delle ohne Angabe zur Reparierbarkeit; KVA soll vorab abgestimmt werden, daher ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Zusätzlich Kotflügel hinten links betroffen, kleine Delle."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Druckstelle an der Fahrertür deutet auf eine instandsetzbare Delle ohne Austauschbedarf hin.",
+ "evidence": "Auch Fahrertür beschädigt (Druckstelle)."
+}

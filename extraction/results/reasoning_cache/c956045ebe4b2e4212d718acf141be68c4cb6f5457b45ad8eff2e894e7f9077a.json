@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Eine gebrochene Halterung an der vorderen Stoßstange legt einen Austausch nahe, da sie meist nicht wirtschaftlich reparierbar ist.",
+ "evidence": "Auch Stoßstange vorne rechts beschädigt (Halterung gebrochen)."
+}

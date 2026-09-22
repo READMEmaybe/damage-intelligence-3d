@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt zahlreiche Dellen am Dach, nennt aber keine konkrete Maßnahme und lässt keine eindeutige Entscheidung zwischen Reparatur und Austausch zu.",
+ "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+}

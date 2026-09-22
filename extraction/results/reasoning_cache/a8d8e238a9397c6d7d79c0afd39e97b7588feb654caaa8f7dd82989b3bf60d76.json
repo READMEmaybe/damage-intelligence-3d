@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kratzer bis auf Grundierung legen Reparatur nahe, aber die Notiz verlangt ausdrücklich eine KVA-Abstimmung vor der Reparatur, ohne die Maßnahme festzulegen.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

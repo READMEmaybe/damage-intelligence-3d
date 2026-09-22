@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Starke Eindrückung beschrieben, aber keine explizite oder eindeutig ableitbare Maßnahme für Reparatur oder Austausch.",
+ "evidence": "Zusätzlich Kotflügel vorne rechts betroffen, stark eingedrückt."
+}

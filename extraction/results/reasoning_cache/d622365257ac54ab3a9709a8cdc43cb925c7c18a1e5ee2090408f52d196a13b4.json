@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur einen Riss im Lack ohne Angabe, ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Auch Kotflügel vorne rechts beschädigt (Riss im Lack)."
+}

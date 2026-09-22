@@ -1,0 +1,8 @@
+{
+ "zone": "Beifahrertür",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Ein gerissenes und loses Teil an der Beifahrertür lässt sich in der Regel nicht instand setzen, sondern muss ersetzt werden.",
+ "evidence": "Beifahrertür ebenfalls: Teil gerissen und lose."
+}

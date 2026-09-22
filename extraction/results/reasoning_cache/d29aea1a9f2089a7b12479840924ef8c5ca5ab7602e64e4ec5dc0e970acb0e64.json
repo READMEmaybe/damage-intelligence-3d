@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Hageldellen an der Heckklappe ohne Angabe zu Reparaturfähigkeit oder Austausch; Dellenkarte noch offen.",
+ "evidence": "Heckklappe übersät mit Dellen, Zählung Dellenkarte offen."
+}

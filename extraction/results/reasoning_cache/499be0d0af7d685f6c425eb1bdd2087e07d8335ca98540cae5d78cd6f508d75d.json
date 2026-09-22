@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Eine gebrochene Halterung an der Stoßstange ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+ "evidence": "Stoßstange hinten rechts ebenfalls: Halterung gebrochen."
+}

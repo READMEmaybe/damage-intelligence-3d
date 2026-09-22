@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Hagelschaden mit zahlreichen Dellen am Dach, aber ohne Angabe zur Reparierbarkeit oder zum Austausch; Dellenkarte noch offen.",
+ "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+}

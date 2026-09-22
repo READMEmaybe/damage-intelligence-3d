@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Mehrere Hageldellen an der Heckklappe, aber keine Angabe zu Reparatur oder Austausch.",
+ "evidence": "Heckklappe mit mehreren Dellen aus Hagelschlag."
+}

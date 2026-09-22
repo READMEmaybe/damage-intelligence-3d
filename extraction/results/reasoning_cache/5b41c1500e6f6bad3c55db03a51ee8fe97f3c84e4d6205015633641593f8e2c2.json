@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Flächiger Hagelschlag mit zahlreichen Dellen bei intaktem Lack deutet auf Dellendrücken (Reparatur) hin.",
+ "evidence": "Hagelschlag flächig, Motorhaube mit zahlreichen Dellen."
+}

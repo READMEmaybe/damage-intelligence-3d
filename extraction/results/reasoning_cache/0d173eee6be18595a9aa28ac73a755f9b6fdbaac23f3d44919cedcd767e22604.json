@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Kunststoff eingedrückt, punktuell, mehrere Stellen – Reparatur oder Austausch nicht eindeutig ableitbar.",
+ "evidence": "Kunststoff eingedrückt, punktuell, mehrere Stellen"
+}

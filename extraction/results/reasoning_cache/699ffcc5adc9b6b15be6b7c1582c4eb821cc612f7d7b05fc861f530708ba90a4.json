@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Steinschlag mit 2 cm Einschlag und wachsender Riss lässt Reparatur oder Austausch zu, aber die Notiz fordert nur KVA-Abstimmung ohne Maßnahme festzulegen.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

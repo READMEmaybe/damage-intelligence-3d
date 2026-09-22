@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle auf ganzer Länge bei leichtem Rangierschaden deutet auf eine instandsetzbare Verformung ohne Austauschbedarf hin.",
+ "evidence": "Kleine Delle an Motorhaube, auf ganzer Länge."
+}

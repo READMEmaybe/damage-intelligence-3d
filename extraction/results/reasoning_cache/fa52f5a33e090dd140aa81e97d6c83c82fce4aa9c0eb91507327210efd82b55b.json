@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Kleine Delle ohne explizite Reparatur- oder Austauschanweisung; KVA soll vorab abgestimmt werden.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

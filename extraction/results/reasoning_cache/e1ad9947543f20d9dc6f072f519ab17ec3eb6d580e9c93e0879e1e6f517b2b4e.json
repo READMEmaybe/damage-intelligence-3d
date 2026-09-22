@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine abgerissene Aufnahme am Kotflügel, ohne Reparatur oder Austausch anzuordnen.",
+ "evidence": "Aufnahme abgerissen an Kotflügel vorne links"
+}

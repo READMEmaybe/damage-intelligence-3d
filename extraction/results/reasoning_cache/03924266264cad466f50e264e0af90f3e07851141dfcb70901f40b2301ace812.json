@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf Grundierung ohne Hinweis auf Austausch oder nicht reparierbare Schäden legen eine Lackierreparatur nahe.",
+ "evidence": "An Stoßstange hinten links Kratzer bis auf Grundierung (auf ganzer Länge)."
+}

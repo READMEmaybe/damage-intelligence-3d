@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Der Spiegel ist stark eingedrückt, aber die Notiz nennt weder Reparatur noch Austausch; ohne weitere Details ist die Maßnahme nicht begründbar.",
+ "evidence": "Außenspiegel links ebenfalls: stark eingedrückt."
+}

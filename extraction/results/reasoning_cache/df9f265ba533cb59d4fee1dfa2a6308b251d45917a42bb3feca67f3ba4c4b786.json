@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange hinten rechts ist nur eine Delle mit Lackschaden beschrieben, ohne Hinweis, ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Auch Stoßstange hinten rechts beschädigt (Delle mit Lackschaden)."
+}

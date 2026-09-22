@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Für das Dach sind nur Hageldellen ohne Angabe zu Reparatur oder Austausch dokumentiert; die Maßnahme ist nicht bestimmbar.",
+ "evidence": "Dach mit mehreren Dellen aus Hagelschlag."
+}

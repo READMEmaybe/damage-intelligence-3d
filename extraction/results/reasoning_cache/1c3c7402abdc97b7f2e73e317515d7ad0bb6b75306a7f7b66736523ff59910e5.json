@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer im Klarlack bei Vandalismus deuten auf eine Lackierreparatur hin, nicht auf Austausch.",
+ "evidence": "Kotflügel hinten rechts: Kratzer im Klarlack, ca. 5 cm."
+}

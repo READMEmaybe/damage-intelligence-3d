@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kratzer bis auf Grundierung ohne Angabe zur Reparierbarkeit; KVA-Abstimmung vor Reparatur erforderlich.",
+ "evidence": "Kratzer bis auf Grundierung an Kotflügel vorne links, auf ganzer Länge."
+}

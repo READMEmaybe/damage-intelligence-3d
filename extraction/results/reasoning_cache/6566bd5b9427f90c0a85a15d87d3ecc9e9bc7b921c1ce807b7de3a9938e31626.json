@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Die Notiz beschreibt einen gerissenen und losen Außenspiegel, nennt aber keine konkrete Maßnahme (Reparatur oder Austausch) für diese Zone.",
+ "evidence": "Außenspiegel links Teil gerissen und lose, ca. 40 cm."
+}

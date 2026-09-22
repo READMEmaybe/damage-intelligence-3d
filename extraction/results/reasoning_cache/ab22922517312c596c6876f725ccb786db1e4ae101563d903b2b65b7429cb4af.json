@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Die Notiz erwähnt bestellte Teile und ein eingetroffenes Ersatzteil, was auf einen Austausch des Kotflügels hindeutet.",
+ "evidence": "Teile bestellt, Nachricht an Dispo"
+}

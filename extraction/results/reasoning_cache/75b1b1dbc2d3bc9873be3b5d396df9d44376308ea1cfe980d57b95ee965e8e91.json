@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange hinten rechts ist nur 'Lack abgeplatzt' beschrieben, ohne dass Reparatur oder Austausch ausdrücklich angeordnet wird.",
+ "evidence": "Lack abgeplatzt an Stoßstange hinten rechts, über zwei Bauteile."
+}

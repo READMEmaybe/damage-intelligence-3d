@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Delle mit Lackschaden lässt Reparatur oder Austausch zu, die Notiz nennt für den Kotflügel keine konkrete Maßnahme.",
+ "evidence": "Kotflügel vorne rechts punktuell, mehrere Stellen Delle mit Lackschaden."
+}

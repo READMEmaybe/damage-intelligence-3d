@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Schweller rechts wird nur eine Beule ohne Angabe zur Reparierbarkeit beschrieben; der Hinweis 'Austausch statt Instandsetzung' bezieht sich auf den Außenspiegel.",
+ "evidence": "Schweller rechts Beule, ca. 15 cm."
+}

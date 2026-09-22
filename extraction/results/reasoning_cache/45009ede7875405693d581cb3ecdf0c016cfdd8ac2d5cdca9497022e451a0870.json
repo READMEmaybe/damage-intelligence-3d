@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Tür hinten rechts wird nur eine eingedrückte Kunststoffstelle ohne Angabe zu Reparaturfähigkeit oder Austausch genannt.",
+ "evidence": "Weiterer Schaden Tür hinten rechts, Kunststoff eingedrückt."
+}

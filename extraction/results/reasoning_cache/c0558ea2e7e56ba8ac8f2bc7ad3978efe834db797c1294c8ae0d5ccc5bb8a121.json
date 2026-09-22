@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung bei schwerem Vandalismusschaden legt einen Austausch des Türblatts nahe.",
+ "evidence": "Weiterer Schaden Tür hinten rechts, großflächig deformiert."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Ein 40 cm langer Lackriss lässt weder eindeutig auf Reparatur noch auf Austausch schließen.",
+ "evidence": "Kotflügel hinten rechts ca. 40 cm Riss im Lack."
+}

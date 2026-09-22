@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren von ca. 5 cm deuten auf einen leichten, lackierbaren Schaden hin, der repariert werden kann.",
+ "evidence": "Kotflügel hinten rechts feine Kratzspuren, ca. 5 cm."
+}

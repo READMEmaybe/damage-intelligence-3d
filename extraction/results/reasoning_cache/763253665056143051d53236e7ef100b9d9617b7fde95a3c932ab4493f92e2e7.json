@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange vorne rechts ist nur eine Druckstelle über zwei Bauteile beschrieben, ohne dass Reparatur oder Austausch ausdrücklich angeordnet wird.",
+ "evidence": "Stoßstange vorne rechts: Druckstelle, über zwei Bauteile."
+}

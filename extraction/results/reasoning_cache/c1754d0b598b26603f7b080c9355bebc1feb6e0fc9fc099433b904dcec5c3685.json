@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt eine starke Eindellung, aber ohne Angabe zur Reparierbarkeit oder explizite Anweisung ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "stark eingedrückt, ca. 3 cm Durchmesser"
+}

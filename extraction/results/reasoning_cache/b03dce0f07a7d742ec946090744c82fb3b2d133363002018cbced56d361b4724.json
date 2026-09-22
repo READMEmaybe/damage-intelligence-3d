@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung ohne Strukturschaden deutet auf eine Reparatur (Lackierung) hin.",
+ "evidence": "Weiterer Schaden Kotflügel hinten links, Lack abgeplatzt."
+}

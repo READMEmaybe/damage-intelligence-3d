@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den vorderen linken Kotflügel ist nur eine gebrochene Halterung genannt, ohne Angabe ob Reparatur oder Austausch möglich ist.",
+ "evidence": "Zusätzlich Kotflügel vorne links betroffen, Halterung gebrochen."
+}

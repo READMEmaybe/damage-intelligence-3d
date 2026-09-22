@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Handtellergroßer Riss und loses Teil an der Tür deuten auf nicht mehr reparierbaren Schaden hin, Austausch naheliegend.",
+ "evidence": "Teil gerissen und lose an Tür hinten rechts, handtellergroß."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Druckstelle ohne Hinweis auf Bruch oder Austauschbedarf spricht für Reparatur.",
+ "evidence": "Stoßstange hinten links: Druckstelle, ca. 5 cm."
+}

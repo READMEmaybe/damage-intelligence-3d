@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden am Dach bei intaktem Lack deutet auf Dellendrücken ohne Lackschaden hin, was typischerweise reparabel ist.",
+ "evidence": "Hagel: Dach betroffen, Lack laut Sichtprüfung intakt."
+}

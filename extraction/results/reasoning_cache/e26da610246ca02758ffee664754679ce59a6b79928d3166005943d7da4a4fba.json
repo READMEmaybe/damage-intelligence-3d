@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Beule ohne genannte schwerwiegende Schäden deutet auf Reparatur hin, zumal der Kunde Smart Repair anfragt.",
+ "evidence": "Weiterer Schaden Stoßstange vorne rechts, Beule."
+}

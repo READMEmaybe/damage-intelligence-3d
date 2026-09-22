@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Abgerissene Aufnahme auf ganzer Länge an der Heckklappe deutet auf nicht mehr reparierbaren Befestigungspunkt hin.",
+ "evidence": "Aufnahme abgerissen an Heckklappe, auf ganzer Länge."
+}

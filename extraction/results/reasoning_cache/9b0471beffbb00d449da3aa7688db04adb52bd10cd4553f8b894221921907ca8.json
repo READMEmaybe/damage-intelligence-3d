@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren (handtellergroß) bei leichtem Schaden deuten auf eine Lackreparatur hin, kein Austausch erforderlich.",
+ "evidence": "An Kotflügel hinten rechts feine Kratzspuren (handtellergroß)."
+}

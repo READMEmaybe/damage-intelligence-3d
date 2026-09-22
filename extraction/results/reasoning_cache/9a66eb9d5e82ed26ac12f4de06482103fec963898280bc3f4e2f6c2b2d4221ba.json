@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur einen Lackriss am Kotflügel hinten rechts, ohne Reparatur oder Austausch anzuordnen.",
+ "evidence": "Auch Kotflügel hinten rechts beschädigt (Riss im Lack)."
+}

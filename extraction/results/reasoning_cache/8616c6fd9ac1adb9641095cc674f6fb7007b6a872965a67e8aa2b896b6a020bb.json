@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Flächige Hageldellen ohne Lackschaden sind typischerweise per Ausbeulen instandsetzbar.",
+ "evidence": "Hagelschlag flächig, Heckklappe mit zahlreichen Dellen."
+}

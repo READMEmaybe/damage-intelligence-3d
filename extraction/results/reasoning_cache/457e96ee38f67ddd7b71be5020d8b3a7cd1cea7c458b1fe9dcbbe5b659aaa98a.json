@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hageldellen bei intaktem Lack sind typischerweise ausbeulbar (Smart Repair), kein Austausch erforderlich.",
+ "evidence": "Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt."
+}

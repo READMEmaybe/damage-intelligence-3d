@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur abgeplatzten Lack ohne Angabe, ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Lack abgeplatzt an Stoßstange vorne, ca. 40 cm."
+}

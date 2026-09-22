@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Delle mit Lackschaden ist ein typischer, instandsetzbarer Schaden ohne Hinweis auf Austausch.",
+ "evidence": "Zusätzlich Kotflügel hinten rechts betroffen, Delle mit Lackschaden."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Druckstelle ohne Angabe zu Reparaturfähigkeit oder Austausch; nach Zerlegung soll nachkalkuliert werden.",
+ "evidence": "Nach Zerlegung nachkalkulieren."
+}

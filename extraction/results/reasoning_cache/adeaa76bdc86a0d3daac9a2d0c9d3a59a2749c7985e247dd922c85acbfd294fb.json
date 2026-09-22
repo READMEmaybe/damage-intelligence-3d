@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Schrammen bei leichtem Parkschaden deuten auf eine oberflächliche Lackbeschädigung hin, die typischerweise repariert wird.",
+ "evidence": "Tür hinten links ebenfalls: Schrammen."
+}

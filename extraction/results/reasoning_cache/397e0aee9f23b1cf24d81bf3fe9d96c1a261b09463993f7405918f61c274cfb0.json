@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel ist nur 'Träger verformt' beschrieben, ohne Angabe ob Reparatur oder Austausch möglich ist.",
+ "evidence": "Weiterer Schaden Kotflügel vorne links, Träger verformt."
+}

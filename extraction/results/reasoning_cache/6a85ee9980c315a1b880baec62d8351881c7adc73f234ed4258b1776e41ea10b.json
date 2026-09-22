@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine abgerissene Aufnahme an der Heckklappe, ohne zu klären, ob eine Reparatur möglich oder ein Austausch nötig ist.",
+ "evidence": "Heckklappe ebenfalls: Aufnahme abgerissen."
+}

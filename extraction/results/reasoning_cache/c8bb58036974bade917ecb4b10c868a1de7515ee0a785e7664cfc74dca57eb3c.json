@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichter Kratzer im Klarlack ist typischerweise polier- bzw. lackierbar, kein Austausch nötig.",
+ "evidence": "Auch Kotflügel hinten links beschädigt (Kratzer im Klarlack)."
+}

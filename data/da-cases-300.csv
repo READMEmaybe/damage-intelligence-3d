@@ -1,0 +1,300 @@
+id,created_at,updated_at,canceled_at,in_open_list,completion_date_time,reparation_start_date_time,reparation_end_date_time,vehicle_id,contact_id,license_plate,vehicle_identification_number,manufacturer,model,model_type,first_registration,mileage,company,salutation_id,first_name,last_name,street,zip_code,city,email,phone,customer_number,state_id,state_name,state_category,state_ids,order_count,order_numbers,insurer_id,is_huk_relevant,workshop_task_count,work_load_total,gt_case_type,gt_case_kind,gt_zones,gt_severity,gt_insurance_type,gt_lifecycle_stage,freitext
+852719,2026-03-21 14:24:01,2026-04-01 07:35:37,,true,2026-03-31 17:35:37,2026-03-27 12:18:44,2026-03-31 15:18:44,118381,148527,QQL-EG 396,ZZH05BYC0RH274567,VW,Tiguan,5N,2014-05-01,229651,,2,Tobias,Vogt,Kiefernweg 118,99084,Erfurt,tobias.vogt32@example.net,+49 (0)175 7380338,387413,12,👍 Fertig zur Abholung,Vorgangsstatus,12|926|612,3,169348|234173|074513,,false,4,137,service,Inspektion,,,,fertig,"VW Tiguan, QQL-EG 396, km 229651
+Inspektion: Große Inspektion inkl. Innenraumfilter.
+Scheibenwischer schmieren, bitte erneuern.
+Rückruf erwünscht bevor zusätzliche Arbeiten.
+Termin steht, Dauer ca. 2 Tage."
+897113,2026-02-08 17:26:59,2026-03-05 22:43:03,,false,2026-03-05 12:43:03,2026-03-03 16:58:09,2026-03-03 21:58:09,129798,159821,XQM-S 510,ZZBJ4PV24X0314218,VW,Golf,5H,2012-05-17,287999,,,Klaus,Graf,An der Bleiche 6,53111,Bonn,,+49 151 8775617,977523,9,🏁 Abgeholt,Vorgangsstatus,9|238|613,0,,,false,2,90,service,Räder und Reifen,,,,abgeschlossen,"VW Golf, XQM-S 510
+Räder und Reifen: Neue Reifen hinten, Kostenangebot Reifen erwünscht.
+Batterie schwach, Startprobleme morgens.
+Kunde wartet, bitte zügig. Fzg. bleibt über Nacht da.
+~~~~~~~~~~~~~
+15.02.26 21:26 SB: Rechnung geschrieben"
+847039,2026-02-03 07:50:38,2026-02-05 21:27:19,,true,,2026-02-05 15:27:19,,113510,155711,QQA-CW 5800,ZZC766YD8SZ385627,Ford,Fiesta,JHH,2015-04-25,269227,,1,Markus,Kliemann,Lerchenstrasse 43,06108,Halle (Saale),markus.kliemann@example.de,0174 2927420,203189,18,☢️ Auftrag steht ☢️,Vorgangsstatus,18|184|1249,1,007593,,false,1,11,service,HU/AU,,,,laufend,"Ford Fiesta, QQA-CW 5800, km 269227
+Kunde meldet: TÜV/HU mit Abgasuntersuchung.
+Batterie schwach, Startprobleme morgens.
+Bitte anrufen wenn mehr anfällt als besprochen.
+Termin nach Teileeingang.
+~~~~~~~~~~~~~
+08.02.26 12:50 Lack: Kalkulation fertig, an Prüfer
+13.02.26 17:50 Teiledienst: Fzg. gewaschen, abholbereit"
+842879,2026-02-09 11:26:59,2026-02-17 12:58:57,,true,2026-02-16 14:58:57,2026-02-11 11:36:02,2026-02-13 16:36:02,126851,158658,QQZ-LD 1,ZZCNDUXH9X7882534,Ford,Focus Turnier,DEH,2024-11-15,12686,,1,Marco,Beck,Rosmarinweg 74,06108,Halle (Saale),,+49 178 1639644,054093,1153,👆🚚 Bringservice mit Folgetermin,Vorgangsstatus,1153|398|101|996,2,294866|556378,,false,4,251,service,HU/AU,,,,fertig,"Fzg. vorgefahren, HU/AU fällig, bitte mit Vorabcheck.
+Bitte anrufen wenn mehr anfällt als besprochen.
+Kunde ist informiert, meldet sich.
+~~~~~~~~~~~~~
+10.02.26 14:26 TS: Leihwagen reserviert"
+860796,2026-03-05 10:44:02,2026-03-06 03:44:02,,true,,,,127386,158884,QQD-TL 7555,ZZG0UFGF3V2702042,Audi,A4 Avant,8W,2019-06-04,149906,,1,Maria,Stein,Am Muehlbach 138,95444,Bayreuth,maria.stein76@example.de,0155 0234368,106389,28,❓Termin unsicher,Vorgangsstatus,28|396|2|998,1,968834,,false,1,77,service,HU/AU,,,,neu,"Lt. Kunde: TÜV/HU mit Abgasuntersuchung.
+Kunde holt am Abend ab. Abholung durch Kunde am Nachmittag."
+862377,2026-08-10 16:18:33,2026-09-07 16:01:19,,false,2026-09-07 13:01:19,2026-09-02 07:53:46,2026-09-05 14:53:46,100110,138733,ZQB-G 7,ZZBTY5VE1VE930339,BMW,X1,U11,2018-07-25,90927,,,Florian,Krause,Espenstrasse 124,86150,Augsburg,,+49 152 4619737,486964,36,🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen,Vorgangsstatus,36|392,2,240006|258467,,false,3,172,service,Räder und Reifen,,,,abgeschlossen,"Kunde kommt ohne Termin, Räderwechsel mit Wuchten, Reifendruck prüfen.
+Kunde ist informiert, meldet sich."
+885968,2026-06-24 15:24:31,2026-07-10 05:51:46,,true,,2026-07-09 09:51:46,,128467,152966,XQE-AV 89,ZZB731F52X5592055,Audi,Q2,GA,2022-09-24,26841,,2,Elke,Wendt,Akazienweg 46,34117,Kassel,,+49 173 7935959,396994,157,🛒MECHANIK Teile vorab bestellen!,Vorgangsstatus,157|1308,1,628960,,false,0,0,service,HU/AU,,,,laufend,"Kunde meldet: TÜV/HU mit Abgasuntersuchung.
+Servicerückstellung nicht erfolgt, bitte mitmachen.
+Leihwagen ja.
+Ersatzteil im Rückstand, Kunde informiert.
+~~~~~~~~~~~~~
+29.06.26 19:24 A. Kaiser: Leihwagen reserviert"
+865479,2026-06-18 08:33:53,2026-06-18 22:33:53,,true,,,,115098,134014,QQC-UA 37,ZZJHSDDD6RM356086,Audi,A1 Sportback,GB,2017-06-12,203153,,,Yvonne,Wendt,Veilchenweg 91,60313,Frankfurt am Main,yvonne.wendt@example.org,+49 (0)155 3905123,493799,1559,"🔧📞 Mechanik Termin bitte vereinbaren /Teile, Freigabe eingetroffen",Vorgangsstatus,1559|236|406|499,1,879727,,false,0,0,service,Räder und Reifen,,,,neu,"Räder und Reifen: Räderwechsel mit Wuchten, Reifendruck prüfen.
+Bitte Softwarestand prüfen, Rückruf offen.
+Kunde wünscht Kostenrahmen vorab.
+Fotos liegen im Vorgang."
+849692,2026-01-18 13:57:00,2026-01-19 22:57:00,,true,,,,120932,145629,XQ-P 8707,ZZHY49LD9VF566321,Mercedes,GLC,X254,2022-06-21,99756,,,Sven,Kaiser,Lerchenstrasse 101,79098,Freiburg,sven_kaiser@example.com,0162 8565390,748702,1480,Hagel Termin vereinbaren !,Vorgangsstatus,1480|236|110,1,127624,,false,2,135,service,Bremsen,,,,neu,"Mercedes GLC, XQ-P 8707, km 99756
+Bei der Annahme festgestellt: Bremsbeläge vorne unter Mindeststärke.
+Batterie schwach, Startprobleme morgens.
+Rückruf erwünscht bevor zusätzliche Arbeiten. Abholung durch Kunde am Nachmittag.
+Bitte Wiedervorlage in einer Woche.
+~~~~~~~~~~~~~
+20.01.26 14:57 TS: Leihwagen reserviert
+22.01.26 17:57 S. Lang: KD informiert, Termin steht"
+834726,2026-05-05 16:28:47,2026-05-06 13:28:47,,true,,,,123228,142914,QQN-JC 1499,ZZBUFFVB2SA630267,Ford,Kuga,CX482,2014-07-13,86994,,,Hannah,Hartmann,Am Alten Sportplatz 103,33098,Paderborn,hhartmann@example.com,+49 176 6326418,241218,88,🙂Vorgang angelegt,Vorgangsstatus,88|949|1080|501,1,159078,104,false,4,109,damage,Vandalismus,Kotflügel hinten rechts|Fahrertür|Kotflügel vorne rechts,leicht,vollkasko,neu,"Kunde meldet: Vandalismus, Schaden am 04.05. entdeckt. Kotflügel hinten rechts: Kratzer im Klarlack, ca. 5 cm.
+Fahrertür ebenfalls: feine Kratzspuren.
+Auch Kotflügel vorne rechts beschädigt (Kratzer im Klarlack).
+Kunde möchte Fzg. bis Monatsende zurück. Kunde wartet vor Ort.
+Vollkasko, SB 500 EUR, Schadenmeldung raus.
+Nach Zerlegung nachkalkulieren.
+~~~~~~~~~~~~~
+11.05.26 16:28 Servicebüro: Kalkulation fertig, an Prüfer
+18.05.26 19:28 A. Thiel: Freigabe Versicherung eingetroffen
+19.05.26 22:28 A. Thiel: KD informiert, Termin steht"
+854904,2026-02-03 17:14:38,2026-02-11 07:54:55,,true,2026-02-10 07:54:55,2026-02-04 17:53:23,2026-02-10 00:53:23,122474,137063,QX-Y 27,ZZE9595G9X9062746,VW,Touran,5T,2021-03-20,101016,Kieswerk Bau GmbH & Co. KG,3,,,Espenstrasse 113,12587,Berlin,kontakt_hartmann@example.com,+49 151 8838512,182359,12,👍 Fertig zur Abholung,Vorgangsstatus,12|1010|1085|1605|612|1173,0,,,false,1,63,damage,Parkschaden,Heckklappe,mittel,haftpflicht_gegner,fertig,"VW Touran, QX-Y 27, km 101016
+Kunde berichtet: Parkschaden, Schaden am 26.01. entdeckt. Schaden an Heckklappe, Kunststoff eingedrückt, handtellergroß.
+Kunde bittet um Rückruf bis Freitag. Kunde wartet vor Ort.
+Gegnerische Haftpflicht reguliert, Haftung anerkannt.
+Bitte Lackabgleich, Farbton prüfen.
+~~~~~~~~~~~~~
+04.02.26 18:14 K. Brandt: Rechnung geschrieben"
+844782,2026-06-26 15:20:11,2026-06-28 03:20:11,2026-06-26 08:33:30,false,,,,106438,134942,XQM-P 4774,ZZD08XL9XR9610754,Ford,Transit Custom,V362,2012-05-17,293483,,3,Sven,Krause,Zedernweg 101,55116,Mainz,skrause@example.net,0177 2936198,348038,35,☹️Absage Termin,Vorgangsstatus,35|484|611,2,509987|367370,,false,2,82,service,Räder und Reifen,,,,storniert,"Kunde bringt Fzg., Räderwechsel Sommer auf Winter, Einlagerung vorhanden.
+Kunde holt am Abend ab.
+~~~~~~~~~~~~~
+02.07.26 16:20 Servicebüro: Freigabe Versicherung eingetroffen"
+849332,2026-06-28 12:50:22,2026-06-30 02:50:22,2026-06-28 14:12:53,false,,,,120339,150176,QQE-A 420,ZZCSZYWX4WJ837345,Ford,Focus Turnier,DEH,2023-07-26,73068,,2,Andreas,Ziegler,Nelkenstrasse 81,20359,Hamburg,andreas.ziegler@example.org,0162/9349930,788652,40,❌ Auftrag storniert,Vorgangsstatus,40|394|438|1172,1,757096,,false,0,0,service,Inspektion,,,,storniert,"Anruf Kunde: Inspektion nach Herstellervorgabe.
+Batterie schwach, Startprobleme morgens.
+Kunde wartet, bitte zügig. Abholung durch Kunde am Nachmittag.
+Ersatzteil im Rückstand, Kunde informiert.
+~~~~~~~~~~~~~
+05.07.26 13:50 Lack: Fzg. gewaschen, abholbereit"
+868499,2026-03-07 12:33:32,2026-03-17 16:17:02,,true,,2026-03-16 15:17:02,,116609,150300,XQM-VW 5250,ZZHL0BZ17T6801824,Seat,Leon,KL1,2013-03-02,262561,,,Elke,Krause,Birkenweg 36,40213,Duesseldorf,,+49 160 5686643,222515,18,☢️ Auftrag steht ☢️,Vorgangsstatus,18|394|486|50,1,278201,,false,1,32,service,HU/AU,,,,laufend,"Kunde meldet: TÜV Termin, Fzg. vorher durchsehen.
+Rückruf erwünscht bevor zusätzliche Arbeiten. Leihwagen ja, Hol- und Bringservice ja.
+Termin nach Teileeingang.
+~~~~~~~~~~~~~
+09.03.26 17:33 Dispo: Endkontrolle offen
+11.03.26 17:33 Lack: Leihwagen reserviert"
+823107,2026-03-27 16:13:43,2026-03-28 20:13:43,,true,,,,107493,140217,XQE-ST 64,ZZGTLNLH9YT526579,Ford,Focus Turnier,DEH,2025-08-07,14442,,2,Florian,Frank,Am Muehlbach 57,34117,Kassel,florian.frank17@example.org,0175 0671551,300731,436,👋 Termin bitte vereinbaren /Teile/Freigabe/etc. eingetroffen,Vorgangsstatus,436|937|1084|1598,1,352969,128,false,1,59,damage,Auffahrunfall,Kotflügel vorne links,mittel,haftpflicht_gegner,neu,"KD meldet telefonisch: Auffahrunfall, Unfall am 22.03. Kotflügel vorne links: Riss im Lack, ca. 3 cm Durchmesser.
+Bitte KVA vor Reparatur abstimmen.
+Gegnerische Haftpflicht reguliert, Haftung anerkannt.
+Teile bestellt, Liefertermin offen.
+~~~~~~~~~~~~~
+03.04.26 18:13 Lack: Rückruf nicht erreicht, Mailbox"
+843691,2026-01-05 08:13:05,2026-01-20 18:34:08,,false,2026-01-19 17:34:08,2026-01-15 09:50:18,2026-01-18 12:50:18,118392,145598,QX-R 808,ZZC4P1JT9RB265102,Ford,Focus Turnier,DEH,2014-06-25,139539,,,Dirk,Scholz,Zedernweg 11,34117,Kassel,dscholz@example.de,0177 4003778,254994,121,abgerechnet ! Auftrag erledigt abgeschlossen,Vorgangsstatus,121|395|45,1,400146,,false,2,83,service,Räder und Reifen,,,,abgeschlossen,"Räder und Reifen: Räderwechsel Sommer auf Winter, Einlagerung vorhanden.
+Kontrollleuchte Reifendruck ist an.
+Rückruf erwünscht bevor zusätzliche Arbeiten.
+~~~~~~~~~~~~~
+09.01.26 11:13 Teiledienst: Fzg. in Halle, Zerlegung begonnen
+11.01.26 16:13 N. Herrmann: Teile bestellt, Nachricht an Dispo
+18.01.26 18:13 Lack: Fzg. gewaschen, abholbereit"
+854758,2026-04-21 12:29:00,2026-05-13 07:49:19,,true,,2026-05-12 17:49:19,,105783,152175,ZQL-W 41,ZZHZN5994VF650687,BMW,5er Limousine,G30,2026-06-20,9216,,2,Michael,Lang,Quittenweg 81,79098,Freiburg,michael.lang@example.org,+49 (0)175 3053968,792650,11,👽💣Rückstand ohne Termin! Teilerückstand Fzg. bei uns,Vorgangsstatus,11|236|648|1449,1,233913,,false,2,132,service,Bremsen,,,,laufend,"Bremsen: Bremsscheiben hinten riefig, Kunde meldet Rubbeln.
+Kunde meldet Vibration ab 120 km/h.
+Bitte anrufen wenn mehr anfällt als besprochen.
+~~~~~~~~~~~~~
+24.04.26 14:29 SB: Rechnung geschrieben"
+828503,2026-03-27 16:42:44,2026-04-19 01:24:30,,false,2026-04-18 14:24:30,2026-04-16 08:36:31,2026-04-16 14:36:31,125830,152883,QY-T 5916,ZZAX03HH6X7116671,Ford,Fiesta,JHH,2020-06-25,102857,Nordlicht Bau GmbH & Co. KG,3,Elena,Berger,Veilchenweg 78,10247,Berlin,elena.berger@example.org,0174 0735730,473377,36,🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen,Vorgangsstatus,36|1563|1585|1605,2,914517|068621,134,true,1,36,damage,Parkschaden,Kotflügel hinten rechts,mittel,gesteuert,abgeschlossen,"Kunde kommt ohne Termin, Parkschaden, Verursacher unbekannt. Kotflügel hinten rechts: Halterung gebrochen, ca. 25 cm.
+Kunde möchte wissen ob Instandsetzung reicht. Leihwagen ja.
+Gesteuerter Auftrag, RKÜ liegt noch nicht vor.
+Beilackierung notwendig.
+Steuerung: ungesteuert.
+~~~~~~~~~~~~~
+29.03.26 16:42 Karosserie: Ersatzteil eingetroffen, Termin vereinbaren
+02.04.26 16:42 R. Hahn: KV an Kunde verschickt
+05.04.26 17:42 R. Hahn: Rechnung geschrieben"
+898942,2026-04-08 11:05:00,2026-04-30 18:36:01,,true,,2026-04-30 14:36:01,,118514,148093,QQA-S 338,ZZHU2YLT3VD615630,Skoda,Fabia,PJ,2024-03-10,30211,Nordlicht Handel OHG,,,,Zedernweg 47,63065,Offenbach am Main,,0152/9774379,286757,17,♻️In Bearbeitung,Vorgangsstatus,17|946|997|50,1,570395,121,true,3,140,damage,Vandalismus,Fahrertür|Stoßstange hinten,mittel,teilkasko,laufend,"Kunde bringt Fzg., Vandalismus, Kunde hat Anzeige aufgenommen. Fahrertür Beule, punktuell, mehrere Stellen.
+Weiterer Schaden Stoßstange hinten, Delle mit Lackschaden.
+Kunde fragt nach Reparaturdauer.
+Teilkasko läuft, SB laut Police 300 EUR.
+Fzg. steht auf dem Hof.
+Versicherung: Blauberg Allgemeine, Schadennr. 08802557."
+873135,2026-06-16 14:43:49,2026-07-01 01:48:21,,false,2026-06-30 13:48:21,2026-06-24 08:46:49,2026-06-28 14:46:49,108805,146210,QQN-YA 75,ZZDD7L3C3RK518645,Skoda,Karoq,NU7,2020-12-23,77546,,,Elena,Lorenz,Erlenkamp 88,20359,Hamburg,elena.lorenz@example.net,+49 172 5289853,393734,36,🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen,Vorgangsstatus,36|180,1,582228,,false,2,56,service,HU/AU,,,,abgeschlossen,"Skoda Karoq, QQN-YA 75, km 77546
+HU/AU: TÜV/HU mit Abgasuntersuchung.
+Bitte Softwarestand prüfen, Rückruf offen.
+Kunde holt am Abend ab.
+Fotos liegen im Vorgang."
+847310,2026-04-12 10:06:09,2026-04-16 18:19:42,,true,,2026-04-15 07:19:42,,116782,133494,XQR-GW 2,ZZAFWSZ63XY342422,Seat,Arona,KJ7,2014-02-23,154922,,3,Helmut,Martens,Malvenweg 54,93047,Regensburg,,+49 (0)173 2181785,563164,106,😊📲Kunde erreicht DSA/Bilder angefordert,Vorgangsstatus,106|484,1,686473,,false,0,0,service,Räder und Reifen,,,,laufend,"KD meldet telefonisch: Räderwechsel Sommer auf Winter, Einlagerung vorhanden.
+Klimaanlage kühlt schlecht, bitte prüfen.
+Bitte anrufen wenn mehr anfällt als besprochen. Ersatzwagen geklärt, Klasse klein.
+Teile bestellt, Liefertermin offen.
+~~~~~~~~~~~~~
+18.04.26 14:06 TS: Rechnung geschrieben
+19.04.26 18:06 Servicebüro: Nachtrag: Kunde bittet um Verschiebung
+21.04.26 19:06 SB: Kunde meldet sich wegen Termin"
+830928,2026-06-22 09:05:04,2026-07-16 03:50:03,,true,,2026-07-15 14:50:03,,104350,139372,QX-N 83,ZZE8G8R02XG007063,Seat,Leon,KL1,2017-07-03,130371,Lindenhof Malerbetrieb OHG,,,,Tannenweg 52,10247,Berlin,,0159 5366256,307292,11,👽💣Rückstand ohne Termin! Teilerückstand Fzg. bei uns,Vorgangsstatus,11|954|1585|1596|597|1266|497,2,633793|594548,109,true,1,65,damage,Auffahrunfall,Stoßstange hinten rechts,mittel,gesteuert,laufend,"Fzg. angeliefert, Auffahrunfall, Hergang lt. Kunde unklar. Stoßstange hinten rechts Halterung gebrochen, ca. 25 cm.
+Bitte KVA vor Reparatur abstimmen. Kunde wartet vor Ort.
+Steuerung über Flottenpartner, Freigabe schriftlich nötig.
+Kunde ist informiert, meldet sich.
+Steuerung: Flottenpartner Nord.
+~~~~~~~~~~~~~
+30.06.26 11:05 U. Berger: Rechnung geschrieben"
+855940,2026-06-21 14:58:10,2026-07-01 17:23:16,,false,2026-07-01 12:24:13,2026-06-28 07:23:16,2026-07-01 15:23:16,101928,159606,QQV-ME 100,ZZJ10EJG6XR934621,BMW,5er Limousine,G30,2012-08-11,253841,,1,Susanne,Lehmann,Kastanienallee 76,30655,Hannover,susanne.lehmann37@example.de,+49 (0)152 0993029,717385,41,🛑 Wartet auf Abholung durch Verwerter/Leasing/sonstige,Vorgangsstatus,41|392|406|999,1,529808,,false,1,38,service,HU/AU,,,,abgeschlossen,"Kunde kommt ohne Termin, HU/AU fällig, bitte mit Vorabcheck.
+Klimaanlage kühlt schlecht, bitte prüfen.
+Kunde bittet um Kostenvoranschlag.
+~~~~~~~~~~~~~
+24.06.26 19:58 Annahme: Freigabe Versicherung eingetroffen
+30.06.26 21:58 M. Haas: KD informiert, Termin steht
+08.07.26 01:58 M. Haas: Ersatzteil eingetroffen, Termin vereinbaren"
+857332,2026-06-25 14:45:45,2026-07-22 19:11:33,,true,2026-07-21 17:11:33,2026-07-16 09:25:11,2026-07-21 10:25:11,106373,145814,ZQD-EZ 8,ZZDJ4ZHJ5WD306030,VW,Tiguan,5N,2014-10-13,173442,,3,Uwe,Lehmann,Wacholderweg 76,80331,Muenchen,uwe.lehmann@example.org,+49 (0)151 6803298,281857,38,👍 🔜Fertig zur Abholung mit Folgetermin,Vorgangsstatus,38|956|598|499,2,301172|037404,113,true,1,42,damage,Parkschaden,Motorhaube,mittel,haftpflicht_gegner,fertig,"Kunde kommt ohne Termin, Parkschaden, Kunde hat Fotos gemacht. Kunststoff eingedrückt an Motorhaube, punktuell, mehrere Stellen.
+Kunde bittet um Rückruf bis Freitag. Leihwagen ja, Hol- und Bringservice ja.
+Haftpflicht Gegner, Schadennummer liegt vor.
+Fotos liegen im Vorgang.
+~~~~~~~~~~~~~
+03.07.26 18:45 Annahme: Fzg. in Halle, Zerlegung begonnen
+09.07.26 21:45 S. Martens: Rückruf nicht erreicht, Mailbox
+12.07.26 22:45 Servicebüro: Kalkulation fertig, an Prüfer"
+850023,2026-04-23 15:36:17,2026-05-13 22:04:58,,true,,2026-05-13 07:04:58,,118449,155948,QQN-X 741,ZZEBC41B5VM225665,Mercedes,Sprinter,W907,2014-02-19,167246,,,Nadine,Heinrich,Zedernweg 23,52062,Aachen,nheinrich@example.com,0162 0855558,510074,435,🕋🤔Antwort Versicherer/GA/Leasing/Kunde fehlt,Vorgangsstatus,435|958|1585|480|99,2,526883|237194,117,false,1,12,damage,Hagelschaden,Dach|Motorhaube|Heckklappe,mittel,teilkasko,laufend,"Anruf Kunde: Hagelschaden, Schaden erst später bemerkt. Dach mit mehreren Dellen aus Hagelschlag.
+Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt.
+Hagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.
+Kunde bittet um Rückruf bis Freitag.
+Teilkasko läuft, SB laut Police 300 EUR.
+Termin steht, Dauer ca. 2 Tage.
+~~~~~~~~~~~~~
+29.04.26 19:36 SB: Fzg. gewaschen, abholbereit
+08.05.26 00:36 Servicebüro: Teile bestellt, Nachricht an Dispo"
+843725,2026-06-28 13:15:24,2026-07-13 03:10:19,,false,2026-07-12 14:10:19,2026-07-08 15:42:45,2026-07-10 18:42:45,123990,147942,XQM-G 835,ZZAKCTF46XN975336,Skoda,Fabia,PJ,2022-01-12,53886,,3,Elke,Moser,Kastanienallee 17,06108,Halle (Saale),elke_moser@example.com,0151/7053882,499108,721,🌝 Fzg angekauft,Vorgangsstatus,721|1139,0,,,false,1,42,damage,Parkschaden,Motorhaube,mittel,haftpflicht_gegner,abgeschlossen,"Fzg. angeliefert, Parkschaden, kein Zettel hinterlassen. Kunststoff eingedrückt an Motorhaube, ca. 3 cm Durchmesser.
+Kunde fragt nach Smart Repair. Kunde wartet vor Ort.
+Haftpflicht Gegner, Gutachter beauftragt.
+Bitte Lackabgleich, Farbton prüfen.
+~~~~~~~~~~~~~
+01.07.26 14:15 P. Frank: Fzg. gewaschen, abholbereit"
+866844,2026-07-22 13:16:56,2026-08-12 08:56:44,,false,2026-08-11 10:35:58,2026-08-06 15:56:44,2026-08-11 21:56:44,100518,130179,ZQL-RV 247,ZZGPEDCE8X0732262,Mercedes,Vito,W447,2017-10-20,82660,,1,Katrin,Nolte,Ahornweg 15,99084,Erfurt,katrin.nolte86@example.com,0176 8313612,328314,14,🚛✅ Ausgeliefert,Vorgangsstatus,14|948,1,219091,121,false,1,85,damage,Auffahrunfall,Kotflügel hinten rechts|Stoßstange hinten links|Stoßstange vorne links,mittel,haftpflicht_gegner,abgeschlossen,"Fzg. angeliefert, Auffahrunfall im Stau auf der Autobahn. Schaden an Kotflügel hinten rechts, Kratzer bis auf Grundierung, ca. 25 cm.
+Auch Stoßstange hinten links beschädigt (Beule).
+Stoßstange vorne links ebenfalls: Riss im Lack.
+Kunde fragt nach Reparaturdauer. Abholung durch Kunde am Nachmittag.
+Gegnerische Haftpflicht reguliert, Haftung anerkannt.
+Termin steht, Dauer ca. 2 Tage.
+Versicherung: Blauberg Allgemeine, Schadennr. 04942088.
+~~~~~~~~~~~~~
+30.07.26 14:16 TS: KD informiert, Termin steht
+07.08.26 18:16 E. Kaiser: Kalkulation fertig, an Prüfer
+12.08.26 21:16 E. Kaiser: Nachtrag: Kunde bittet um Verschiebung"
+826552,2026-08-09 07:23:46,2026-08-10 02:23:46,,true,,,,103017,152967,QQK-FL 430,ZZAXVATD8XN336402,Mercedes,GLC,X254,2012-08-18,87673,,2,Patrick,Thiel,Am Muehlbach 58,65183,Wiesbaden,,0178/8538525,111702,28,❓Termin unsicher,Vorgangsstatus,28|949|1586,0,,,false,4,115,damage,Rangierschaden,Stoßstange hinten links|Kotflügel hinten rechts,mittel,selbstzahler,neu,"Mercedes GLC, QQK-FL 430, km 87673
+Kunde berichtet: Rangierschaden, Poller übersehen. An Stoßstange hinten links Kunststoff eingedrückt (ca. 3 cm Durchmesser).
+Auch Kotflügel hinten rechts beschädigt (Riss im Lack).
+KVA erwünscht, bitte per Mail. Leihwagen ja.
+Selbstzahler, keine Vers. im Spiel.
+Teile bestellt, Liefertermin offen.
+~~~~~~~~~~~~~
+12.08.26 11:23 SB: Teile bestellt, Nachricht an Dispo"
+841467,2026-05-25 11:10:16,2026-05-26 20:10:16,,true,,,,117208,149321,ZQS-CN 590,ZZHPMKWR8YD885218,Ford,Kuga,CX482,2016-04-23,193634,,,Maria,Maurer,Nelkenstrasse 44,85049,Ingolstadt,maria_maurer@example.net,0177/3877421,579674,27,✔️Termin bestätigt,Vorgangsstatus,27|182|1449,3,518673|222440|319462,,false,1,48,service,Inspektion,,,,neu,"Ford Kuga, ZQS-CN 590, km 193634
+Lt. Kunde: Inspektion mit Pollenfilter und Bremsflüssigkeit.
+Scheibenwischer schmieren, bitte erneuern.
+Kunde holt am Abend ab. Kunde wartet vor Ort.
+Ersatzteil im Rückstand, Kunde informiert.
+~~~~~~~~~~~~~
+29.05.26 13:10 Lack: Leihwagen reserviert
+31.05.26 15:10 D. Keller: Fzg. in Halle, Zerlegung begonnen"
+888989,2026-06-20 16:47:16,2026-07-06 18:28:15,,false,2026-07-06 15:28:15,2026-06-30 08:33:56,2026-07-03 11:33:56,123409,136127,XQM-AM 13,ZZFJYM2C2YM468922,Opel,Mokka,U,2025-09-02,19061,Weidenhof Gartenbau GmbH,3,Martin,Engel,Eichenweg 50,52062,Aachen,martin.engel@example.net,+49 170 8038552,082852,121,abgerechnet ! Auftrag erledigt abgeschlossen,Vorgangsstatus,121|954|1151|1597|434,1,304276,104,false,1,5,damage,Hagelschaden,Dach|Heckklappe,leicht,gesteuert,abgeschlossen,"Kunde bringt Fzg., Hagelschaden, mehrere Fzg. aus dem Ort betroffen. Dach mit mehreren Dellen aus Hagelschlag.
+Heckklappe mit mehreren Dellen aus Hagelschlag.
+Kunde möchte wissen ob Instandsetzung reicht. Leihwagen nein, Kunde wartet.
+Steuerung über Flottenpartner, Freigabe schriftlich nötig.
+Kunde ist informiert, meldet sich."
+891561,2026-01-26 10:34:41,2026-02-27 08:26:17,,true,2026-02-26 17:26:17,2026-02-20 08:28:11,2026-02-23 11:28:11,120309,159395,QQ-A 4694,ZZG85D0B1WU930347,Opel,Astra Sports Tourer,L,2021-10-12,93340,,1,Yvonne,Martens,Am Alten Sportplatz 107,76133,Karlsruhe,ymartens@example.net,+49 (0)174 8033059,824671,1153,👆🚚 Bringservice mit Folgetermin,Vorgangsstatus,1153|946|45,1,479879,,false,1,19,damage,Rangierschaden,Stoßstange hinten links|Stoßstange vorne,leicht,selbstzahler,fertig,"Kunde bringt Fzg., Rangierschaden an der Laderampe. Schaden an Stoßstange hinten links, Lackabrieb, ca. 3 cm Durchmesser.
+Zusätzlich Stoßstange vorne betroffen, kleine Delle.
+Hol- und Bringservice gewünscht.
+Kunde zahlt selbst, KVA vorab.
+Ersatzteil nur komplett lieferbar, Austausch statt Instandsetzung."
+847918,2026-02-21 14:08:59,2026-02-26 20:37:50,,false,2026-02-26 08:37:50,2026-02-23 10:30:04,2026-02-25 16:30:04,126527,130855,QQM-N 39,ZZC15G177YW865798,Audi,A6 Avant,4K,2013-06-01,107403,,2,Nadine,Winkler,Nelkenstrasse 106,65183,Wiesbaden,,+49 174 3628644,156781,9,🏁 Abgeholt,Vorgangsstatus,9|952|1088|1594,1,761633,109,false,1,62,damage,Auffahrunfall,Kotflügel hinten links|Kotflügel hinten rechts|Stoßstange vorne,leicht,haftpflicht_gegner,abgeschlossen,"Kunde meldet: Auffahrunfall, Kunde war selbst aufgefahren. Kotflügel hinten links: Schrammen, ca. 3 cm Durchmesser.
+Zusätzlich Kotflügel hinten rechts betroffen, kleine Delle.
+Stoßstange vorne ebenfalls: Druckstelle.
+Bitte KVA vor Reparatur abstimmen.
+Haftpflicht Gegner, Gutachter beauftragt.
+Ersatzteil im Rückstand, Kunde informiert.
+Versicherung: Kiesbach Assekuranz, Schadennr. 06394271.
+~~~~~~~~~~~~~
+27.02.26 19:08 N. Ludwig: Fzg. in Halle, Zerlegung begonnen
+03.03.26 22:08 Servicebüro: KD informiert, Termin steht"
+844514,2026-03-02 09:24:10,2026-03-03 04:24:10,,true,,,,109844,143111,QQE-N 860,ZZE1KKKH5T2478838,Ford,Transit Custom,V362,2013-02-22,120585,,,Ralf,Fiedler,Eichenweg 71,48143,Muenster,,0175 3525512,223298,534,📲🔰DSA/Bilder/GA/Infos erhalten bitte Kalkulieren,Vorgangsstatus,534|182,0,,,false,1,52,service,Inspektion,,,,neu,"Inspektion: Große Inspektion inkl. Innenraumfilter.
+~~~~~~~~~~~~~
+08.03.26 10:24 H. Peters: Rückruf nicht erreicht, Mailbox
+12.03.26 10:24 H. Peters: KV an Kunde verschickt"
+887130,2026-03-23 10:09:30,2026-04-16 02:58:06,,true,2026-04-15 09:58:06,2026-04-11 10:35:38,2026-04-13 15:35:38,105572,151885,XQD-R 668,ZZGAKLJE8XV355642,Opel,Vivaro,K0,2013-10-23,206343,,2,Lars,Busch,Am Alten Sportplatz 128,41061,Moenchengladbach,,0163/6286763,802665,1153,👆🚚 Bringservice mit Folgetermin,Vorgangsstatus,1153|956|1149|1620|611,0,,,false,2,38,damage,Auffahrunfall,Stoßstange hinten links|Stoßstange vorne rechts,leicht,gesteuert,fertig,"Bei der Annahme festgestellt: Auffahrunfall, Unfall am 15.03. Stoßstange hinten links ca. 25 cm Kratzer, Lack nicht durch.
+Zusätzlich Stoßstange vorne rechts betroffen, Druckstelle.
+Kunde bittt um KVA. Leihwagen ja, Hol- und Bringservice ja.
+Gesteuerter Auftrag, RKÜ liegt noch nicht vor.
+Teile bestellt, Liefertermin offen.
+Steuerung: Kiesbach Schadenservice.
+~~~~~~~~~~~~~
+24.03.26 11:09 B. Ritter: Leihwagen reserviert"
+846386,2026-05-17 16:37:59,2026-06-03 14:39:14,,true,,2026-06-03 12:39:14,,120098,159933,ZQ-MT 47,ZZBM0NYJ3Y1926177,Skoda,Fabia,PJ,2012-01-01,310250,,,Elke,Baumann,Nelkenstrasse 76,22299,Hamburg,ebaumann@example.net,+49 162 0465284,505797,1164,FZG in Fremdwerkstatt,Vorgangsstatus,1164|240|101|1270,3,992130|643349|357257,,false,2,111,service,Inspektion,,,,laufend,"Skoda Fabia, ZQ-MT 47, km 310250
+Lt. Kunde: Inspektion nach Herstellervorgabe.
+Zusätzlich Klappern vorne rechts bei Bodenwellen.
+Bitte anrufen wenn mehr anfällt als besprochen.
+~~~~~~~~~~~~~
+19.05.26 18:37 Dispo: KD informiert, Termin steht"
+894927,2026-05-25 07:02:27,2026-05-26 09:02:27,,true,,,,117147,141403,ZQA-FN 927,ZZCPHD4T2R8851628,Ford,Kuga,CX482,2024-10-14,18685,Steinfurt Vertrieb GmbH,,,,Birkenweg 113,71032,Boeblingen,kontakt_haas@example.com,0173 3060194,580780,530,🚀Auftrag erteilt/Teile vorbestellt/Termin wenn Teile da,Vorgangsstatus,530|993|100,1,598219,109,false,1,41,damage,Wildunfall,Motorhaube,leicht,teilkasko,neu,"Ford Kuga, ZQA-FN 927, km 18685
+Kunde meldet: Wildunfall am 17.05. früh morgens. Druckstelle an Motorhaube, handtellergroß.
+Kunde bittet um Terminvorschlag. Ersatzwagen geklärt, Klasse klein.
+Teilkasko läuft, SB laut Police 300 EUR.
+Bitte Wiedervorlage in einer Woche.
+~~~~~~~~~~~~~
+01.06.26 12:02 Servicebüro: Ersatzteil eingetroffen, Termin vereinbaren
+05.06.26 16:02 SB: Nachtrag: Kunde bittet um Verschiebung"
+821084,2026-04-16 13:05:47,2026-04-22 11:13:35,,true,,2026-04-21 17:13:35,,108156,137638,QQK-ZX 4713,ZZGAL1361VW000987,BMW,X1,U11,2012-09-17,98546,,2,Laura,Jung,Sonnenblumenweg 124,68159,Mannheim,laura_jung@example.org,0163 4746926,612233,17,♻️In Bearbeitung,Vorgangsstatus,17|953|1593|487|1014,1,822154,121,false,1,5,damage,Auffahrunfall,Stoßstange hinten links|Stoßstange hinten|Stoßstange vorne rechts,mittel,gesteuert,laufend,"BMW X1, QQK-ZX 4713, km 98546
+Anruf Kunde: Auffahrunfall, Hergang lt. Kunde unklar. Kratzer bis auf Grundierung an Stoßstange hinten links, ca. 40 cm.
+Auch Stoßstange hinten beschädigt (Kunststoff eingedrückt).
+Stoßstange vorne rechts ebenfalls: Riss im Lack.
+Kunde fragt nach Reparaturdauer.
+Steuerung über Flottenpartner, Freigabe schriftlich nötig.
+Teile bestellt, Liefertermin offen.
+~~~~~~~~~~~~~
+17.04.26 16:05 Dispo: Kunde meldet sich wegen Termin"
+890615,2026-08-07 10:24:21,2026-08-24 07:09:37,,true,,2026-08-22 17:09:37,,128425,134560,QQT-Y 37,ZZHEVCSW2X4671877,Skoda,Karoq,NU7,2015-10-17,137662,,,Julia,Kliemann,Nelkenstrasse 127,63065,Offenbach am Main,julia.kliemann19@example.org,0157 9618492,813028,91,🦊☎Haftung unklar Wiedervorlage,Vorgangsstatus,91|956|1150,1,155296,121,false,0,0,damage,Wildunfall,Motorhaube|Kotflügel vorne links,mittel,teilkasko,laufend,"Fzg. vorgefahren, Wildunfall, Tier ist weggelaufen. An Motorhaube Lack abgeplatzt (auf ganzer Länge).
+Weiterer Schaden Kotflügel vorne links, Kunststoff eingedrückt.
+Kunde möchte wissen ob Instandsetzung reicht.
+TK deckt Glasschaden, SB 150 EUR.
+Beilackierung notwendig."
+863452,2026-04-11 12:03:47,2026-04-12 05:03:47,2026-04-15 08:26:53,false,,,,103590,155912,QQK-U 71,ZZHS0RUX0T1094904,Audi,A1 Sportback,GB,2020-10-23,93109,Blauberg Bau GmbH & Co. KG,3,Jonas,Kuhn,Salbeiweg 44,45127,Essen,jonas.kuhn@example.net,+49 (0)178 2777092,147573,13,😢 Kunde nicht erschienen,Vorgangsstatus,13|1139|1080|488|499,1,327161,121,false,3,125,damage,Hagelschaden,Dach|Heckklappe|Motorhaube,mittel,teilkasko,storniert,"Audi A1 Sportback, QQK-U 71
+Fzg. angeliefert, Hagelschaden vom Unwetter am 10.04. Hagelschlag flächig, Dach mit zahlreichen Dellen.
+Heckklappe mit mehreren Dellen aus Hagelschlag.
+Hagelschlag flächig, Motorhaube mit zahlreichen Dellen.
+Kunde fragt nach Smart Repair. Kunde wartet vor Ort.
+Teilkasko läuft, SB laut Police 300 EUR.
+Versicherung: Blauberg Allgemeine, Schadennr. 34353732.
+~~~~~~~~~~~~~
+13.04.26 13:03 O. Martens: Ersatzteil eingetroffen, Termin vereinbaren"
+820709,2026-01-09 11:25:23,2026-01-26 21:52:53,,true,2026-01-25 15:52:53,2026-01-22 16:58:27,2026-01-23 19:58:27,121318,150083,ZQR-XV 506,ZZAEJCE11TV303012,Ford,Focus Turnier,DEH,2020-11-18,138856,,1,Markus,Busch,Distelweg 128,38100,Braunschweig,,+49 151 6451571,254549,38,👍 🔜Fertig zur Abholung mit Folgetermin,Vorgangsstatus,38|953|1100|399|994,1,212001,,false,1,58,damage,Rangierschaden,Stoßstange hinten,schwer,selbstzahler,fertig,"Kunde kommt ohne Termin, Rangierschaden, Poller übersehen. Träger verformt an Stoßstange hinten, über zwei Bauteile.
+Leihwagen ja, Hol- und Bringservice ja.
+Kunde zahlt selbst, KVA vorab.
+~~~~~~~~~~~~~
+11.01.26 12:25 S. Baumann: Teile bestellt, Nachricht an Dispo"
+845766,2026-04-30 14:03:17,2026-05-27 17:41:19,,false,2026-05-27 09:41:19,2026-05-21 09:57:32,2026-05-24 15:57:32,121625,133656,QX-F 9940,ZZBVJP3R5R4501974,VW,Polo,AW,2012-06-06,276487,,2,Ulrike,Sauer,Wacholderweg 40,55116,Mainz,,0151 6911669,223587,36,🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen,Vorgangsstatus,36|993|1099|487,1,387431,,false,1,61,damage,Hagelschaden,Dach|Motorhaube|Heckklappe,schwer,selbstzahler,abgeschlossen,"Kunde berichtet: Hagelschaden, Schaden erst später bemerkt. Hagelschlag flächig, Dach mit zahlreichen Dellen.
+Hagelschlag flächig, Motorhaube mit zahlreichen Dellen.
+Hagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt.
+Selbstzahler, Rechnung an Kunde.
+Fzg. steht auf dem Hof.
+~~~~~~~~~~~~~
+05.05.26 14:03 SB: Nachtrag: Kunde bittet um Verschiebung"
+871979,2026-01-19 14:31:08,2026-02-11 11:42:53,,true,,2026-02-10 07:42:53,,101592,154195,QQK-JH 6672,ZZH3N93H7R2431636,Mercedes,B-Klasse,W247,2017-09-24,115508,,3,Patrick,Lang,Pappelallee 57,10247,Berlin,patrick.lang@example.com,0160 7863250,077699,1164,FZG in Fremdwerkstatt,Vorgangsstatus,1164|397|1566|1200,1,927104,,false,2,106,service,Räder und Reifen,,,,laufend,"Mercedes B-Klasse, QQK-JH 6672, km 115508
+Räder und Reifen: Räderwechsel Sommer auf Winter, Einlagerung vorhanden.
+Batterie schwach, Startprobleme morgens.
+Teile bestellt, Liefertermin offen.
+~~~~~~~~~~~~~
+21.01.26 17:31 S. Thiel: Kalkulation fertig, an Prüfer"
+872984,2026-02-17 14:49:08,2026-03-14 06:02:54,,true,,2026-03-13 10:02:54,,113187,135292,XQ-AY 50,ZZAV0EUG9RT014145,BMW,3er Touring,G21,2014-01-03,229872,Steinfurt Pflegedienst AG,2,,,Akazienweg 81,45127,Essen,,0174 2991005,413939,89,😪☎Kunde nicht erreicht,Vorgangsstatus,89|956|1573|480|1006|469,3,013953|743680|588432,121,false,2,116,damage,Rangierschaden,Tür hinten rechts|Kotflügel hinten links,mittel,haftpflicht_gegner,laufend,"KD meldet telefonisch: Rangierschaden, Kdune schildert Hergang selbst. Tür hinten rechts Halterung gebrochen, auf ganzer Länge.
+Weiterer Schaden Kotflügel hinten links, Kratzer bis auf Grundierung.
+Kunde bittet um Rückruf bis Freitag. Leihwagen ja, Hol- und Bringservice ja.
+Haftpflicht Gegner, Schadennummer liegt vor.
+Termin steht, Dauer ca. 2 Tage.
+Versicherung: Blauberg Allgemeine, Schadennr. 22194864."
+892809,2026-07-21 09:35:57,2026-07-21 23:35:57,,true,,,,106781,149854,XQE-T 33,ZZBTBYH59TA517443,Audi,A3 Sportback,8Y,2019-01-08,151923,,2,Stefan,Moser,An der Bleiche 58,90402,Nuernberg,stefan.moser@example.net,+49 163 4726026,258838,1480,Hagel Termin vereinbaren !,Vorgangsstatus,1480|395|1566,1,116376,,false,2,90,service,Räder und Reifen,,,,neu,"Kunde kommt ohne Termin, Räderwechsel Sommer auf Winter, Einlagerung vorhanden.
+Kunde meldet Vibration ab 120 km/h.
+Bitte Rechnung an die Firma.
+Termin steht, Dauer ca. 2 Tage."
+860983,2026-01-13 11:30:20,2026-02-01 02:59:11,,true,2026-01-30 17:59:11,2026-01-26 12:17:58,2026-01-28 20:17:58,108686,155656,QQL-U 532,ZZGKS9RU0T7994955,VW,Touran,5T,2024-10-18,18909,,2,Jens,Scholz,Nelkenstrasse 125,38100,Braunschweig,,+49 (0)175 4813502,954105,38,👍 🔜Fertig zur Abholung mit Folgetermin,Vorgangsstatus,38|238|406,3,226069|436867|655389,,false,1,3,service,Bremsen,,,,fertig,"Bremsen: Bremsbeläge vorne unter Mindeststärke.
+Leihwagen ja.
+~~~~~~~~~~~~~
+19.01.26 11:30 G. Kramer: Ersatzteil eingetroffen, Termin vereinbaren
+25.01.26 15:30 Teiledienst: Leihwagen reserviert"
+825174,2026-07-21 12:39:02,2026-08-01 06:55:00,,false,2026-07-31 17:55:00,2026-07-29 07:58:28,2026-07-29 14:58:28,124821,142615,ZQR-PX 89,ZZB44WC37SR174382,Ford,Transit Custom,V362,2020-05-09,87934,,2,Nicole,Schaefer,Akazienweg 99,30655,Hannover,nicole.schaefer@example.de,+49 162 4317857,638152,41,🛑 Wartet auf Abholung durch Verwerter/Leasing/sonstige,Vorgangsstatus,41|393|861|99,1,890686,,false,4,240,service,Räder und Reifen,,,,abgeschlossen,"Räder und Reifen: Reifen vorne abgefahren, Angebot erstellen.
+Zusätzlich Klappern vorne rechts bei Bodenwellen.
+Kunde wünscht Kostenrahmen vorab. Leihwagen ja.
+Fzg. steht auf dem Hof."
+865356,2026-07-17 12:26:48,2026-08-06 06:59:54,,true,,2026-08-05 12:59:54,,115258,150078,ZQS-ZZ 33,ZZFJJ6KJ6XD256960,Mercedes,A-Klasse,W177,2017-09-25,151072,,1,Elena,Moser,Zedernweg 33,30655,Hannover,elena_moser@example.net,+49 (0)163 5352705,882148,1164,FZG in Fremdwerkstatt,Vorgangsstatus,1164|947|1100,0,,,false,1,5,damage,Parkschaden,Kotflügel vorne links,mittel,selbstzahler,laufend,"Mercedes A-Klasse, ZQS-ZZ 33, km 151072
+Anruf Kunde: Parkschaden, kein Zettel hinterlassen. Schaden an Kotflügel vorne links, Riss im Lack, über zwei Bauteile.
+Kunde bittet um Rückruf bis Freitag. Fzg. bleibt über Nacht da.
+Kunde zahlt selbst, KVA vorab.

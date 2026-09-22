@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Großflächige Deformierung legt Austausch nahe, aber ohne explizite Anweisung oder Reparaturfähigkeitsangabe ist die Maßnahme nicht sicher bestimmbar.",
+ "evidence": "Stoßstange vorne rechts großflächig deformiert, ca. 15 cm."
+}

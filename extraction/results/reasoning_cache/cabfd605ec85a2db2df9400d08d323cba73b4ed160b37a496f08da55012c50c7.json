@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Großflächige Deformierung legt Austausch nahe, aber die Notiz nennt keine konkrete Maßnahme und der gesteuerte Auftrag ist noch nicht freigegeben.",
+ "evidence": "Außenspiegel rechts ca. 15 cm großflächig deformiert."
+}

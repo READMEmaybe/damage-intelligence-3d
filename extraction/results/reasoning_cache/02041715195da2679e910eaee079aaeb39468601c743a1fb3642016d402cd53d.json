@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kleine Delle ohne Angabe zu Reparaturmöglichkeit oder Austausch; KVA-Abstimmung erforderlich.",
+ "evidence": "Weiterer Schaden Motorhaube, kleine Delle."
+}

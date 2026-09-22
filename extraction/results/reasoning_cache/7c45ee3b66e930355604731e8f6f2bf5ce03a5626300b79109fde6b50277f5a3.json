@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Hageldellen am Dach bei intaktem Lack, aber ohne Angabe zur Reparaturmethode oder Austausch – Maßnahme nicht begründbar.",
+ "evidence": "Hagel: Dach betroffen, Lack laut Sichtprüfung intakt."
+}

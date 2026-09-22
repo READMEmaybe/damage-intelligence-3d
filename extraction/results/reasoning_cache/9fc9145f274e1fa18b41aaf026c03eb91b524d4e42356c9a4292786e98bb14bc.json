@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer ohne Lackdurchtritt an der Heckklappe sprechen für eine Lackierreparatur statt Austausch.",
+ "evidence": "Weiterer Schaden Heckklappe, Kratzer, Lack nicht durch."
+}

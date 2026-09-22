@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Heckklappe sind nur Dellen ohne Angabe zur Reparierbarkeit dokumentiert; die Dellenkarte ist noch offen.",
+ "evidence": "Heckklappe übersät mit Dellen, Zählung Dellenkarte offen."
+}

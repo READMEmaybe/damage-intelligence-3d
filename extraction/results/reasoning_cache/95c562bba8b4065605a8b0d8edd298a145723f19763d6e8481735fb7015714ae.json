@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Schrammen von ca. 15 cm am Schweller deuten auf eine oberflächliche Lackbeschädigung hin, die typischerweise repariert wird.",
+ "evidence": "Schweller rechts Schrammen, ca. 15 cm."
+}

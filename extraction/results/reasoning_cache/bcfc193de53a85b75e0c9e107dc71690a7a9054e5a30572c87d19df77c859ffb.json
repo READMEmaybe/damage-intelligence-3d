@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine punktuelle Eindrückung ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Kunststoff eingedrückt, punktuell, mehrere Stellen"
+}

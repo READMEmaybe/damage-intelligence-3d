@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Nur ein ca. 10 cm langer Lackriss beschrieben, keine Angabe ob Reparatur oder Austausch möglich/erforderlich.",
+ "evidence": "Riss im Lack an Tür hinten links, ca. 10 cm."
+}

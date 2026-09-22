@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Beule an der Stoßstange deutet auf eine instandsetzbare Delle hin, kein Hinweis auf Austausch.",
+ "evidence": "Auch Stoßstange hinten links beschädigt (Beule)."
+}

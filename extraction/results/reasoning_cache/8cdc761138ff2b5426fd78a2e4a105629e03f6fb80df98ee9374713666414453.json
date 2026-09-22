@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Ein handtellergroßer Durchbruch an der Stoßstange hinten legt einen Austausch nahe, da eine Reparatur bei diesem Schadensbild unwahrscheinlich ist.",
+ "evidence": "An Stoßstange hinten Bauteil durchgebrochen (handtellergroß)."
+}

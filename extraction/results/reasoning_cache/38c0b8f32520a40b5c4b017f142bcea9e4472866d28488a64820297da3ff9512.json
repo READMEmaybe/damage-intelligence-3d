@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Nur ein 5 cm Lackriss beschrieben, keine Angabe ob Reparatur oder Austausch möglich/erforderlich.",
+ "evidence": "Stoßstange vorne links: Riss im Lack, ca. 5 cm."
+}

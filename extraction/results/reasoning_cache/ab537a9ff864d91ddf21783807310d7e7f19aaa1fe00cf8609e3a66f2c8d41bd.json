@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabrieb an der vorderen Stoßstange ist ein leichter Oberflächenschaden, der typischerweise per Smart Repair instand gesetzt wird.",
+ "evidence": "Auch Stoßstange vorne beschädigt (Lackabrieb)."
+}

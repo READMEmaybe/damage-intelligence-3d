@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden mit intaktem Lack deutet auf Dellenausbeulen (Reparatur) hin, kein Austauschgrund erkennbar.",
+ "evidence": "Hagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt."
+}

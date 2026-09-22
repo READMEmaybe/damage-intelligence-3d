@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Die Notiz erwähnt ein bestelltes Ersatzteil für die Stoßstange, was auf einen Austausch hindeutet.",
+ "evidence": "Ersatzteil im Rückstand, Kunde informiert."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden mit mehreren Dellen bei intaktem Lack deutet auf smart repair/Dellenausbeulen hin, nicht auf Austausch.",
+ "evidence": "Motorhaube mit mehreren Dellen aus Hagelschlag."
+}

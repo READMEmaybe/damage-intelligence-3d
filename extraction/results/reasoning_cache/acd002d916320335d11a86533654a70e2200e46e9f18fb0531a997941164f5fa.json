@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Lack am Dach laut Sichtprüfung intakt, aber ohne Angabe zur Dellenanzahl oder Reparaturmöglichkeit ist repair vs. replace nicht begründbar.",
+ "evidence": "Hagel: Dach betroffen, Lack laut Sichtprüfung intakt."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Spiegelhalterung ist in der Regel nicht reparierbar und erfordert Austausch.",
+ "evidence": "Außenspiegel rechts ebenfalls: Halterung gebrochen."
+}

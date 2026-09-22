@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Halterung auf ganzer Länge deutet auf nicht reparierbaren Außenspiegel hin, Austausch üblich.",
+ "evidence": "Außenspiegel links: Halterung gebrochen, auf ganzer Länge."
+}

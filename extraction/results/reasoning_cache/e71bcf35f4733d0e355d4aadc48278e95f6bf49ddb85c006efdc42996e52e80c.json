@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Delle mit Lackschaden ist reparierbar, aber ohne Freigabe oder explizite Anweisung ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Delle mit Lackschaden, handtellergroß"
+}

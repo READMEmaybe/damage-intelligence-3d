@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung der vorderen Stoßstange bei schwerem Wildunfall legt Austausch nahe.",
+ "evidence": "Auch Stoßstange vorne beschädigt (großflächig deformiert)."
+}

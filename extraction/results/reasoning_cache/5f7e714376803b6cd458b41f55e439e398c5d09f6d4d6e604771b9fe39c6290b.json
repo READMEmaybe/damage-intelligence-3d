@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kunststoff eingedrückt an mehreren Stellen, aber weder Reparaturmöglichkeit noch Austausch explizit genannt.",
+ "evidence": "Stoßstange hinten links: Kunststoff eingedrückt, punktuell, mehrere Stellen."
+}

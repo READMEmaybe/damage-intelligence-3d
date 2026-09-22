@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Handtellergroßer Kratzer bis auf Grundierung ist ein typischer Lackschaden, der durch Lackierung repariert wird, sofern keine Verformung vorliegt.",
+ "evidence": "Motorhaube handtellergroß Kratzer bis auf Grundierung."
+}

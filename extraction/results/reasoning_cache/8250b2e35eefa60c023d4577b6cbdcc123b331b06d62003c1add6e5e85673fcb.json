@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur Kratzer bis auf die Grundierung, ohne zu klären, ob eine Reparatur möglich oder ein Austausch nötig ist.",
+ "evidence": "Kratzer bis auf Grundierung an Tür hinten links, handtellergroß."
+}

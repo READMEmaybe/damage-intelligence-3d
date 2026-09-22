@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Für den Kotflügel liegt nur eine Verformung ohne explizite Reparatur- oder Austauschanweisung vor; KVA und Freigabe stehen noch aus.",
+ "evidence": "Kotflügel vorne links: Blech verzogen, ca. 5 cm."
+}

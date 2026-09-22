@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den vorderen linken Kotflügel ist nur eine Beule ohne Angabe zu Reparaturfähigkeit oder Austausch genannt.",
+ "evidence": "Zusätzlich Kotflügel vorne links betroffen, Beule."
+}

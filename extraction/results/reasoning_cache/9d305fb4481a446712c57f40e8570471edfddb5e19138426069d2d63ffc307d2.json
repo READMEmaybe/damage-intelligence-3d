@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel ist nur ein Kratzer bis auf die Grundierung beschrieben, ohne dass eine Reparatur oder ein Austausch ausdrücklich angeordnet ist.",
+ "evidence": "Weiterer Schaden Kotflügel vorne links, Kratzer bis auf Grundierung."
+}

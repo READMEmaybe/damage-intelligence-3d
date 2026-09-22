@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Beule über zwei Bauteile ohne Angabe zur Reparierbarkeit; Kalkulation ist angefordert, Maßnahme aber nicht festgelegt.",
+ "evidence": "Schaden an Schweller rechts, Beule, über zwei Bauteile."
+}

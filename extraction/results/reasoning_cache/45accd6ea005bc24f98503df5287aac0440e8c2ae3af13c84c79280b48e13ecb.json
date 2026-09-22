@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange hinten rechts ist nur 'Blech verzogen' beschrieben, ohne dass Reparatur oder Austausch explizit genannt wird.",
+ "evidence": "Weiterer Schaden Stoßstange hinten rechts, Blech verzogen."
+}

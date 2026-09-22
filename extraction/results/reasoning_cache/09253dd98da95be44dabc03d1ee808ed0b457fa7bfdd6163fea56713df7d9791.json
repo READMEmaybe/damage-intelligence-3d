@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren deuten auf oberflächlichen Lackschaden hin, der typischerweise repariert wird.",
+ "evidence": "Fahrertür ebenfalls: feine Kratzspuren."
+}

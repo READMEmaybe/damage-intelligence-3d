@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Die Notiz beschreibt einen Steinschlag, aber ohne Angabe, ob eine Reparatur möglich ist; der Kunde entscheidet nach Preis, daher ist eine Begutachtung erforderlich.",
+ "evidence": "Kunde entscheidet nach Preis."
+}

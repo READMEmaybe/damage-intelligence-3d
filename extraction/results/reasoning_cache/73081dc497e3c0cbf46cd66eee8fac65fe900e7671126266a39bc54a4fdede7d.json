@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange hinten rechts liegt nur eine vage Verzugsbeschreibung vor, die weder Reparatur noch Austausch eindeutig belegt.",
+ "evidence": "Blech verzogen an Stoßstange hinten rechts, ca. 40 cm."
+}

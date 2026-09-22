@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Hageldellen bei intaktem Lack lassen meist eine smart-repair-Reparatur zu, die Notiz nennt für die Motorhaube aber keine konkrete Maßnahme und verlangt zunächst eine KVA-Abstimmung.",
+ "evidence": "Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt."
+}

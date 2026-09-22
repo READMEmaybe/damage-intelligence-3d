@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Steinschlag von 2 cm wird beschrieben, aber weder Reparatur noch Austausch der Scheibe wird ausdrücklich angeordnet; Kunde will erst nach Preis entscheiden.",
+ "evidence": "Kunde will erst nach Preis entscheiden."
+}

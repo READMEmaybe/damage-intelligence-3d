@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle am Schweller bei leichtem Schaden deutet auf eine instandsetzbare Reparatur hin.",
+ "evidence": "Schweller links ebenfalls: kleine Delle."
+}

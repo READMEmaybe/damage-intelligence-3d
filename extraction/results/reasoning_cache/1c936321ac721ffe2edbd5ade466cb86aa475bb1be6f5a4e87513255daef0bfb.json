@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Abgerissene Aufnahme an der Stoßstange deutet auf nicht reparierbaren Befestigungsschaden hin, der einen Austausch erfordert.",
+ "evidence": "Zusätzlich Stoßstange hinten links betroffen, Aufnahme abgerissen."
+}

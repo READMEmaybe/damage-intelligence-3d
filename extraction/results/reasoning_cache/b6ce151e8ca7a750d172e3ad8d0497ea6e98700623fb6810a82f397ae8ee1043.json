@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Die Notiz beschreibt nur eine Eindrückung ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Kunststoff eingedrückt an Stoßstange hinten rechts, ca. 10 cm."
+}

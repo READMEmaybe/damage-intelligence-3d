@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Heckklappe ist mit Dellen übersät, aber die Dellenkarte ist noch offen, daher ist Reparatur vs. Austausch nicht begründbar.",
+ "evidence": "Heckklappe übersät mit Dellen, Zählung Dellenkarte offen."
+}

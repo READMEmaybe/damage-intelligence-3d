@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Schrammen von ca. 10 cm bei Rangierschaden deuten auf eine Reparatur mit Beilackierung hin, kein Austausch erkennbar.",
+ "evidence": "Stoßstange vorne: Schrammen, ca. 10 cm."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Heckklappe ist nur ein Hagelschaden mit intaktem Lack beschrieben, ohne Angabe zu Reparatur oder Austausch.",
+ "evidence": "Hagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt."
+}

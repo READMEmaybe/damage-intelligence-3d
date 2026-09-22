@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt zahlreiche Dellen an der Heckklappe, nennt aber weder eine Reparatur- noch eine Austauschentscheidung.",
+ "evidence": "Heckklappe mit zahlreichen Dellen"
+}

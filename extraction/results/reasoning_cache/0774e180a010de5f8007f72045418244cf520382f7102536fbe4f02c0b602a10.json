@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformation der Stoßstange bei schwerem Parkschaden legt Austausch nahe, zudem wurden Teile bestellt.",
+ "evidence": "Weiterer Schaden Stoßstange vorne links, großflächig deformiert."
+}

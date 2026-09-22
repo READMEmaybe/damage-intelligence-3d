@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer ohne Lackdurchtrennung deuten auf eine Lackreparatur hin.",
+ "evidence": "Kotflügel vorne rechts ca. 3 cm Durchmesser Kratzer, Lack nicht durch."
+}

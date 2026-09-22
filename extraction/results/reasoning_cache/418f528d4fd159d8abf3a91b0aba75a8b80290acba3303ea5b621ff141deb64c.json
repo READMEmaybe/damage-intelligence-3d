@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Für das Dach ist nur eine Dellenbeschreibung ohne Zählung oder Reparatur-/Austauschentscheidung dokumentiert.",
+ "evidence": "Dach übersät mit Dellen, Zählung Dellenkarte offen."
+}

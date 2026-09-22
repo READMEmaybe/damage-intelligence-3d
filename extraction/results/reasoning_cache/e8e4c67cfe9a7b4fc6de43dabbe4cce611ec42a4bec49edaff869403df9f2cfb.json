@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Ein durchgebrochenes Bauteil ist in der Regel nicht reparierbar und wird ersetzt.",
+ "evidence": "Bauteil durchgebrochen"
+}

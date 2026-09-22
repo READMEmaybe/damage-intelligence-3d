@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Großflächige Deformierung bei schwerem Schaden legt Austausch nahe, aber die Notiz nennt keine konkrete Maßnahme und es fehlen Details zur Reparierbarkeit.",
+ "evidence": "Kotflügel vorne links: großflächig deformiert, handtellergroß."
+}

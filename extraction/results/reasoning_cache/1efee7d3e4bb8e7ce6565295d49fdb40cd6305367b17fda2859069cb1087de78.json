@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Gebrochene Halterung am Kotflügel deutet auf nicht wirtschaftlich reparierbaren Schaden hin, Austausch naheliegend.",
+ "evidence": "Kotflügel vorne links punktuell, mehrere Stellen Halterung gebrochen."
+}

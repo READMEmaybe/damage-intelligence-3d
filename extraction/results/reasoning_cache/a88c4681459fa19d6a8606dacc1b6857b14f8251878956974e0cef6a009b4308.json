@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Ein Riss über die halbe Breite der Windschutzscheibe ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+ "evidence": "Riss in Windschutzscheibe zieht sich über die halbe Breite."
+}

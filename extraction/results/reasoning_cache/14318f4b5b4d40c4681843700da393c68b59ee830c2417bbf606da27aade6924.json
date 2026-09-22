@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Delle mit Lackschaden auf der Motorhaube deutet auf eine Instandsetzung mit Beilackierung hin, kein Hinweis auf Austausch.",
+ "evidence": "Motorhaube auf ganzer Länge Delle mit Lackschaden."
+}

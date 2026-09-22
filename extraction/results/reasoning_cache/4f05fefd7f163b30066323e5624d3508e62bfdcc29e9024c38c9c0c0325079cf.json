@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte punktuelle Druckstellen an der Stoßstange ohne Hinweis auf Bruch oder Austausch lassen eine Reparatur erwarten.",
+ "evidence": "Stoßstange vorne rechts punktuell, mehrere Stellen Druckstelle."
+}

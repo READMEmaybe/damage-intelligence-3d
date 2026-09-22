@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Verformter Träger an der Stoßstange hinten deutet auf einen nicht wirtschaftlich reparierbaren Schaden hin, der einen Austausch nahelegt.",
+ "evidence": "Träger verformt an Stoßstange hinten, über zwei Bauteile."
+}

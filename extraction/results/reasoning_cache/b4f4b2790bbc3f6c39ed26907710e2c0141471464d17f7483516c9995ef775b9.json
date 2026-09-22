@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Mehrere Dellen durch Hagelschlag, aber ohne Angabe zur Reparierbarkeit ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Heckklappe mit mehreren Dellen aus Hagelschlag."
+}

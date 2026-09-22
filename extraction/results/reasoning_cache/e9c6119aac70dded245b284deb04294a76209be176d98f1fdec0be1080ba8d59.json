@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung über zwei Bauteile bei schwerem Vandalismusschaden legt einen Austausch der Stoßstange nahe.",
+ "evidence": "Schaden an Stoßstange hinten, großflächig deformiert, über zwei Bauteile."
+}

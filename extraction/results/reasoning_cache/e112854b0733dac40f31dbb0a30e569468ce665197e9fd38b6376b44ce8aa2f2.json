@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung über zwei Bauteile ist ein typischer Lackschaden, der durch Reparatur (Lackierung) behoben wird.",
+ "evidence": "Lack abgeplatzt, über zwei Bauteile"
+}

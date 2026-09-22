@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Gebrochene Halterung an der Stoßstange deutet auf erforderlichen Austausch hin, da eine gebrochene Halterung in der Regel nicht repariert werden kann.",
+ "evidence": "Stoßstange vorne rechts ca. 25 cm Halterung gebrochen."
+}

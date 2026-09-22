@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Mehrere Dellen durch Hagelschlag, aber keine Angabe zu Reparatur oder Austausch; ohne weitere Details nicht entscheidbar.",
+ "evidence": "Motorhaube mit mehreren Dellen aus Hagelschlag."
+}

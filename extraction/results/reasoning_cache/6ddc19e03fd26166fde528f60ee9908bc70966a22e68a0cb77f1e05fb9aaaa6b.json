@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Flächiger Hagelschaden mit zahlreichen Dellen am Dach spricht für Smart-Repair-Instandsetzung, kein Austausch angeordnet.",
+ "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+}

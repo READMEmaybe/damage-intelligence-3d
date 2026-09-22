@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur Schrammen an der vorderen Stoßstange ohne Angabe zu Reparatur oder Austausch.",
+ "evidence": "Weiterer Schaden Stoßstange vorne, Schrammen."
+}

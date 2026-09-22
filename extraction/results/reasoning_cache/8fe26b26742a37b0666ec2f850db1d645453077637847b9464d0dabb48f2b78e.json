@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Lackabplatzungen am Kotflügel hinten rechts ohne Angabe zu Umfang oder Reparierbarkeit; KVA dient der Bewertung.",
+ "evidence": "Zusätzlich Kotflügel hinten rechts betroffen, Lack abgeplatzt."
+}

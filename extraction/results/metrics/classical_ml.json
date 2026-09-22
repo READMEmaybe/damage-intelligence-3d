@@ -1,0 +1,354 @@
+{
+ "case_type": {
+  "accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "per_class": {
+   "service": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 110
+   },
+   "damage": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 91
+   }
+  },
+  "n": 201
+ },
+ "case_kind": {
+  "accuracy": 0.995,
+  "macro_precision": 0.994,
+  "macro_recall": 0.9944,
+  "macro_f1": 0.994,
+  "per_class": {
+   "Parkschaden": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 22
+   },
+   "Auffahrunfall": {
+    "precision": 0.9286,
+    "recall": 1.0,
+    "f1": 0.963,
+    "support": 13
+   },
+   "Hagelschaden": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "Steinschlag": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 12
+   },
+   "Vandalismus": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 9
+   },
+   "Wildunfall": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 9
+   },
+   "Rangierschaden": {
+    "precision": 1.0,
+    "recall": 0.9333,
+    "f1": 0.9655,
+    "support": 15
+   },
+   "Inspektion": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 29
+   },
+   "Ölwechsel": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 19
+   },
+   "HU/AU": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 20
+   },
+   "Räder und Reifen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 21
+   },
+   "Bremsen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 21
+   }
+  },
+  "n": 201
+ },
+ "zones": {
+  "micro_precision": 0.5427,
+  "micro_recall": 0.6792,
+  "micro_f1": 0.6034,
+  "macro_precision": 0.5758,
+  "macro_recall": 0.6046,
+  "macro_f1": 0.5295,
+  "exact_match": 139,
+  "exact_match_accuracy": 0.6915,
+  "per_label": {
+   "Außenspiegel links": {
+    "precision": 0.6667,
+    "recall": 0.5,
+    "f1": 0.5714
+   },
+   "Außenspiegel rechts": {
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1": 0.4
+   },
+   "Beifahrertür": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+   },
+   "Dach": {
+    "precision": 0.8182,
+    "recall": 1.0,
+    "f1": 0.9
+   },
+   "Fahrertür": {
+    "precision": 1.0,
+    "recall": 0.2,
+    "f1": 0.3333
+   },
+   "Heckklappe": {
+    "precision": 1.0,
+    "recall": 0.7059,
+    "f1": 0.8276
+   },
+   "Kotflügel hinten links": {
+    "precision": 0.4,
+    "recall": 0.6667,
+    "f1": 0.5
+   },
+   "Kotflügel hinten rechts": {
+    "precision": 0.6923,
+    "recall": 1.0,
+    "f1": 0.8182
+   },
+   "Kotflügel vorne links": {
+    "precision": 0.5,
+    "recall": 0.5833,
+    "f1": 0.5385
+   },
+   "Kotflügel vorne rechts": {
+    "precision": 0.2353,
+    "recall": 0.6667,
+    "f1": 0.3478
+   },
+   "Motorhaube": {
+    "precision": 0.65,
+    "recall": 0.7222,
+    "f1": 0.6842
+   },
+   "Schweller links": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+   },
+   "Schweller rechts": {
+    "precision": 1.0,
+    "recall": 0.6667,
+    "f1": 0.8
+   },
+   "Stoßstange hinten": {
+    "precision": 0.625,
+    "recall": 0.5556,
+    "f1": 0.5882
+   },
+   "Stoßstange hinten links": {
+    "precision": 0.2727,
+    "recall": 1.0,
+    "f1": 0.4286
+   },
+   "Stoßstange hinten rechts": {
+    "precision": 0.3,
+    "recall": 0.5,
+    "f1": 0.375
+   },
+   "Stoßstange vorne": {
+    "precision": 0.1765,
+    "recall": 0.75,
+    "f1": 0.2857
+   },
+   "Stoßstange vorne links": {
+    "precision": 0.4667,
+    "recall": 0.7778,
+    "f1": 0.5833
+   },
+   "Stoßstange vorne rechts": {
+    "precision": 0.3636,
+    "recall": 0.8,
+    "f1": 0.5
+   },
+   "Tür hinten links": {
+    "precision": 0.8333,
+    "recall": 0.5556,
+    "f1": 0.6667
+   },
+   "Tür hinten rechts": {
+    "precision": 0.6667,
+    "recall": 0.4,
+    "f1": 0.5
+   },
+   "Windschutzscheibe": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+   }
+  },
+  "damage_only_exact_match_accuracy": 0.3187,
+  "damage_only_exact_match": 29
+ },
+ "severity": {
+  "accuracy": 0.7473,
+  "confusion_matrix": [
+   [
+    24,
+    7,
+    2
+   ],
+   [
+    2,
+    30,
+    4
+   ],
+   [
+    6,
+    2,
+    14
+   ]
+  ],
+  "labels": [
+   "leicht",
+   "mittel",
+   "schwer"
+  ],
+  "n": 91
+ },
+ "insurance_type": {
+  "accuracy": 0.989,
+  "confusion_matrix": [
+   [
+    30,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    1,
+    25,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    13,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    14,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    8
+   ]
+  ],
+  "labels": [
+   "teilkasko",
+   "selbstzahler",
+   "vollkasko",
+   "haftpflicht_gegner",
+   "gesteuert"
+  ],
+  "n": 91,
+  "service_cases_with_insurance_predicted": 0
+ },
+ "lifecycle_stage": {
+  "accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "per_class": {
+   "laufend": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 69
+   },
+   "abgeschlossen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 56
+   },
+   "neu": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 35
+   },
+   "fertig": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 32
+   },
+   "storniert": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 9
+   }
+  },
+  "n": 201
+ },
+ "operational": {
+  "n_predictions": 201,
+  "n_failed": 0,
+  "n_invalid_outputs": 0,
+  "n_unknown_labels": 0,
+  "n_needs_review": 0,
+  "review_rate": 0.0,
+  "latency_total_s": 5.2,
+  "latency_per_case_ms": 25.88,
+  "cases_scored": 201,
+  "retries": 0
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Verformter Träger bei schwerem Parkschaden, aber ohne explizite Reparatur-/Austauschentscheidung und mit ausstehender Nachkalkulation.",
+ "evidence": "Stoßstange hinten rechts Träger verformt, ca. 40 cm."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Beulen ohne Angabe zu Reparierbarkeit oder Austausch; KVA-Abstimmung vor Reparatur deutet auf offene Bewertung hin.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

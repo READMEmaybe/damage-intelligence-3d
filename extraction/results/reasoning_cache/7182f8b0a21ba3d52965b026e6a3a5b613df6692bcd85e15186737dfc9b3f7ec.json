@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange vorne rechts ist nur eine Delle mit Lackschaden beschrieben, ohne dass Reparatur oder Austausch ausdrücklich angeordnet oder eindeutig ableitbar ist.",
+ "evidence": "Zusätzlich Stoßstange vorne rechts betroffen, Delle mit Lackschaden."
+}

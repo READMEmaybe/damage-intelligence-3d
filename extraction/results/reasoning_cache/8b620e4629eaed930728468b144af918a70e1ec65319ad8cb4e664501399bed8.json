@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformation über zwei Bauteile bei schwerem Parkschaden legt einen Austausch des Kotflügels nahe.",
+ "evidence": "An Kotflügel hinten rechts großflächig deformiert (über zwei Bauteile)."
+}

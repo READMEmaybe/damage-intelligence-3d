@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung am Kotflügel deutet auf eine lackierbare Reparatur hin, kein Austauschgrund erkennbar.",
+ "evidence": "Kotflügel hinten rechts ebenfalls: Lack abgeplatzt."
+}

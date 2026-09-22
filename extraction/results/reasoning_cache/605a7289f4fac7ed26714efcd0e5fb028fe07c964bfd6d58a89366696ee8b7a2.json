@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden mit zahlreichen Dellen am Dach ist typischerweise per Smart-Repair-Verfahren instandsetzbar, ein Austausch des Dachs ist nicht üblich.",
+ "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel vorne rechts ist nur 'Lack abgeplatzt' beschrieben; die Anweisung 'Austausch statt Instandsetzung' bezieht sich auf das nicht genannte Ersatzteil der Stoßstange, nicht auf diese Zone.",
+ "evidence": "Kotflügel vorne rechts Lack abgeplatzt, über zwei Bauteile."
+}

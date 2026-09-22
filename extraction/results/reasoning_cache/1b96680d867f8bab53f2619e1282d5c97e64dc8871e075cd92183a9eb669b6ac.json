@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel liegt nur 'Blech verzogen' vor; ohne weitere Details ist repair vs. replace nicht begründbar, zudem ist ein KVA vor Reparatur abzustimmen.",
+ "evidence": "Kotflügel vorne links ebenfalls: Blech verzogen."
+}

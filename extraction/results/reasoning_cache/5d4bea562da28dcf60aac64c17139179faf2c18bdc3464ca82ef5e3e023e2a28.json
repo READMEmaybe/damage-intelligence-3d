@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Motorhaube ist nur ein Hagelschaden mit intaktem Lack beschrieben, ohne Angabe zu Reparatur oder Austausch.",
+ "evidence": "Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt."
+}

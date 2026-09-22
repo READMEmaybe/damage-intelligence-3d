@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabrieb bei leichtem Rangierschaden deutet auf eine instandsetzbare Lackbeschädigung hin.",
+ "evidence": "Schaden an Tür hinten rechts, Lackabrieb, ca. 40 cm."
+}

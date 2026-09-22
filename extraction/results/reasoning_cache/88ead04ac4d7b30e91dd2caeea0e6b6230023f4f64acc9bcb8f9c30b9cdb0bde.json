@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Eine Beule ist ein typischer Dellen-/Beulenschaden, der in der Regel durch Ausbeulen/Reparatur behoben wird, sofern kein weiterer Schaden genannt ist.",
+ "evidence": "Kotflügel vorne links ebenfalls: Beule."
+}

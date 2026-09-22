@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer im Klarlack auf ganzer Länge deuten auf eine Lackierreparatur hin, zumal Beilackierung notwendig ist.",
+ "evidence": "Stoßstange vorne rechts Kratzer im Klarlack, auf ganzer Länge."
+}

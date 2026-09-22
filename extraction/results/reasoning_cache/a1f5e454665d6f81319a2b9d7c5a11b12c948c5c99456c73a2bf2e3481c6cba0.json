@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für das Dach ist nur eine Dellenbeschreibung ohne Angabe zu Reparatur oder Austausch vorhanden, die Dellenkarte ist noch offen.",
+ "evidence": "Dach übersät mit Dellen, Zählung Dellenkarte offen."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Motorhaube wird nur eine punktuelle Verformung des Trägers beschrieben, ohne dass Reparatur oder Austausch explizit genannt wird.",
+ "evidence": "Motorhaube punktuell, mehrere Stellen Träger verformt."
+}

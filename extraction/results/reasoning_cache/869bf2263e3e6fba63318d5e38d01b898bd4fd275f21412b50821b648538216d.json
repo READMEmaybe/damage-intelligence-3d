@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "replace",
+ "action_source": "explicit",
+ "confidence": 0.95,
+ "reason": "Die Notiz nennt explizit 'Austausch statt Instandsetzung' und 'Ersatzteil nur komplett lieferbar', was für diese Zone den Austausch vorgibt.",
+ "evidence": "Ersatzteil nur komplett lieferbar, Austausch statt Instandsetzung."
+}

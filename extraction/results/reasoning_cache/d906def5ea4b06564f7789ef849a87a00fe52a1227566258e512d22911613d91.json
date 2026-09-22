@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt Kratzer und eine eingedrückte Kunststoffstoßstange, nennt aber keine konkrete Maßnahme für hinten links.",
+ "evidence": "Kratzer bis auf Grundierung an Stoßstange hinten links, ca. 40 cm."
+}

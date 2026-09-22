@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Halterung an der Tür deutet auf nicht reparierbaren Strukturschaden hin, zudem wurde ein Ersatzteil bestellt und geliefert.",
+ "evidence": "Halterung gebrochen an Tür hinten links, ca. 5 cm."
+}

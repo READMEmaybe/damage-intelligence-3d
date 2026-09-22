@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hageldellen bei intaktem Lack sind typischerweise per Dellendrücken (Smart Repair) reparierbar, kein Austausch nötig.",
+ "evidence": "Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt."
+}

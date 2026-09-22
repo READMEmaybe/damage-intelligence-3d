@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung ist ein typischer kosmetischer Schaden, der durch Lackieren reparabel ist.",
+ "evidence": "Kotflügel vorne rechts betroffen, Lack abgeplatzt."
+}

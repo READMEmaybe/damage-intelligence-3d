@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz nennt nur eine Druckstelle ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Auch Kotflügel vorne links beschädigt (Druckstelle)."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel hinten rechts ist nur eine Beule ohne Angabe zur Reparierbarkeit beschrieben, daher ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Weiterer Schaden Kotflügel hinten rechts, Beule."
+}

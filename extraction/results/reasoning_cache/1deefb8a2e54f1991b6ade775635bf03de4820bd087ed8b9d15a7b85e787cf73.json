@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Leichte Schrammen ohne explizite Reparatur- oder Austauschanweisung; KVA-Abstimmung erforderlich.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

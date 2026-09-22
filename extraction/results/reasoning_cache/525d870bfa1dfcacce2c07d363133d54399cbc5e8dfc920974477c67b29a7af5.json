@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel vorne rechts wird nur eine eingedrückte Kunststoffstelle beschrieben, ohne dass Reparatur oder Austausch angeordnet wird.",
+ "evidence": "Auch Kotflügel vorne rechts beschädigt (Kunststoff eingedrückt)."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Nur Lackabrieb beschrieben, keine Aussage zu Reparatur oder Austausch möglich.",
+ "evidence": "Stoßstange vorne links: Lackabrieb, handtellergroß."
+}

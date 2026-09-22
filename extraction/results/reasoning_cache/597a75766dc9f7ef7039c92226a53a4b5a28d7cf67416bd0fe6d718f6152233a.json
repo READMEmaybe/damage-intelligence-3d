@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt eine Delle mit Lackschaden, nennt aber keine konkrete Maßnahme für die Tür.",
+ "evidence": "Delle mit Lackschaden, ca. 3 cm Durchmesser"
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel hinten rechts liegt nur die vage Beschreibung 'Blech verzogen' vor, ohne Hinweis auf Reparaturfähigkeit oder Austausch.",
+ "evidence": "Auch Kotflügel hinten rechts beschädigt (Blech verzogen)."
+}

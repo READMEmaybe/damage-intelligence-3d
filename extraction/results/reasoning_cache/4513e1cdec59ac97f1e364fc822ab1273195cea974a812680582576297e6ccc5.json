@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Verformter Träger ohne Angabe zu Reparierbarkeit oder Austausch; Kunde entscheidet erst nach Preis, daher Begutachtung naheliegend.",
+ "evidence": "Stoßstange vorne links Träger verformt, ca. 3 cm Durchmesser."
+}

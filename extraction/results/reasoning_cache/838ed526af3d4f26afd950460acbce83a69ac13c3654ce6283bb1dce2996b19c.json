@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur 'Blech verzogen' ohne Angabe, ob eine Reparatur möglich oder ein Austausch nötig ist.",
+ "evidence": "Zusätzlich Tür hinten rechts betroffen, Blech verzogen."
+}

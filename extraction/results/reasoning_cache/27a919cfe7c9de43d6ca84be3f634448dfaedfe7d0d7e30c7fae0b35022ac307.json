@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Der Kotflügel ist gerissen und lose, aber die Notiz nennt keine Reparatur- oder Austauschentscheidung; der Kunde will erst nach Preis entscheiden.",
+ "evidence": "Kotflügel vorne links Teil gerissen und lose, über zwei Bauteile."
+}

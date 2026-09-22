@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Spiegelhalterung ist in der Regel nicht reparierbar, sondern erfordert Austausch.",
+ "evidence": "Außenspiegel links ca. 40 cm Halterung gebrochen."
+}

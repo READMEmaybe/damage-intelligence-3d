@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange hinten links sind nur Schrammen beschrieben, ohne dass eine Reparatur oder ein Austausch angeordnet wird.",
+ "evidence": "Weiterer Schaden Stoßstange hinten links, Schrammen."
+}

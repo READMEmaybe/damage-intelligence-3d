@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt eine Verformung am Träger, nennt aber weder Reparatur noch Austausch für die Stoßstange vorne rechts.",
+ "evidence": "Stoßstange vorne rechts Träger verformt, ca. 3 cm Durchmesser."
+}

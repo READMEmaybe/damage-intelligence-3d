@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Flächige Hageldellen an der Motorhaube sind typischerweise mit Lackier- und Ausbeultechnik (Smart Repair) reparierbar, kein Austausch angeordnet.",
+ "evidence": "Hagelschlag flächig, Motorhaube mit zahlreichen Dellen."
+}

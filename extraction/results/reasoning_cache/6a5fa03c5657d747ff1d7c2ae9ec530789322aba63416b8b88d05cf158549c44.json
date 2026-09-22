@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Eine gebrochene Halterung an der Stoßstange lässt sich in der Regel nicht instand setzen, sondern erfordert einen Austausch.",
+ "evidence": "Stoßstange hinten ebenfalls: Halterung gebrochen."
+}

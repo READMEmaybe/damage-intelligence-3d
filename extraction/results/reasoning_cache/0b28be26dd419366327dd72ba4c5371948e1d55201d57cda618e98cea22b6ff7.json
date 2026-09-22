@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "replace",
+ "action_source": "explicit",
+ "confidence": 0.95,
+ "reason": "Die Notiz gibt explizit an, dass ein Austausch statt Instandsetzung erfolgt, da das Ersatzteil nur komplett lieferbar ist.",
+ "evidence": "Ersatzteil nur komplett lieferbar, Austausch statt Instandsetzung."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Durchgebrochenes Bauteil der vorderen Stoßstange ist in der Regel nicht reparierbar und wird ersetzt.",
+ "evidence": "Zusätzlich Stoßstange vorne betroffen, Bauteil durchgebrochen."
+}

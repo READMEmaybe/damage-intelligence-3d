@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt Dellen auf der Heckklappe, aber ohne Angabe zur Reparierbarkeit oder zum Austausch; die Zählung der Dellenkarte ist offen.",
+ "evidence": "Heckklappe übersät mit Dellen, Zählung Dellenkarte offen."
+}

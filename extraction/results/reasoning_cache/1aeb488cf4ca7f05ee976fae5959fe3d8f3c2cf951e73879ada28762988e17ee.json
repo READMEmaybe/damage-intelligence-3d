@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Nur eine kleine Delle beschrieben, keine explizite Reparatur- oder Austauschanweisung für diese Zone.",
+ "evidence": "Schaden an Kotflügel hinten rechts, kleine Delle, ca. 25 cm."
+}

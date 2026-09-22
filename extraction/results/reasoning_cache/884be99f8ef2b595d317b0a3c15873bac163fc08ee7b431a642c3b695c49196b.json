@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Die Notiz beschreibt nur eine eingedrückte Kunststoffstelle ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Schaden an Stoßstange vorne rechts, Kunststoff eingedrückt, ca. 5 cm."
+}

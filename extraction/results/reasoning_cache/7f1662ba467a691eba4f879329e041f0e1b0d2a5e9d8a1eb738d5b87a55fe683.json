@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Delle mit Lackschaden ohne Angabe zur Reparierbarkeit oder Austauschnotwendigkeit; mittlerer Schaden lässt keine eindeutige Maßnahme zu.",
+ "evidence": "Delle mit Lackschaden, ca. 40 cm."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Starke Eindrückung von ca. 15 cm an der hinteren Stoßstange bei schwerem Parkschaden legt einen Austausch nahe, zudem wurden Teile bestellt.",
+ "evidence": "Stark eingedrückt an Stoßstange hinten, ca. 15 cm."
+}

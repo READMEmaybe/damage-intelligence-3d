@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Motorhaube ist mit Dellen übersät, aber die Zählung der Dellenkarte ist noch offen, daher ist keine eindeutige Entscheidung zwischen Reparatur und Austausch möglich.",
+ "evidence": "Motorhaube übersät mit Dellen, Zählung Dellenkarte offen."
+}

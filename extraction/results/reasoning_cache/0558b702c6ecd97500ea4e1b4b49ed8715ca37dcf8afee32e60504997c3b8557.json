@@ -1,0 +1,8 @@
+{
+ "zone": "Beifahrertür",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Punktueller Lackabplatzer lässt Reparatur vermuten, aber ohne explizite Anweisung oder Umfang ist repair vs. replace nicht begründbar.",
+ "evidence": "An Beifahrertür Lack abgeplatzt (punktuell, mehrere Stellen)."
+}

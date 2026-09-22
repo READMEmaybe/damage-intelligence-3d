@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange vorne links ist nur 'Blech verzogen' beschrieben, ohne dass eine Reparatur oder ein Austausch ausdrücklich angeordnet wird.",
+ "evidence": "An Stoßstange vorne links Blech verzogen (ca. 15 cm)."
+}

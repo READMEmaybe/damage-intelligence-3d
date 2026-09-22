@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Leichte Kratzer ohne Lackdurchtritt sprechen für eine Lackreparatur statt Austausch.",
+ "evidence": "Kotflügel vorne rechts Kratzer, Lack nicht durch, punktuell, mehrere Stellen."
+}

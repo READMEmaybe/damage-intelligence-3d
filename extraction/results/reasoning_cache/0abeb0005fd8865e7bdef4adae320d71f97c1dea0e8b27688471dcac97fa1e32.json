@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Großflächige Deformation lässt Reparatur oder Austausch zu, ohne dass die Notiz dies festlegt.",
+ "evidence": "Stoßstange vorne rechts: großflächig deformiert, punktuell, mehrere Stellen."
+}

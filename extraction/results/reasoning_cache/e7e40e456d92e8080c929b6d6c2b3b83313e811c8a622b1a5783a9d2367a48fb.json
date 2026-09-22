@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung an der Stoßstange ist ein typischer Lackschaden, der durch Lackieren repariert wird.",
+ "evidence": "Stoßstange vorne rechts Lack abgeplatzt, ca. 25 cm."
+}

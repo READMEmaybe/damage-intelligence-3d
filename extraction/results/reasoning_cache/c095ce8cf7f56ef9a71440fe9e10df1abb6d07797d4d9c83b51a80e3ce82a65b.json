@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Hagelschaden mit Dellen ohne Angabe zur Reparierbarkeit oder Austausch; Zählung offen, daher keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Heckklappe übersät mit Dellen, Zählung Dellenkarte offen."
+}

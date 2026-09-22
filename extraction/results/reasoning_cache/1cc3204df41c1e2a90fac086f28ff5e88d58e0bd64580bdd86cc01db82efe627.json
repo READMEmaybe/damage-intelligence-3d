@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Motorhaube ist nur eine Beule ohne Angabe zu Reparaturfähigkeit oder Austausch beschrieben.",
+ "evidence": "Weiterer Schaden Motorhaube, Beule."
+}

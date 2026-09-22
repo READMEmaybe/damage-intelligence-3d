@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Für die Motorhaube sind nur Dellen ohne Angabe zu Reparatur oder Austausch dokumentiert; die Zählung ist offen.",
+ "evidence": "Motorhaube übersät mit Dellen, Zählung Dellenkarte offen."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabrieb von ca. 25 cm bei leichtem Schaden deutet auf eine lackierbare Reparatur hin, kein Austausch erforderlich.",
+ "evidence": "Kotflügel vorne rechts: Lackabrieb, ca. 25 cm."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren bei leichter Schadensart deuten auf eine Reparatur (Lackierung) hin, nicht auf Austausch.",
+ "evidence": "feine Kratzspuren"
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Bauteil durchgebrochen auf ganzer Länge deutet auf Austausch hin, aber die Notiz verlangt ausdrücklich eine KVA-Abstimmung vor der Reparatur, ohne die Maßnahme festzulegen.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

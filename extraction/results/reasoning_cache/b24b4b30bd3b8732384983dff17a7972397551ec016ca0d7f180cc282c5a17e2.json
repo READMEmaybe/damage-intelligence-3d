@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine Beule an der Stoßstange hinten links, ohne Reparatur oder Austausch ausdrücklich zu nennen.",
+ "evidence": "Auch Stoßstange hinten links beschädigt (Beule)."
+}

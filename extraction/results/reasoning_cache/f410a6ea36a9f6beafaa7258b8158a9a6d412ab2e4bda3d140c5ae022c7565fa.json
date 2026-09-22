@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Punktuelle Kratzer im Klarlack ohne Durchtrennung des Lacks legen eine Lackreparatur nahe.",
+ "evidence": "Stoßstange vorne rechts punktuell, mehrere Stellen Kratzer im Klarlack."
+}

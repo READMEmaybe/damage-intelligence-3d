@@ -1,0 +1,8 @@
+{
+ "zone": "Beifahrertür",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine eingedrückte Kunststoff-Beifahrertür ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Auch Beifahrertür beschädigt (Kunststoff eingedrückt)."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Eine ca. 5 cm große Druckstelle ohne Hinweis auf Riss oder nicht reparierbare Beschädigung spricht für Instandsetzung.",
+ "evidence": "Tür hinten links ca. 5 cm Druckstelle."
+}

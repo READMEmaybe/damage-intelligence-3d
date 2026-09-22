@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Kratzer bis auf Grundierung deuten auf Lackreparatur hin, aber die Notiz nennt keine konkrete Maßnahme und der Kunde entscheidet erst nach Preis.",
+ "evidence": "Kunde will erst nach Preis entscheiden."
+}

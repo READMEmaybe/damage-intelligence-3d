@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Verformung am Träger der Motorhaube ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "An Motorhaube Träger verformt (ca. 3 cm Durchmesser)."
+}

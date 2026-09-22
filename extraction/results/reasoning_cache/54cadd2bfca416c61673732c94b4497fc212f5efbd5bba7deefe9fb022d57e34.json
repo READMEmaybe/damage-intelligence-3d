@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt zahlreiche Dellen am Dach, nennt aber keine konkrete Maßnahme; Reparatur vs. Austausch ist nicht begründbar.",
+ "evidence": "Dach mit zahlreichen Dellen"
+}

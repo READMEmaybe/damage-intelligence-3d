@@ -1,0 +1,8 @@
+{
+ "zone": "Beifahrertür",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Beifahrertür ist nur ein Riss im Lack beschrieben, ohne Angabe ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Beifahrertür ebenfalls: Riss im Lack."
+}

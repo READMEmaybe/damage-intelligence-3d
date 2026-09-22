@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Nur Lackabrieb beschrieben, keine Angabe ob Reparatur oder Austausch möglich; KVA steht noch aus.",
+ "evidence": "Lackabrieb an Stoßstange hinten links, ca. 40 cm."
+}

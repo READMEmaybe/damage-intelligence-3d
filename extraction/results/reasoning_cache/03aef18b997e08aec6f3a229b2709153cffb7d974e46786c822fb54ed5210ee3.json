@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine handtellergroße Druckstelle ohne Angabe, ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Druckstelle an Motorhaube, handtellergroß."
+}

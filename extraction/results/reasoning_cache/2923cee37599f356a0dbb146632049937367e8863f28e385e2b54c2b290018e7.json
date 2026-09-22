@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine Delle mit Lackschaden, ohne Reparatur oder Austausch explizit zu nennen.",
+ "evidence": "Weiterer Schaden Stoßstange hinten, Delle mit Lackschaden."
+}

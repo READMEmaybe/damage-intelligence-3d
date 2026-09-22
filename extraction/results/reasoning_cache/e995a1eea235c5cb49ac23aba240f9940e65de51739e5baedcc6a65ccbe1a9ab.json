@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.8,
+ "reason": "Ein durchgebrochenes Bauteil der Stoßstange ist in der Regel nicht reparierbar und muss ersetzt werden.",
+ "evidence": "Bauteil durchgebrochen"
+}

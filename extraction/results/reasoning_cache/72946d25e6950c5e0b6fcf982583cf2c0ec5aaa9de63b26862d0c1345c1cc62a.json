@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Verformter Träger bei schwerem Auffahrunfall deutet auf Austausch statt Reparatur hin.",
+ "evidence": "Auch Stoßstange hinten rechts beschädigt (Träger verformt)."
+}

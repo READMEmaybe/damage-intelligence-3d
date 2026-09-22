@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Ein durchgebrochener Kotflügel (ca. 40 cm) ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+ "evidence": "Bauteil durchgebrochen an Kotflügel vorne rechts, ca. 40 cm."
+}

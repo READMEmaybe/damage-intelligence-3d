@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Die Notiz beschreibt nur eine eingedrückte Kunststoff-Stoßstange und verlangt eine KVA-Abstimmung, ohne Reparatur oder Austausch festzulegen.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

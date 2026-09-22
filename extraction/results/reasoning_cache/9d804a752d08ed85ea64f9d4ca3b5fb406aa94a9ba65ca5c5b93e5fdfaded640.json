@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichter Kratzer ohne Lackdurchtritt und Beilackierung deuten auf eine Reparatur statt Austausch hin.",
+ "evidence": "Schaden an Außenspiegel links, Kratzer, Lack nicht durch, ca. 15 cm."
+}

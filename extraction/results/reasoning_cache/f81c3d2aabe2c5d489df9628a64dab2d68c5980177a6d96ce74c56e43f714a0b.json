@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Leichte Kratzer ohne Lackdurchtrennung sprechen für eine Lackreparatur statt Austausch.",
+ "evidence": "Motorhaube: Kratzer, Lack nicht durch, ca. 15 cm."
+}

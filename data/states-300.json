@@ -1,0 +1,300 @@
+{
+ "note": "Workshop status vocabulary. Category and status names are the process vocabulary of the source system; every entry carrying a person, site or third-party name was removed.",
+ "state_categories": [
+  {
+   "id": 1,
+   "name": "🛒🔨Teile Status"
+  },
+  {
+   "id": 4,
+   "name": "Vorgangsstatus"
+  },
+  {
+   "id": 5,
+   "name": "📅Terminstatus"
+  },
+  {
+   "id": 23,
+   "name": "3.1.0 Werkstattstatus Mech."
+  },
+  {
+   "id": 61,
+   "name": "2.1.0 Karosserie Status"
+  },
+  {
+   "id": 64,
+   "name": "4.0.0 Teiledienst"
+  },
+  {
+   "id": 69,
+   "name": "2.3.0 Lack Status"
+  },
+  {
+   "id": 107,
+   "name": "8.1.0 Aufgaben Schadensteuerer"
+  }
+ ],
+ "states": [
+  {
+   "id": 9,
+   "name": "🏁 Abgeholt",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": true,
+   "used_in_dataset": true
+  },
+  {
+   "id": 11,
+   "name": "👽💣Rückstand ohne Termin! Teilerückstand Fzg. bei uns",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 12,
+   "name": "👍 Fertig zur Abholung",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 13,
+   "name": "😢 Kunde nicht erschienen",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 14,
+   "name": "🚛✅ Ausgeliefert",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": true,
+   "used_in_dataset": true
+  },
+  {
+   "id": 15,
+   "name": "🚧Wurde Totalschaden",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": true,
+   "used_in_dataset": true
+  },
+  {
+   "id": 16,
+   "name": "⚠️Warte auf Freigabe",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 17,
+   "name": "♻️In Bearbeitung",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 18,
+   "name": "☢️ Auftrag steht ☢️",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 25,
+   "name": "👇🚚 Holservice",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 26,
+   "name": "👆🚚 Bringservice",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 27,
+   "name": "✔️Termin bestätigt",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 28,
+   "name": "❓Termin unsicher",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 33,
+   "name": "⚠️Schadensfeststellung",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 34,
+   "name": "🌗✔️Nachbestellung Termin bestätigt",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 35,
+   "name": "☹️Absage Termin",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 36,
+   "name": "🏁🔜Abgeholt/Ausgeliefert - Folgetermin offen",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 37,
+   "name": "🔜Neuer Folgetermin",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 38,
+   "name": "👍 🔜Fertig zur Abholung mit Folgetermin",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 39,
+   "name": "📞🔜✔️Abholbereit Folgetermin vereinbaren",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 40,
+   "name": "❌ Auftrag storniert",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": true,
+   "used_in_dataset": true
+  },
+  {
+   "id": 41,
+   "name": "🛑 Wartet auf Abholung durch Verwerter/Leasing/sonstige",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": true,
+   "used_in_dataset": true
+  },
+  {
+   "id": 44,
+   "name": "📆✔Termin vereinbart",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 78,
+   "name": "☢️Reklamation in Bearbeitung☢️",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": false
+  },
+  {
+   "id": 88,
+   "name": "🙂Vorgang angelegt",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 89,
+   "name": "😪☎Kunde nicht erreicht",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 91,
+   "name": "🦊☎Haftung unklar Wiedervorlage",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 92,
+   "name": "😀↪🕧Kunde erreicht Meldet sich",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 106,
+   "name": "😊📲Kunde erreicht DSA/Bilder angefordert",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 121,
+   "name": "abgerechnet ! Auftrag erledigt abgeschlossen",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": true,
+   "used_in_dataset": true
+  },
+  {
+   "id": 157,
+   "name": "🛒MECHANIK Teile vorab bestellen!",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 435,
+   "name": "🕋🤔Antwort Versicherer/GA/Leasing/Kunde fehlt",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true
+  },
+  {
+   "id": 436,
+   "name": "👋 Termin bitte vereinbaren /Teile/Freigabe/etc. eingetroffen",
+   "category_id": 4,
+   "category": "Vorgangsstatus",
+   "is_done": false,
+   "used_in_dataset": true

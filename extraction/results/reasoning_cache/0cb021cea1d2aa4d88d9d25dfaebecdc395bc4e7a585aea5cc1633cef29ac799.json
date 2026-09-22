@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer im Klarlack deuten auf eine Lackreparatur hin, kein Austausch erforderlich.",
+ "evidence": "Auch Kotflügel vorne links beschädigt (Kratzer im Klarlack)."
+}

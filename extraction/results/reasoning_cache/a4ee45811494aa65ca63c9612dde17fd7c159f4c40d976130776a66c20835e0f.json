@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hageldellen an der Heckklappe sind typischerweise mit Smart-Repair-Verfahren instandsetzbar, und der Kunde fragt explizit nach Smart Repair.",
+ "evidence": "Heckklappe mit mehreren Dellen aus Hagelschlag."
+}

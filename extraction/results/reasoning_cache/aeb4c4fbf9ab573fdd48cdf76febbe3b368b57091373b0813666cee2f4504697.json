@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichter Lackabrieb ohne Hinweis auf Bruch oder Austausch legt eine Reparatur nahe.",
+ "evidence": "Lackabrieb an Außenspiegel rechts, ca. 5 cm."
+}

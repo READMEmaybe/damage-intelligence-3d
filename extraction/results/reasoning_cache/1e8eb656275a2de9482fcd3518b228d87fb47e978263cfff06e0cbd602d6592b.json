@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kratzer bis auf Grundierung bei mittlerem Schaden lassen Reparatur oder Austausch zu; keine explizite Maßnahme genannt und Kunde entscheidet erst nach Preis.",
+ "evidence": "Kunde will erst nach Preis entscheiden."
+}

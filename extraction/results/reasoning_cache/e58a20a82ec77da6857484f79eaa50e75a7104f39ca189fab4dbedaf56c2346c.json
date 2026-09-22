@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine kleine Delle ohne Angabe, ob Reparatur oder Austausch erforderlich ist.",
+ "evidence": "Heckklappe auf ganzer Länge kleine Delle."
+}

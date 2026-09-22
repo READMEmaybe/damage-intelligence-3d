@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Lackabplatzung über zwei Bauteile, aber keine Angabe zu Reparaturfähigkeit oder Austausch; Kunde entscheidet erst nach Preis.",
+ "evidence": "Lack abgeplatzt an Stoßstange hinten links, über zwei Bauteile."
+}

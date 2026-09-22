@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine Verformung des Blechs, ohne Reparatur oder Austausch ausdrücklich zu nennen.",
+ "evidence": "Auch Kotflügel hinten rechts beschädigt (Blech verzogen)."
+}

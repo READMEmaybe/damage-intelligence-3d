@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer im Klarlack (ca. 15 cm) ohne Strukturschaden sprechen für eine Lackreparatur statt Austausch.",
+ "evidence": "Stoßstange vorne: Kratzer im Klarlack, ca. 15 cm."
+}

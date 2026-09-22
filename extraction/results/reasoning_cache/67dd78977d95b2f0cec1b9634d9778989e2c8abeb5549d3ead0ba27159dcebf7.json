@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Feine Kratzspuren deuten auf Reparatur hin, aber die Notiz verlangt explizit eine KVA-Abstimmung vor der Reparatur.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

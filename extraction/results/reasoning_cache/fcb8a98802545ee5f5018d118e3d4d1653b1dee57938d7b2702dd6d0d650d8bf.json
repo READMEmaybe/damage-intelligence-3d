@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren von ca. 10 cm deuten auf einen leichten Lackschaden hin, der instandgesetzt werden kann.",
+ "evidence": "Stoßstange hinten rechts: feine Kratzspuren, ca. 10 cm."
+}

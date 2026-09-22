@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Schrammen von ca. 3 cm Durchmesser deuten auf eine oberflächliche Lackbeschädigung hin, die typischerweise repariert wird.",
+ "evidence": "Kotflügel hinten links: Schrammen, ca. 3 cm Durchmesser."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange vorne links sind nur Schrammen ohne Angabe zu Reparaturfähigkeit oder Austausch genannt; ohne Versicherung entscheidet der Kunde nach Preis, daher ist eine Begutachtung (KVA) angezeigt.",
+ "evidence": "Zusätzlich Stoßstange vorne links betroffen, Schrammen."
+}

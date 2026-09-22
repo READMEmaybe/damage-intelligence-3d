@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Großflächige Deformierung der Heckklappe bei schwerem Vandalismusschaden legt einen Austausch nahe.",
+ "evidence": "Heckklappe ebenfalls: großflächig deformiert."
+}

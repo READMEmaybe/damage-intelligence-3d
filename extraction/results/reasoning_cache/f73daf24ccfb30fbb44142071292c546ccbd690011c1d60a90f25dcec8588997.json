@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren am Schweller deuten auf oberflächlichen Lackschaden hin, der typischerweise repariert wird.",
+ "evidence": "Weiterer Schaden Schweller rechts, feine Kratzspuren."
+}

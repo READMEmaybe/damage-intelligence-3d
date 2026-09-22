@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Beule am Außenspiegel ohne Angabe zu Reparaturfähigkeit oder Austausch; Ersatzteil-Rückstand ist nicht zonenbezogen eindeutig.",
+ "evidence": "Außenspiegel links Beule, handtellergroß."
+}

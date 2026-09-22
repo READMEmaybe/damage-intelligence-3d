@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt eine 5 cm große Deformierung, aber ohne Angabe zur Reparierbarkeit oder Austausch ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Kotflügel hinten rechts ca. 5 cm großflächig deformiert."
+}

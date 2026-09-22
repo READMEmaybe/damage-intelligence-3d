@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Stoßstange vorne rechts ist nur ein verformter Träger beschrieben, ohne dass Reparatur oder Austausch explizit genannt wird.",
+ "evidence": "Weiterer Schaden Stoßstange vorne rechts, Träger verformt."
+}

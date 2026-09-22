@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Großflächige Deformierung legt Austausch nahe, aber ohne explizite Anweisung oder Details zu Reparierbarkeit ist keine eindeutige Maßnahme begründbar.",
+ "evidence": "Stoßstange vorne großflächig deformiert, handtellergroß."
+}

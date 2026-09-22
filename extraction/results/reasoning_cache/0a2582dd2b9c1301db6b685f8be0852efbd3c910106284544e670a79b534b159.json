@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf Grundierung mit ca. 3 cm Durchmesser sind typischerweise durch Lackierung reparierbar, kein Austausch nötig.",
+ "evidence": "Stoßstange vorne links: Kratzer bis auf Grundierung, ca. 3 cm Durchmesser."
+}

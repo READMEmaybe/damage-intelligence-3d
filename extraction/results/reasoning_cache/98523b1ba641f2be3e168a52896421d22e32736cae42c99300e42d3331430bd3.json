@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Eine 5 cm große Delle mit Lackschaden an der Stoßstange ist typischerweise instandsetzbar (Ausbeulen und Lackieren), ohne dass ein Austausch nötig wäre.",
+ "evidence": "Stoßstange hinten rechts Delle mit Lackschaden, ca. 5 cm."
+}

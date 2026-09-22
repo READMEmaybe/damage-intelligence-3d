@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabrieb von ca. 3 cm Durchmesser ist ein leichter Schaden, der typischerweise durch Lackreparatur behoben wird.",
+ "evidence": "An Heckklappe Lackabrieb (ca. 3 cm Durchmesser)."
+}

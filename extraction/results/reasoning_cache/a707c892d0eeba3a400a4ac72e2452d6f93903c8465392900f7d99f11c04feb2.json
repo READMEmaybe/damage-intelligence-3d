@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer ohne Lackdurchbruch an der Stoßstange legen eine Reparatur (Smart Repair) nahe.",
+ "evidence": "Kratzer, Lack nicht durch an Stoßstange vorne rechts, ca. 40 cm."
+}

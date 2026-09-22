@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Großflächige Deformierung lässt Reparatur oder Austausch offen; keine explizite Maßnahme für die Stoßstange genannt.",
+ "evidence": "Weiterer Schaden Stoßstange vorne links, großflächig deformiert."
+}

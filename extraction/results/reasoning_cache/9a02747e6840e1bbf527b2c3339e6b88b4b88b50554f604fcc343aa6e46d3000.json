@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabrieb ohne Durchtrennung des Lacks deutet auf eine oberflächliche Beschädigung hin, die durch Lackreparatur behandelbar ist.",
+ "evidence": "Zusätzlich Kotflügel hinten rechts betroffen, Lackabrieb."
+}

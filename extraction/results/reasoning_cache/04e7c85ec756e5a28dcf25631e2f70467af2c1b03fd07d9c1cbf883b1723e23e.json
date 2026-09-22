@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Kratzer ohne Lackdurchtritt sind typischerweise polier- bzw. lackierbar, ein Austausch ist nicht angezeigt.",
+ "evidence": "An Heckklappe Kratzer, Lack nicht durch (auf ganzer Länge)."
+}

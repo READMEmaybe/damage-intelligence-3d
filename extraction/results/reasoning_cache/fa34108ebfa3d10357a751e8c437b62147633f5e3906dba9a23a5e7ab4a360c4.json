@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren an der Fahrertür deuten auf eine leichte, oberflächliche Beschädigung hin, die typischerweise repariert wird.",
+ "evidence": "Auch Fahrertür beschädigt (feine Kratzspuren)."
+}

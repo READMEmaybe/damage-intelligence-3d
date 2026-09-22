@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kunststoff eingedrückt, Smart Repair gewünscht, aber keine eindeutige Aussage zu Reparatur oder Austausch möglich.",
+ "evidence": "Kunststoff eingedrückt an Motorhaube, ca. 3 cm Durchmesser."
+}

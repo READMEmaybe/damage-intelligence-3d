@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung von ca. 5 cm am Außenspiegel deutet auf eine lackierbare Reparatur hin, kein Austausch oder Bruch erwähnt.",
+ "evidence": "Lack abgeplatzt an Außenspiegel rechts, ca. 5 cm."
+}

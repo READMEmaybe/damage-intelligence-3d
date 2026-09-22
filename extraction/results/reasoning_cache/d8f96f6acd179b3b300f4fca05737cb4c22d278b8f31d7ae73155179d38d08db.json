@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Lackschaden von ca. 10 cm ohne Angabe zur Reparierbarkeit; KVA dient der Preisentscheidung, daher ist die Maßnahme noch offen.",
+ "evidence": "KVA erwünscht, bitte per Mail."
+}

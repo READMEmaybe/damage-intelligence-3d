@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Delle mit Lackschaden ohne Angabe zu Reparaturfähigkeit oder Austausch lässt keine eindeutige Maßnahme zu.",
+ "evidence": "Delle mit Lackschaden, ca. 3 cm Durchmesser."
+}

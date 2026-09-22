@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichter Lackabrieb ohne Strukturschaden deutet auf eine Reparatur (Lackierung) hin.",
+ "evidence": "Schaden an Tür hinten rechts, Lackabrieb, ca. 15 cm."
+}

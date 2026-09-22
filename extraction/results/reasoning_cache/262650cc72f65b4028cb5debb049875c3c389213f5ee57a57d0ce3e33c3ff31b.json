@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt zahlreiche Hageldellen auf der Motorhaube, nennt aber keine konkrete Maßnahme; Smart Repair wird nur als Kundenfrage erwähnt.",
+ "evidence": "Hagelschlag flächig, Motorhaube mit zahlreichen Dellen."
+}

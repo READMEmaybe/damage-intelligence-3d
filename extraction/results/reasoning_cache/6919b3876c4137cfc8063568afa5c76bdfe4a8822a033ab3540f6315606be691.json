@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine eingedrückte Kunststoffstelle ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Schaden an Heckklappe, Kunststoff eingedrückt, handtellergroß."
+}

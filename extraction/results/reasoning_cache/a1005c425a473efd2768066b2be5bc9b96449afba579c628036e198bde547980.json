@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Kratzer im Klarlack mit notwendiger Beilackierung deuten auf eine Reparatur statt Austausch hin.",
+ "evidence": "An Motorhaube Kratzer im Klarlack (ca. 10 cm)."
+}

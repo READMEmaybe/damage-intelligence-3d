@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Verformter Träger bei schwerem Parkschaden, aber ohne explizite Reparatur- oder Austauschanweisung ist die Maßnahme nicht eindeutig ableitbar.",
+ "evidence": "Träger verformt, ca. 3 cm Durchmesser."
+}

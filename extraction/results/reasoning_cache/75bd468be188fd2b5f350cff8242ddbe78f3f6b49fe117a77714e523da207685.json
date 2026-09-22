@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Nur Schrammen beschrieben, keine Aussage zu Reparatur oder Austausch möglich.",
+ "evidence": "Außenspiegel rechts Schrammen, ca. 10 cm."
+}

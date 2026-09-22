@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel hinten links ist nur 'Träger verformt' beschrieben, ohne Angabe ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "Auch Kotflügel hinten links beschädigt (Träger verformt)."
+}

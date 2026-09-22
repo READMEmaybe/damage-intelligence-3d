@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Blech verzogen bei schwerem Parkschaden, aber weder Reparaturmöglichkeit noch Austausch explizit genannt; Smart-Repair-Anfrage deutet auf mögliche Reparatur hin, ist aber nicht entschieden.",
+ "evidence": "Stoßstange hinten links: Blech verzogen, handtellergroß."
+}

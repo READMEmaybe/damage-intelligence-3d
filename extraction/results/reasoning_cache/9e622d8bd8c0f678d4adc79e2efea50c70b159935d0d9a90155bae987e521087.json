@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kratzer bis auf Grundierung ohne Angabe, ob Reparatur oder Austausch erforderlich ist; Kunde entscheidet nach Preis.",
+ "evidence": "Motorhaube Kratzer bis auf Grundierung, über zwei Bauteile."
+}

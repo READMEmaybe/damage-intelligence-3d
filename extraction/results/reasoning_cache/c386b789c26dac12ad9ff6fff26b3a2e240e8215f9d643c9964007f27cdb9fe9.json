@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hageldellen am Dach bei intaktem Lack deuten auf eine Ausbeulreparatur (Smart Repair) hin.",
+ "evidence": "Dach mit mehreren Dellen aus Hagelschlag."
+}

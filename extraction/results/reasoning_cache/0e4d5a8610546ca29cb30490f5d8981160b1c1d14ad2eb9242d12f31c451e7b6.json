@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Punktuelle Delle mit Lackschaden ohne Angabe zur Reparierbarkeit; nach Zerlegung nachkalkulieren deutet auf offene Bewertung hin.",
+ "evidence": "Nach Zerlegung nachkalkulieren."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Ein über die halbe Scheibenbreite verlaufender, wachsender Riss ist bei Frontscheiben in der Regel nicht mehr fachgerecht reparierbar, sondern erfordert Austausch.",
+ "evidence": "Riss in Windschutzscheibe zieht sich über die halbe Breite."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle an der Stoßstange hinten deutet auf eine leichte, reparierbare Beschädigung hin.",
+ "evidence": "Auch Stoßstange hinten beschädigt (kleine Delle)."
+}

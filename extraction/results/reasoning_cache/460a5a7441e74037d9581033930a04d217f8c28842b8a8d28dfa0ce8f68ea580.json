@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt einen abgerissenen Aufnahmepunkt am Schweller, nennt aber weder Reparatur noch Austausch explizit.",
+ "evidence": "Schaden an Schweller links, Aufnahme abgerissen, handtellergroß."
+}

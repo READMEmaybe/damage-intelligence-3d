@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle bei leichtem Schaden deutet auf Reparatur hin, keine Ersetzung erwähnt.",
+ "evidence": "Auch Stoßstange vorne rechts beschädigt (kleine Delle)."
+}

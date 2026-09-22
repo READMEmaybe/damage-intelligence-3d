@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Schweller links ist nur eine kleine Beule beschrieben, ohne dass Reparatur oder Austausch ausdrücklich angeordnet wird.",
+ "evidence": "An Schweller links Beule (ca. 3 cm Durchmesser)."
+}

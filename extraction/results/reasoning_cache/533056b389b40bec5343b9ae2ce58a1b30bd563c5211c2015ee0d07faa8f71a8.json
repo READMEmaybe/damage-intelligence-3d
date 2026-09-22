@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die vordere Stoßstange ist nur Lackabplatzung beschrieben, ohne Hinweis ob Reparatur oder Austausch folgt.",
+ "evidence": "Stoßstange vorne ebenfalls: Lack abgeplatzt."
+}

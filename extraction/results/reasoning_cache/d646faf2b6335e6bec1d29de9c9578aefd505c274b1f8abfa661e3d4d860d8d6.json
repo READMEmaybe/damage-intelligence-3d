@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Lackabrieb ohne Angabe zur Reparierbarkeit; KVA-Abstimmung vor Reparatur erforderlich.",
+ "evidence": "Weiterer Schaden Stoßstange vorne rechts, Lackabrieb."
+}

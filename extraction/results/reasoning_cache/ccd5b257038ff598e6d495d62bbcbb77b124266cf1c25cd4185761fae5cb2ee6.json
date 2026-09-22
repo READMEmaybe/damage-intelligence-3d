@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren (ca. 40 cm) bei leichtem Vandalismusschaden deuten auf eine Lackierreparatur hin.",
+ "evidence": "Tür hinten links feine Kratzspuren, ca. 40 cm."
+}

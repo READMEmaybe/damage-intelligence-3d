@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Gebrochene Halterung am Kotflügel hinten links deutet auf nicht reparierbaren Befestigungsschaden hin, der einen Austausch nahelegt.",
+ "evidence": "Auch Kotflügel hinten links beschädigt (Halterung gebrochen)."
+}

@@ -1,0 +1,5452 @@
+[
+ {
+  "case_id": 820223,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Stoßstange vorne"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.878,
+   "case_kind": 0.386,
+   "severity": 0.599,
+   "insurance_type": 0.616,
+   "zones": 0.696
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 820558,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.883,
+   "case_kind": 0.354,
+   "severity": 0.557,
+   "insurance_type": 0.494,
+   "zones": 0.601
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 820869,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.906,
+   "case_kind": 0.716
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 821214,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.858,
+   "case_kind": 0.353,
+   "severity": 0.623,
+   "insurance_type": 0.532
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 821533,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Fahrertür"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Fahrertür": "fahrertür",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.838,
+   "case_kind": 0.232,
+   "severity": 0.535,
+   "insurance_type": 0.511,
+   "zones": 0.507
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 822311,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.885,
+   "case_kind": 0.564
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 823086,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.911,
+   "case_kind": 0.592
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 824137,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.898,
+   "case_kind": 0.307
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 824427,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.827,
+   "case_kind": 0.255
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 824529,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.875,
+   "case_kind": 0.835,
+   "severity": 0.42,
+   "insurance_type": 0.744,
+   "zones": 0.949
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 824844,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.787,
+   "case_kind": 0.325
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 825751,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.766,
+   "case_kind": 0.296
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 826049,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.845,
+   "case_kind": 0.396
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 826351,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links",
+   "Motorhaube",
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.946,
+   "case_kind": 0.747,
+   "severity": 0.39,
+   "insurance_type": 0.502,
+   "zones": 0.721
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 826694,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Schweller rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Schweller rechts": "schweller rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.912,
+   "case_kind": 0.576,
+   "severity": 0.699,
+   "insurance_type": 0.338,
+   "zones": 0.615
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 827140,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.856,
+   "case_kind": 0.233,
+   "severity": 0.459,
+   "insurance_type": 0.376
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 828141,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange hinten",
+   "Stoßstange hinten links",
+   "Stoßstange hinten rechts",
+   "Stoßstange vorne",
+   "Stoßstange vorne links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Stoßstange hinten links": "stoßstange hinten links",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.928,
+   "case_kind": 0.367,
+   "severity": 0.516,
+   "insurance_type": 0.37,
+   "zones": 0.612
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 828166,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.94,
+   "case_kind": 0.807
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 828556,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.817,
+   "case_kind": 0.394
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 829369,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne links",
+   "Stoßstange hinten",
+   "Stoßstange hinten links",
+   "Stoßstange hinten rechts",
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.901,
+   "case_kind": 0.265,
+   "severity": 0.436,
+   "insurance_type": 0.522,
+   "zones": 0.54
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 830087,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.834,
+   "case_kind": 0.577,
+   "severity": 0.383,
+   "insurance_type": 0.596,
+   "zones": 0.836
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 830612,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.827,
+   "case_kind": 0.354,
+   "severity": 0.574,
+   "insurance_type": 0.493
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 830928,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange hinten",
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.801,
+   "case_kind": 0.305,
+   "severity": 0.435,
+   "insurance_type": 0.565,
+   "zones": 0.556
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 831499,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.764,
+   "case_kind": 0.276
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 831881,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten links",
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Tür hinten links": "tür hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.822,
+   "case_kind": 0.251,
+   "severity": 0.481,
+   "insurance_type": 0.329,
+   "zones": 0.539
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 832173,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.871,
+   "case_kind": 0.394
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 832696,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.861,
+   "case_kind": 0.572,
+   "severity": 0.357,
+   "insurance_type": 0.636,
+   "zones": 0.837
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 833075,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.859,
+   "case_kind": 0.222,
+   "severity": 0.505,
+   "insurance_type": 0.571,
+   "zones": 0.598
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 833827,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.911,
+   "case_kind": 0.415
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 834130,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Außenspiegel rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Außenspiegel rechts": "außenspiegel rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.863,
+   "case_kind": 0.434,
+   "severity": 0.374,
+   "insurance_type": 0.691,
+   "zones": 0.753
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 834462,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.851,
+   "case_kind": 0.389
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 834616,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Stoßstange hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.901,
+   "case_kind": 0.378,
+   "severity": 0.475,
+   "insurance_type": 0.446,
+   "zones": 0.507
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 834726,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.898,
+   "case_kind": 0.322,
+   "severity": 0.626,
+   "insurance_type": 0.53,
+   "zones": 0.543
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 834742,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.897,
+   "case_kind": 0.722,
+   "severity": 0.466,
+   "insurance_type": 0.745,
+   "zones": 0.915
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 835359,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.765,
+   "case_kind": 0.489,
+   "severity": 0.587,
+   "insurance_type": 0.647
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 835918,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.788,
+   "case_kind": 0.388
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 836898,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links",
+   "Motorhaube",
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.915,
+   "case_kind": 0.455,
+   "severity": 0.428,
+   "insurance_type": 0.457,
+   "zones": 0.636
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 837732,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.897,
+   "case_kind": 0.839,
+   "severity": 0.365,
+   "insurance_type": 0.679,
+   "zones": 0.954
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 837808,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.873,
+   "case_kind": 0.328
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 837856,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.891,
+   "case_kind": 0.367,
+   "severity": 0.64,
+   "insurance_type": 0.458,
+   "zones": 0.62
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 837956,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel vorne links",
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.931,
+   "case_kind": 0.485,
+   "severity": 0.685,
+   "insurance_type": 0.348,
+   "zones": 0.673
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 838289,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.886,
+   "case_kind": 0.373
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 838641,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.893,
+   "case_kind": 0.401
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 838742,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne",
+   "Stoßstange vorne links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.861,
+   "case_kind": 0.407,
+   "severity": 0.535,
+   "insurance_type": 0.457,
+   "zones": 0.613
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 838936,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.847,
+   "case_kind": 0.763
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 839073,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.865,
+   "case_kind": 0.561
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 839223,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.76,
+   "case_kind": 0.329
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 839875,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.878,
+   "case_kind": 0.755
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 840416,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Außenspiegel links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Außenspiegel links": "außenspiegel links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.815,
+   "case_kind": 0.293,
+   "severity": 0.48,
+   "insurance_type": 0.563,
+   "zones": 0.728
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 841315,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.804,
+   "case_kind": 0.536
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 841460,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.804,
+   "case_kind": 0.43
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 841588,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts",
+   "Motorhaube",
+   "Stoßstange hinten",
+   "Stoßstange hinten links",
+   "Stoßstange vorne"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.919,
+   "case_kind": 0.487,
+   "severity": 0.684,
+   "insurance_type": 0.677,
+   "zones": 0.626
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 841953,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.815,
+   "case_kind": 0.695,
+   "severity": 0.431,
+   "insurance_type": 0.662,
+   "zones": 0.93
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 842246,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.918,
+   "case_kind": 0.674
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 842879,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.916,
+   "case_kind": 0.622
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 843740,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.78,
+   "case_kind": 0.604,
+   "severity": 0.484,
+   "insurance_type": 0.408,
+   "zones": 0.902
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 843747,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Stoßstange hinten",
+   "Stoßstange hinten rechts",
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.92,
+   "case_kind": 0.475,
+   "severity": 0.625,
+   "insurance_type": 0.519,
+   "zones": 0.569
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 844069,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.856,
+   "case_kind": 0.599,
+   "severity": 0.535,
+   "insurance_type": 0.608,
+   "zones": 0.89
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 844124,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.92,
+   "case_kind": 0.36
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 845351,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.867,
+   "case_kind": 0.429
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 846261,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.877,
+   "case_kind": 0.619
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 846640,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.864,
+   "case_kind": 0.508
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 846736,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.825,
+   "case_kind": 0.451
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 846807,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.854,
+   "case_kind": 0.284,
+   "severity": 0.414,
+   "insurance_type": 0.568,
+   "zones": 0.651
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 847051,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.908,
+   "case_kind": 0.793,
+   "severity": 0.437,
+   "insurance_type": 0.657,
+   "zones": 0.941
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 848366,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Stoßstange hinten links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.852,
+   "case_kind": 0.297,
+   "severity": 0.631,
+   "insurance_type": 0.527,
+   "zones": 0.573
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 848599,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.829,
+   "case_kind": 0.387
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 848920,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.855,
+   "case_kind": 0.505
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 849332,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.87,
+   "case_kind": 0.445
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 849458,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.853,
+   "case_kind": 0.65,
+   "severity": 0.401,
+   "insurance_type": 0.434,
+   "zones": 0.893
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 849692,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.837,
+   "case_kind": 0.291
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 849708,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.847,
+   "case_kind": 0.529,
+   "severity": 0.372,
+   "insurance_type": 0.562,
+   "zones": 0.861
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 849735,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.911,
+   "case_kind": 0.56
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 850382,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.897,
+   "case_kind": 0.424,
+   "severity": 0.613,
+   "insurance_type": 0.649,
+   "zones": 0.676
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 850870,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Stoßstange hinten links",
+   "Stoßstange vorne"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.896,
+   "case_kind": 0.361,
+   "severity": 0.527,
+   "insurance_type": 0.363,
+   "zones": 0.602
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 851110,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.838,
+   "case_kind": 0.371
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 851332,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Motorhaube",
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Motorhaube": "motorhaube",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.907,
+   "case_kind": 0.401,
+   "severity": 0.608,
+   "insurance_type": 0.475,
+   "zones": 0.628
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 851459,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.938,
+   "case_kind": 0.648
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 851803,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.89,
+   "case_kind": 0.321
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 852213,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Stoßstange vorne links",
+   "Tür hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "zone:Tür hinten links": "tür hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.876,
+   "case_kind": 0.42,
+   "severity": 0.659,
+   "insurance_type": 0.509,
+   "zones": 0.566
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 852650,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "schwer",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.783,
+   "case_kind": 0.219,
+   "severity": 0.476,
+   "insurance_type": 0.429
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 852844,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.846,
+   "case_kind": 0.419,
+   "severity": 0.376,
+   "insurance_type": 0.642,
+   "zones": 0.734
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 852899,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Tür hinten links",
+   "Tür hinten rechts"
+  ],
+  "severity": "schwer",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Kotflügel vorne rechts": "kotflügel vorne rechts",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.89,
+   "case_kind": 0.488,
+   "severity": 0.52,
+   "insurance_type": 0.483,
+   "zones": 0.675
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 853052,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.81,
+   "case_kind": 0.347
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 853217,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.895,
+   "case_kind": 0.401
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 853534,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Außenspiegel links",
+   "Stoßstange hinten links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Außenspiegel links": "außenspiegel links",
+   "zone:Stoßstange hinten links": "stoßstange hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.887,
+   "case_kind": 0.309,
+   "severity": 0.587,
+   "insurance_type": 0.432,
+   "zones": 0.55
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 854548,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.838,
+   "case_kind": 0.3,
+   "severity": 0.394,
+   "insurance_type": 0.467,
+   "zones": 0.672
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 854758,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.923,
+   "case_kind": 0.572
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 854832,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.886,
+   "case_kind": 0.586
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 855146,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.822,
+   "case_kind": 0.415
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 855940,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.878,
+   "case_kind": 0.464
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 856097,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Kotflügel hinten links": "kotflügel hinten links",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.9,
+   "case_kind": 0.343,
+   "severity": 0.444,
+   "insurance_type": 0.37,
+   "zones": 0.698
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 856176,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.765,
+   "case_kind": 0.475
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 857254,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.897,
+   "case_kind": 0.522
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 857268,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.894,
+   "case_kind": 0.545
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 857332,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.717,
+   "case_kind": 0.299,
+   "severity": 0.395,
+   "insurance_type": 0.367
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 857915,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.937,
+   "case_kind": 0.438,
+   "severity": 0.685,
+   "insurance_type": 0.484,
+   "zones": 0.647
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 858134,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.915,
+   "case_kind": 0.53
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 858459,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.806,
+   "case_kind": 0.422
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 858572,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.728,
+   "case_kind": 0.281
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 859189,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.936,
+   "case_kind": 0.64
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 859329,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "schwer",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.857,
+   "case_kind": 0.293,
+   "severity": 0.379,
+   "insurance_type": 0.613
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 860356,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.875,
+   "case_kind": 0.729
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 860601,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.874,
+   "case_kind": 0.447
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 860796,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.869,
+   "case_kind": 0.509
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 862097,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.907,
+   "case_kind": 0.697
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 862159,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Kotflügel vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.829,
+   "case_kind": 0.289,
+   "severity": 0.555,
+   "insurance_type": 0.53,
+   "zones": 0.54
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 862161,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.784,
+   "case_kind": 0.272,
+   "severity": 0.423,
+   "insurance_type": 0.487
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 862379,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.784,
+   "case_kind": 0.635,
+   "severity": 0.369,
+   "insurance_type": 0.594,
+   "zones": 0.904
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 862507,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.841,
+   "case_kind": 0.247,
+   "severity": 0.704,
+   "insurance_type": 0.398,
+   "zones": 0.557
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 862646,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.864,
+   "case_kind": 0.512
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 863160,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.889,
+   "case_kind": 0.674
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 863515,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.905,
+   "case_kind": 0.55
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 863853,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.912,
+   "case_kind": 0.69,
+   "severity": 0.426,
+   "insurance_type": 0.72,
+   "zones": 0.928
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 863870,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.894,
+   "case_kind": 0.704
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 864149,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.692,
+   "case_kind": 0.332
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 864355,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.822,
+   "case_kind": 0.363
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 864671,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.908,
+   "case_kind": 0.495
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 864893,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.859,
+   "case_kind": 0.353
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 864894,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.863,
+   "case_kind": 0.491
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 865286,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.935,
+   "case_kind": 0.477
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 865981,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.777,
+   "case_kind": 0.588
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 867265,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten links",
+   "Kotflügel hinten rechts",
+   "Kotflügel vorne rechts",
+   "Stoßstange hinten rechts",
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.892,
+   "case_kind": 0.477,
+   "severity": 0.545,
+   "insurance_type": 0.594,
+   "zones": 0.639
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 867951,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Heckklappe",
+   "Stoßstange hinten",
+   "Stoßstange hinten links",
+   "Stoßstange hinten rechts",
+   "Stoßstange vorne"
+  ],
+  "severity": "schwer",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.886,
+   "case_kind": 0.616,
+   "severity": 0.565,
+   "insurance_type": 0.75,
+   "zones": 0.602
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 868539,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.847,
+   "case_kind": 0.602,
+   "severity": 0.414,
+   "insurance_type": 0.542,
+   "zones": 0.893
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 871198,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.934,
+   "case_kind": 0.465
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 871259,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.878,
+   "case_kind": 0.341,
+   "severity": 0.428,
+   "insurance_type": 0.365,
+   "zones": 0.641
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 871303,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.883,
+   "case_kind": 0.27,
+   "severity": 0.566,
+   "insurance_type": 0.459
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 872821,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.849,
+   "case_kind": 0.506
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 872984,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Kotflügel hinten rechts",
+   "Stoßstange hinten links",
+   "Stoßstange hinten rechts",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.917,
+   "case_kind": 0.251,
+   "severity": 0.651,
+   "insurance_type": 0.403,
+   "zones": 0.558
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 873135,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.934,
+   "case_kind": 0.609
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 873174,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.857,
+   "case_kind": 0.488
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 874892,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.815,
+   "case_kind": 0.331
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 875500,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts",
+   "Motorhaube",
+   "Stoßstange vorne",
+   "Stoßstange vorne links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.946,
+   "case_kind": 0.725,
+   "severity": 0.513,
+   "insurance_type": 0.481,
+   "zones": 0.645
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 875860,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.785,
+   "case_kind": 0.635,
+   "severity": 0.398,
+   "insurance_type": 0.374,
+   "zones": 0.905
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 875974,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.904,
+   "case_kind": 0.669
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 876640,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.816,
+   "case_kind": 0.289,
+   "severity": 0.418,
+   "insurance_type": 0.412,
+   "zones": 0.648
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 876742,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.808,
+   "case_kind": 0.238,
+   "severity": 0.352,
+   "insurance_type": 0.555,
+   "zones": 0.541
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 877890,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.804,
+   "case_kind": 0.301,
+   "severity": 0.397,
+   "insurance_type": 0.516
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 878138,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.907,
+   "case_kind": 0.452
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 878653,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.875,
+   "case_kind": 0.363,
+   "severity": 0.453,
+   "insurance_type": 0.571
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 878673,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.727,
+   "case_kind": 0.356
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 878678,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "zones": [
+   "Stoßstange vorne",
+   "Stoßstange vorne links"
+  ],
+  "severity": "schwer",
+  "insurance_type": "haftpflicht_gegner",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Stoßstange vorne links": "stoßstange vorne links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: auffahrunfall, stoßstange, aufgefahren, war, auffahrunfall an",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: haftpflicht, haftung, anerkannt, haftpflicht gegner, haftpflicht reguliert"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.894,
+   "case_kind": 0.439,
+   "severity": 0.369,
+   "insurance_type": 0.509,
+   "zones": 0.694
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 879298,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.874,
+   "case_kind": 0.639
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 879863,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.917,
+   "case_kind": 0.718
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 880510,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.822,
+   "case_kind": 0.323
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 880821,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.928,
+   "case_kind": 0.592
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 881399,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Kotflügel vorne links",
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Kotflügel vorne links": "kotflügel vorne links",
+   "zone:Stoßstange vorne": "stoßstange vorne",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.855,
+   "case_kind": 0.304,
+   "severity": 0.544,
+   "insurance_type": 0.455,
+   "zones": 0.628
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 881785,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.836,
+   "case_kind": 0.734
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 881845,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Motorhaube",
+   "Tür hinten rechts"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Tür hinten rechts": "tür hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.927,
+   "case_kind": 0.516,
+   "severity": 0.653,
+   "insurance_type": 0.374,
+   "zones": 0.523
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 882011,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Außenspiegel links",
+   "Kotflügel vorne rechts",
+   "Stoßstange vorne links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.887,
+   "case_kind": 0.348,
+   "severity": 0.74,
+   "insurance_type": 0.581,
+   "zones": 0.573
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 883006,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.918,
+   "case_kind": 0.563
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 883493,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.913,
+   "case_kind": 0.849,
+   "severity": 0.423,
+   "insurance_type": 0.781,
+   "zones": 0.945
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 883550,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.943,
+   "case_kind": 0.523
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 884436,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.884,
+   "case_kind": 0.385,
+   "severity": 0.636,
+   "insurance_type": 0.507
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 884480,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.886,
+   "case_kind": 0.569
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 884955,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.885,
+   "case_kind": 0.53
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 885549,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.889,
+   "case_kind": 0.28,
+   "severity": 0.462,
+   "insurance_type": 0.552,
+   "zones": 0.649
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 885968,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.872,
+   "case_kind": 0.442
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 886217,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.881,
+   "case_kind": 0.543
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 886567,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.918,
+   "case_kind": 0.579
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 887161,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.786,
+   "case_kind": 0.385
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 887724,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.861,
+   "case_kind": 0.509
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 888381,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Schweller rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Schweller rechts": "schweller rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.858,
+   "case_kind": 0.379,
+   "severity": 0.431,
+   "insurance_type": 0.399,
+   "zones": 0.553
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 888387,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.875,
+   "case_kind": 0.399
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 888443,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.835,
+   "case_kind": 0.508
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 888738,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.898,
+   "case_kind": 0.491
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 888794,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.914,
+   "case_kind": 0.777
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 888935,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.916,
+   "case_kind": 0.766,
+   "severity": 0.385,
+   "insurance_type": 0.713,
+   "zones": 0.935
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 889373,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [],
+  "severity": "mittel",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.791,
+   "case_kind": 0.302,
+   "severity": 0.466,
+   "insurance_type": 0.335
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 890645,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.891,
+   "case_kind": 0.501
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 890706,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.851,
+   "case_kind": 0.38
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 891362,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.745,
+   "case_kind": 0.303
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 892094,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.756,
+   "case_kind": 0.464,
+   "severity": 0.526,
+   "insurance_type": 0.521,
+   "zones": 0.821
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 892156,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.896,
+   "case_kind": 0.591
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 892250,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.882,
+   "case_kind": 0.565
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 893103,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Schweller links",
+   "Stoßstange hinten",
+   "Stoßstange hinten links",
+   "Tür hinten rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "zone:Stoßstange hinten links": "stoßstange hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.795,
+   "case_kind": 0.424,
+   "severity": 0.454,
+   "insurance_type": 0.571,
+   "zones": 0.56
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 893861,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.903,
+   "case_kind": 0.676
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 894099,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.721,
+   "case_kind": 0.499
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 894117,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.794,
+   "case_kind": 0.528
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895323,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "zones": [
+   "Dach",
+   "Heckklappe",
+   "Motorhaube"
+  ],
+  "severity": "leicht",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Dach": "dach",
+   "zone:Heckklappe": "heckklappe",
+   "zone:Motorhaube": "motorhaube",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: dellen, hagelschlag, hagelschaden, aus, dach",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.923,
+   "case_kind": 0.91,
+   "severity": 0.478,
+   "insurance_type": 0.701,
+   "zones": 0.973
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895520,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.936,
+   "case_kind": 0.284,
+   "severity": 0.508,
+   "insurance_type": 0.397,
+   "zones": 0.571
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895612,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "zones": [
+   "Windschutzscheibe"
+  ],
+  "severity": "schwer",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Windschutzscheibe": "windschutzscheibe",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: steinschlag, windschutzscheibe, einschlag, möglich, 150 eur",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.882,
+   "case_kind": 0.662,
+   "severity": 0.462,
+   "insurance_type": 0.698,
+   "zones": 0.915
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895796,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Tür hinten links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Tür hinten links": "tür hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.872,
+   "case_kind": 0.484,
+   "severity": 0.441,
+   "insurance_type": 0.67,
+   "zones": 0.686
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895806,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.798,
+   "case_kind": 0.367
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895937,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "zones": [
+   "Motorhaube",
+   "Stoßstange vorne links",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "zone:Motorhaube": "motorhaube",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: wildunfall, kotflügel vorne, vorne, kunde wildunfall, kotflügel",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.891,
+   "case_kind": 0.319,
+   "severity": 0.596,
+   "insurance_type": 0.411,
+   "zones": 0.625
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 895978,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Stoßstange hinten"
+  ],
+  "severity": "schwer",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Stoßstange hinten": "stoßstange hinten",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: träger verformt, träger, verformt, großflächig deformiert, großflächig",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.923,
+   "case_kind": 0.407,
+   "severity": 0.672,
+   "insurance_type": 0.66,
+   "zones": 0.68
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 896468,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.864,
+   "case_kind": 0.59
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 896932,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.848,
+   "case_kind": 0.602
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 897102,
+  "case_type": "service",
+  "case_kind": "Inspektion",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: inspektion, große, inkl innenraumfilter, große inspektion, inspektion inkl"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.865,
+   "case_kind": 0.475
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 897638,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Stoßstange hinten rechts",
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Stoßstange hinten rechts": "stoßstange hinten rechts",
+   "zone:Tür hinten links": "tür hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.862,
+   "case_kind": 0.336,
+   "severity": 0.483,
+   "insurance_type": 0.54,
+   "zones": 0.645
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 897690,
+  "case_type": "service",
+  "case_kind": "Räder und Reifen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: reifen, räderwechsel, wuchten, reifendruck prüfen, räderwechsel mit"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.869,
+   "case_kind": 0.617
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 897848,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel vorne rechts",
+   "Stoßstange hinten links",
+   "Stoßstange vorne",
+   "Stoßstange vorne rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Stoßstange vorne rechts": "stoßstange vorne rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.892,
+   "case_kind": 0.306,
+   "severity": 0.534,
+   "insurance_type": 0.535,
+   "zones": 0.536
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 897855,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "abgeschlossen",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.832,
+   "case_kind": 0.381
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 898191,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "zones": [
+   "Kotflügel hinten rechts"
+  ],
+  "severity": "mittel",
+  "insurance_type": "vollkasko",
+  "lifecycle_stage": "neu",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "no progress fields",
+   "zone:Kotflügel hinten rechts": "kotflügel hinten rechts",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: rangierschaden, beim, rangierschaden beim, kunde rangierschaden, der laderampe",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: vollkasko, vk, 500, sb 500, 500 eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.917,
+   "case_kind": 0.361,
+   "severity": 0.42,
+   "insurance_type": 0.535,
+   "zones": 0.613
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 898607,
+  "case_type": "service",
+  "case_kind": "HU/AU",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: hu, tüv, hu au, au, mit vorabcheck"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.862,
+   "case_kind": 0.725
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 898686,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "zones": [
+   "Tür hinten links"
+  ],
+  "severity": "leicht",
+  "insurance_type": "gesteuert",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "zone:Tür hinten links": "tür hinten links",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: parkschaden, kunde parkschaden, dem, niemand, parkschaden vor",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: steuerung, schadensteuerer, auftrag, in prüfung, hat kva"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.823,
+   "case_kind": 0.303,
+   "severity": 0.511,
+   "insurance_type": 0.509,
+   "zones": 0.606
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 898942,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Motorhaube",
+   "Schweller links"
+  ],
+  "severity": "mittel",
+  "insurance_type": "teilkasko",
+  "lifecycle_stage": "laufend",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "reparation_start_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: beule, kunststoff, kunststoff eingedrückt, lack abgeplatzt, abgeplatzt",
+   "insurance_type": "top terms: 150, 150 eur, sb 150, teilkasko, eur"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.918,
+   "case_kind": 0.43,
+   "severity": 0.49,
+   "insurance_type": 0.407,
+   "zones": 0.56
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 899079,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "zones": [
+   "Stoßstange hinten rechts"
+  ],
+  "severity": "leicht",
+  "insurance_type": "selbstzahler",
+  "lifecycle_stage": "storniert",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "canceled_at",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: vandalismus, anzeige, kunde vandalismus, vandalismus schaden, schaden",
+   "severity": "top terms: lackabrieb, kleine, kleine delle, kratzspuren, feine",
+   "insurance_type": "top terms: selbstzahler, rechnung an, selbstzahler rechnung, spiel, selbstzahler keine"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.818,
+   "case_kind": 0.314,
+   "severity": 0.395,
+   "insurance_type": 0.414,
+   "zones": 0.524
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 899366,
+  "case_type": "service",
+  "case_kind": "Ölwechsel",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: ölwechsel, ölservice, longlife, ölwechsel longlife, zurücksetzen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.731,
+   "case_kind": 0.384
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ },
+ {
+  "case_id": 899834,
+  "case_type": "service",
+  "case_kind": "Bremsen",
+  "zones": [],
+  "severity": null,
+  "insurance_type": null,
+  "lifecycle_stage": "fertig",
+  "status": "accepted",
+  "evidence": {
+   "lifecycle_stage": "completion_date_time",
+   "case_type": "top terms: inspektion, bitte, fällig, reifen, hu",
+   "case_kind": "top terms: bremsen, messen, fällig beläge, bremsflüssigkeit fällig, beläge messen"
+  },
+  "confidence": {
+   "lifecycle_stage": 1.0,
+   "case_type": 0.932,
+   "case_kind": 0.575
+  },
+  "notes": [
+   "tfidf+logreg"
+  ]
+ }
+]

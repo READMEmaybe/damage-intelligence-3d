@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Delle mit Lackschaden von ca. 10 cm ist ein typischer, instandsetzungsfähiger Schaden ohne Hinweis auf Austausch.",
+ "evidence": "Schaden an Motorhaube, Delle mit Lackschaden, ca. 10 cm."
+}

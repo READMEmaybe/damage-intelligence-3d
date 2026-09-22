@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Zone Stoßstange hinten sind nur Schrammen ohne Angabe zu Reparatur oder Austausch dokumentiert.",
+ "evidence": "Weiterer Schaden Stoßstange hinten, Schrammen."
+}

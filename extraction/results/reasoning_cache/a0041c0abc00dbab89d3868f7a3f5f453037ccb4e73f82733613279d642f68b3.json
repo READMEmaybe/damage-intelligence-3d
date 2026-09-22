@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Delle mit Lackschaden ohne Hinweis auf Nicht-Reparierbarkeit legt Instandsetzung nahe.",
+ "evidence": "Kotflügel vorne rechts Delle mit Lackschaden, ca. 40 cm."
+}

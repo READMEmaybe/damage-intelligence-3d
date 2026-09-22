@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Für den Außenspiegel links sind nur Kratzer bis auf die Grundierung beschrieben; ob Lackierung ausreicht oder ein Austausch nötig ist, lässt sich daraus nicht ableiten.",
+ "evidence": "Zusätzlich Außenspiegel links betroffen, Kratzer bis auf Grundierung."
+}

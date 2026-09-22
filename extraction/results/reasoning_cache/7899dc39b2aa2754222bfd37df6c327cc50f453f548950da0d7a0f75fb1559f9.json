@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Beule an der Tür hinten rechts fehlen Angaben zu Größe, Tiefe oder Reparaturfähigkeit, daher ist keine belastbare Entscheidung zwischen Reparatur und Austausch möglich.",
+ "evidence": "Weiterer Schaden Tür hinten rechts, Beule."
+}

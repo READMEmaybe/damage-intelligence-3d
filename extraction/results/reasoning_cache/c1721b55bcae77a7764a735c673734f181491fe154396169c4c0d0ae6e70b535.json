@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt Dellen auf dem Dach, aber ohne Angabe zur Reparierbarkeit oder Austausch, daher ist eine Maßnahme nicht begründbar.",
+ "evidence": "Dach übersät mit Dellen, Zählung Dellenkarte offen."
+}

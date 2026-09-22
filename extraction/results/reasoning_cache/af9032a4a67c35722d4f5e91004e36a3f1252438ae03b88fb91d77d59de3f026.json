@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Kratzer bis auf Grundierung lassen keine eindeutige Entscheidung zwischen Reparatur und Austausch zu, und die Notiz fordert zunächst einen KVA.",
+ "evidence": "Zusätzlich Stoßstange hinten betroffen, Kratzer bis auf Grundierung."
+}

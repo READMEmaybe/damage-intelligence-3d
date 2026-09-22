@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Nur Lackabrieb beschrieben, keine explizite Reparatur- oder Austauschanweisung; KVA soll vor Reparatur abgestimmt werden.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

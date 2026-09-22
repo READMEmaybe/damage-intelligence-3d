@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für das Dach ist nur ein Hagelschaden bei intaktem Lack beschrieben, ohne Angabe zu Dellen oder Reparaturmöglichkeit.",
+ "evidence": "Hagel: Dach betroffen, Lack laut Sichtprüfung intakt."
+}

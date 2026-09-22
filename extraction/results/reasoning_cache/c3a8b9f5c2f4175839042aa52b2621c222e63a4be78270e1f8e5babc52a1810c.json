@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Mehrere Hageldellen an der Heckklappe sprechen für eine Dellendrück-/Lackierarbeit statt Austausch.",
+ "evidence": "Heckklappe mit mehreren Dellen aus Hagelschlag."
+}

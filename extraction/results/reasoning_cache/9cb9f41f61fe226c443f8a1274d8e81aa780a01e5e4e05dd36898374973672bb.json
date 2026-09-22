@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Steinschlag mit 2 cm Einschlag kann je nach Position und Tiefe repariert oder ersetzt werden; die Notiz nennt keine Maßnahme und verlangt ausdrücklich eine KVA-Abstimmung vor Reparatur.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

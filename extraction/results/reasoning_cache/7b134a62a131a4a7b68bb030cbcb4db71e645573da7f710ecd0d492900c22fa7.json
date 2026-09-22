@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gerissenes und loses Stoßstangenteil deutet auf Austausch hin, zumal Ersatzteile bestellt wurden.",
+ "evidence": "Weiterer Schaden Stoßstange hinten links, Teil gerissen und lose."
+}

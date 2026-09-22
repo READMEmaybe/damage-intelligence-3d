@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Motorhaube ist nur eine gebrochene Halterung und handtellergroßer Schaden genannt, ohne dass Reparatur oder Austausch ausdrücklich angeordnet wird.",
+ "evidence": "Schaden an Motorhaube, Halterung gebrochen, handtellergroß."
+}

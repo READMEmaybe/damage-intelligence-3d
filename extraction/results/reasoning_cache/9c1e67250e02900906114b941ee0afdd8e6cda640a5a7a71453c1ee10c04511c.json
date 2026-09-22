@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Schrammen ohne Hinweis auf Austausch sprechen für eine Reparatur.",
+ "evidence": "Zusätzlich Stoßstange hinten rechts betroffen, Schrammen."
+}

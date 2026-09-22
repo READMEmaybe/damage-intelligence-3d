@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden mit intaktem Lack am Dach deutet auf Dellendrücken ohne Bauteiltausch hin.",
+ "evidence": "Hagel: Dach betroffen, Lack laut Sichtprüfung intakt."
+}

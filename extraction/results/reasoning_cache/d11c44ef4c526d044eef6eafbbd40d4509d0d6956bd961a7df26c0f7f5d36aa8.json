@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den vorderen Kotflügel ist nur 'Aufnahme abgerissen' genannt, ohne dass Reparatur oder Austausch ausdrücklich angeordnet wird.",
+ "evidence": "Auch Kotflügel vorne links beschädigt (Aufnahme abgerissen)."
+}

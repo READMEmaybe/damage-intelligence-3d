@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Halterung auf ganzer Länge deutet auf nicht reparierbaren Austausch der Tür hin.",
+ "evidence": "Tür hinten rechts Halterung gebrochen, auf ganzer Länge."
+}

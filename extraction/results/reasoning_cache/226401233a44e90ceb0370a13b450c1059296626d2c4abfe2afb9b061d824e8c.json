@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Gebrochene Halterung an der Stoßstange ist in der Regel nicht wirtschaftlich reparierbar und erfordert Austausch.",
+ "evidence": "Stoßstange vorne links Halterung gebrochen, ca. 25 cm."
+}

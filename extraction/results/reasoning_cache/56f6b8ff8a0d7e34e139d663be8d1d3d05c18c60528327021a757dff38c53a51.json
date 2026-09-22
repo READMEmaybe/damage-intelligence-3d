@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Delle mit Lackschaden ohne Angabe zur Reparierbarkeit oder zum Austausch; KVA dient der Bewertung.",
+ "evidence": "Delle mit Lackschaden, ca. 3 cm Durchmesser"
+}

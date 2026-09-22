@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer im Klarlack sind ein leichter Schaden, der typischerweise durch Lackreparatur behoben wird.",
+ "evidence": "Motorhaube ebenfalls: Kratzer im Klarlack."
+}

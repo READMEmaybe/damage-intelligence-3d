@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Gebrochene Halterung bei mittlerem Schaden lässt Reparatur oder Austausch zu, ist aber nicht eindeutig festgelegt; KVA-Abstimmung spricht für Begutachtung.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Handtellergroße Schrammen am Außenspiegel deuten auf oberflächlichen Lackschaden hin, der poliert oder lackiert werden kann.",
+ "evidence": "Schrammen an Außenspiegel links, handtellergroß."
+}

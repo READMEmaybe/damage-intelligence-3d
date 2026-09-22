@@ -1,0 +1,8 @@
+{
+ "zone": "Windschutzscheibe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Riss über halbe Scheibenbreite spricht eher für Austausch, aber Kunde fragt nach Smart Repair und Kalkulation ist noch offen – keine eindeutige Maßnahme dokumentiert.",
+ "evidence": "Riss in Windschutzscheibe zieht sich über die halbe Breite."
+}

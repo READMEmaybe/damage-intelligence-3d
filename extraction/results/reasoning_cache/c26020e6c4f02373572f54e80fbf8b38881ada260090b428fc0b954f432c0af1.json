@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Halterung auf ganzer Länge deutet auf nicht reparierbaren Stoßstangenschaden hin, Ersatzteil wurde bestellt.",
+ "evidence": "Stoßstange hinten rechts: Halterung gebrochen, auf ganzer Länge."
+}

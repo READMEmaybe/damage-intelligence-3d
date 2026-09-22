@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur mehrere Dellen am Dach, ohne eine Reparatur- oder Austauschentscheidung zu nennen.",
+ "evidence": "Dach mit mehreren Dellen aus Hagelschlag."
+}

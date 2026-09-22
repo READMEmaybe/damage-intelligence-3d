@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Punktuelle Beule ohne Angabe zur Reparierbarkeit; Kunde entscheidet erst nach Preis, daher ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Schweller links Beule, punktuell, mehrere Stellen."
+}

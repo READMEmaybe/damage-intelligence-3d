@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Abgerissene Aufnahme über zwei Bauteile bei schwerem Rangierschaden deutet auf nicht reparierbaren Kotflügel hin.",
+ "evidence": "Kotflügel vorne rechts über zwei Bauteile Aufnahme abgerissen."
+}

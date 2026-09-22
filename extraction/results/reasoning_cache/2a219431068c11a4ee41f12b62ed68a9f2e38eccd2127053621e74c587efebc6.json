@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzungen deuten auf eine oberflächliche Beschädigung hin, die durch Lackieren repariert werden kann.",
+ "evidence": "Auch Heckklappe beschädigt (Lack abgeplatzt)."
+}

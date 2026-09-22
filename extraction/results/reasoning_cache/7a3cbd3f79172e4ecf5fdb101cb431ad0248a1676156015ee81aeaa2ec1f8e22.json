@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Hagelschaden am Dach mit offener Dellenkarte, keine Aussage zu Reparatur oder Austausch möglich.",
+ "evidence": "Dach übersät mit Dellen, Zählung Dellenkarte offen."
+}

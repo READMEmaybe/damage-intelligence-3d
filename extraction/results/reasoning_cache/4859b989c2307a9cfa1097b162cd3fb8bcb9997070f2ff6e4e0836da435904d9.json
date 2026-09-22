@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Flächiger Hagelschlag mit zahlreichen Dellen am Dach deutet auf Ausbeulen (Smart Repair) hin, nicht auf Austausch.",
+ "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+}

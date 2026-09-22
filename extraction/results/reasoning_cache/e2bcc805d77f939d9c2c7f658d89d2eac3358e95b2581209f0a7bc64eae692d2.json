@@ -1,0 +1,8 @@
+{
+ "zone": "Außenspiegel rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf die Grundierung sind typischerweise durch Lackieren reparierbar, kein Austausch oder Totalschaden erkennbar.",
+ "evidence": "Außenspiegel rechts ebenfalls: Kratzer bis auf Grundierung."
+}

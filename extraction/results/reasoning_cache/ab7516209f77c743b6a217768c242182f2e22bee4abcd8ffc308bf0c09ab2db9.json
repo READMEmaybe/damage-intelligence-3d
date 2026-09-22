@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Heckklappe ist vom Hagel betroffen, Lack intakt, aber keine Angabe ob Dellen drückbar (repair) oder nicht (replace).",
+ "evidence": "Hagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt."
+}

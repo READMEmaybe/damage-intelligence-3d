@@ -1,0 +1,580 @@
+[
+ {
+  "case_id": 820002,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Windschutzscheibe",
+    "action": "replace",
+    "action_source": "explicit",
+    "confidence": 0.97,
+    "reason": "The note states repair is not possible and replacement is required.",
+    "evidence": "Reparatur nicht möglich, Austausch"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 820141,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange hinten rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Die Notiz beschreibt nur eine punktuelle Eindrückung ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+    "evidence": "Kunststoff eingedrückt, punktuell, mehrere Stellen"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 820223,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "severity": "leicht",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Kotflügel hinten links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   },
+   {
+    "zone": "Kotflügel hinten rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 820258,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "schwer",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Außenspiegel links",
+    "action": "replace",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Ein gerissenes und loses Teil am Außenspiegel deutet auf einen nicht reparierbaren Schaden hin, der einen Austausch erfordert.",
+    "evidence": "An Außenspiegel links Teil gerissen und lose (handtellergroß)."
+   },
+   {
+    "zone": "Stoßstange vorne links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Großflächige Deformierung lässt Reparatur oder Austausch offen; keine explizite Maßnahme für die Stoßstange genannt.",
+    "evidence": "Weiterer Schaden Stoßstange vorne links, großflächig deformiert."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 820498,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Windschutzscheibe",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.75,
+    "reason": "The note states repair is feasible (inspection result).",
+    "evidence": "Harzreparatur angeboten"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 820558,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "severity": "leicht",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Kotflügel hinten links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Nur eine kleine Delle ohne Angabe zur Reparierbarkeit; KVA soll vorab abgestimmt werden, daher ist keine eindeutige Maßnahme ableitbar.",
+    "evidence": "Zusätzlich Kotflügel hinten links betroffen, kleine Delle."
+   },
+   {
+    "zone": "Kotflügel hinten rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Nur eine kleine Delle beschrieben, keine explizite Reparatur- oder Austauschanweisung für diese Zone.",
+    "evidence": "Schaden an Kotflügel hinten rechts, kleine Delle, ca. 25 cm."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 820709,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "severity": "schwer",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange hinten",
+    "action": "replace",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Verformter Träger an der Stoßstange hinten über zwei Bauteile bei schwerem Rangierschaden legt Austausch nahe, zumal Teile bestellt wurden.",
+    "evidence": "Träger verformt an Stoßstange hinten, über zwei Bauteile."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821084,
+  "case_type": "damage",
+  "case_kind": "Auffahrunfall",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange hinten",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Für die Stoßstange hinten ist nur eine eingedrückte Kunststoffbeschädigung ohne Angabe zu Reparaturfähigkeit oder Austausch genannt.",
+    "evidence": "Auch Stoßstange hinten beschädigt (Kunststoff eingedrückt)."
+   },
+   {
+    "zone": "Stoßstange hinten links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Für die Stoßstange hinten links sind nur Kratzer bis auf die Grundierung beschrieben, ohne Angabe ob Reparatur oder Austausch erfolgen soll.",
+    "evidence": "Kratzer bis auf Grundierung an Stoßstange hinten links, ca. 40 cm."
+   },
+   {
+    "zone": "Stoßstange vorne rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Für die vordere rechte Stoßstange ist nur ein Lackriss beschrieben, ohne Hinweis auf Reparatur oder Austausch.",
+    "evidence": "Stoßstange vorne rechts ebenfalls: Riss im Lack."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821214,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Kotflügel vorne links",
+    "action": "replace",
+    "action_source": "explicit",
+    "confidence": 0.97,
+    "reason": "The note explicitly states replacement.",
+    "evidence": "Austausch statt Instandsetzung"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821218,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange hinten links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Lackabplatzung ohne Angabe zur Reparierbarkeit; Kunde entscheidet erst nach Preis, daher keine eindeutige Maßnahme ableitbar.",
+    "evidence": "Lack abgeplatzt an Stoßstange hinten links, über zwei Bauteile."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821300,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "schwer",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Kotflügel hinten rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Für den Kotflügel hinten rechts liegt nur die vage Beschreibung 'Blech verzogen' vor, ohne Hinweis auf Reparaturfähigkeit oder Austausch.",
+    "evidence": "Auch Kotflügel hinten rechts beschädigt (Blech verzogen)."
+   },
+   {
+    "zone": "Schweller links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Die Notiz beschreibt einen abgerissenen Aufnahmepunkt am Schweller, nennt aber weder Reparatur noch Austausch explizit.",
+    "evidence": "Schaden an Schweller links, Aufnahme abgerissen, handtellergroß."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821314,
+  "case_type": "damage",
+  "case_kind": "Vandalismus",
+  "severity": "leicht",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Außenspiegel rechts",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Lackabrieb von ca. 5 cm am Außenspiegel deutet auf eine oberflächliche Beschädigung hin, die lackiert werden kann.",
+    "evidence": "Lackabrieb an Außenspiegel rechts, ca. 5 cm."
+   },
+   {
+    "zone": "Stoßstange vorne rechts",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Kleine Delle ohne Hinweis auf Austausch oder Nicht-Reparierbarkeit legt eine Reparatur nahe.",
+    "evidence": "Weiterer Schaden Stoßstange vorne rechts, kleine Delle."
+   },
+   {
+    "zone": "Tür hinten rechts",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Kratzer ohne Lackdurchtrennung deuten auf eine oberflächliche Lackreparatur hin.",
+    "evidence": "Zusätzlich Tür hinten rechts betroffen, Kratzer, Lack nicht durch."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821324,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Windschutzscheibe",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.75,
+    "reason": "The note states repair is feasible (inspection result).",
+    "evidence": "Reparatur laut Prüfung möglich"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821533,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "leicht",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Fahrertür",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Feine Kratzspuren an der Fahrertür deuten auf eine leichte, oberflächliche Beschädigung hin, die typischerweise repariert wird.",
+    "evidence": "Auch Fahrertür beschädigt (feine Kratzspuren)."
+   },
+   {
+    "zone": "Kotflügel hinten links",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Kleine punktuelle Delle bei leichtem Parkschaden spricht für Instandsetzung statt Austausch.",
+    "evidence": "Kotflügel hinten links kleine Delle, punktuell, mehrere Stellen."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821794,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Dach",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Hagelschaden mit intaktem Lack deutet auf Dellendrücken (Reparatur) hin, kein Austausch angezeigt.",
+    "evidence": "Hagel: Dach betroffen, Lack laut Sichtprüfung intakt."
+   },
+   {
+    "zone": "Heckklappe",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Zahlreiche Hageldellen bei intaktem Lack deuten auf eine Dellendrück-/Smart-Repair-Maßnahme hin, nicht auf Austausch.",
+    "evidence": "Heckklappe mit zahlreichen Dellen"
+   },
+   {
+    "zone": "Motorhaube",
+    "action": "repair",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Hagelschaden mit intaktem Lack deutet auf Dellendrücken (Smart Repair) hin, nicht auf Austausch.",
+    "evidence": "Hagel: Motorhaube betroffen, Lack laut Sichtprüfung intakt."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 821961,
+  "case_type": "damage",
+  "case_kind": "Hagelschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Dach",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Für das Dach ist nur eine flächige Dellenbeschreibung ohne Angabe zu Reparatur oder Austausch vorhanden.",
+    "evidence": "Hagelschlag flächig, Dach mit zahlreichen Dellen."
+   },
+   {
+    "zone": "Motorhaube",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Für die Motorhaube sind nur Dellen ohne Angabe zu Reparatur oder Austausch dokumentiert; die Zählung ist offen.",
+    "evidence": "Motorhaube übersät mit Dellen, Zählung Dellenkarte offen."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 823013,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "severity": "schwer",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange vorne",
+    "action": "replace",
+    "action_source": "explicit",
+    "confidence": 0.97,
+    "reason": "The note explicitly states replacement.",
+    "evidence": "Austausch statt Instandsetzung"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 823577,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "severity": "schwer",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Kotflügel vorne rechts",
+    "action": "replace",
+    "action_source": "inferred",
+    "confidence": 0.75,
+    "reason": "Ein durchgebrochener Kotflügel (ca. 40 cm) ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+    "evidence": "Bauteil durchgebrochen an Kotflügel vorne rechts, ca. 40 cm."
+   },
+   {
+    "zone": "Stoßstange vorne links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Die Notiz beschreibt nur eine starke Eindrückung ohne Angabe, ob eine Reparatur möglich ist oder ein Austausch erforderlich wird.",
+    "evidence": "Auch Stoßstange vorne links beschädigt (stark eingedrückt)."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 823954,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Kotflügel vorne links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   },
+   {
+    "zone": "Schweller rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 824929,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "mittel",
+  "status": "needs_review",
+  "damages": [
+   {
+    "zone": "Kotflügel hinten rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.3,
+    "reason": "Für den Kotflügel hinten rechts wird nur ein Kratzer beschrieben, ohne dass eine Reparatur oder ein Austausch explizit angeordnet wird.",
+    "evidence": "Kotflügel hinten rechts Kratzer bis auf Grundierung, ca. 3 cm Durchmesser."
+   },
+   {
+    "zone": "Stoßstange vorne rechts",
+    "action": "replace",
+    "action_source": "explicit",
+    "confidence": 0.9,
+    "reason": "The note explicitly states replacement.",
+    "evidence": "Austausch statt Instandsetzung"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 825880,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Windschutzscheibe",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Steinschlag mit 2 cm Einschlag lässt Reparatur oder Austausch zu, aber die Notiz nennt keine Maßnahme für die Windschutzscheibe.",
+    "evidence": "Bitte KVA vor Reparatur abstimmen."
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 826351,
+  "case_type": "damage",
+  "case_kind": "Wildunfall",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange vorne links",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 826591,
+  "case_type": "damage",
+  "case_kind": "Parkschaden",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Stoßstange vorne rechts",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 827151,
+  "case_type": "damage",
+  "case_kind": "Rangierschaden",
+  "severity": "leicht",
+  "status": "needs_review",
+  "damages": [
+   {
+    "zone": "Fahrertür",
+    "action": "assess",
+    "action_source": "insufficient_information",
+    "confidence": 0.4,
+    "reason": "Customer asks whether repair suffices; the note contains no decision.",
+    "evidence": "ob Instandsetzung reicht"
+   },
+   {
+    "zone": "Heckklappe",
+    "action": "replace",
+    "action_source": "explicit",
+    "confidence": 0.9,
+    "reason": "The note explicitly states replacement.",
+    "evidence": "Austausch statt Instandsetzung"
+   }
+  ],
+  "contract_version": "1"
+ },
+ {
+  "case_id": 828461,
+  "case_type": "damage",
+  "case_kind": "Steinschlag",
+  "severity": "mittel",
+  "status": "valid",
+  "damages": [
+   {
+    "zone": "Windschutzscheibe",
+    "action": "replace",
+    "action_source": "inferred",
+    "confidence": 0.7,
+    "reason": "Ein Riss über die halbe Breite der Windschutzscheibe ist in der Regel nicht reparierbar und erfordert einen Austausch.",
+    "evidence": "Riss in Windschutzscheibe zieht sich über die halbe Breite."
+   }
+  ],
+  "contract_version": "1"
+ }
+]

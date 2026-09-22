@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Punktueller Lackabplatzer ohne Strukturschaden deutet auf Lackreparatur hin, Beilackierung notwendig.",
+ "evidence": "Tür hinten links Lack abgeplatzt, punktuell, mehrere Stellen."
+}

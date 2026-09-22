@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Schweller rechts ist nur ein Lackriss beschrieben, ohne Hinweis auf Reparaturmöglichkeit oder Austausch.",
+ "evidence": "Weiterer Schaden Schweller rechts, Riss im Lack."
+}

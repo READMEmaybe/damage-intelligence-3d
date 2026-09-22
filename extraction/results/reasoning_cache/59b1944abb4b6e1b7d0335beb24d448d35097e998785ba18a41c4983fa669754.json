@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Kleine Delle ohne Angabe zur Reparierbarkeit oder Austauschnotwendigkeit, daher ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Zusätzlich Kotflügel hinten links betroffen, kleine Delle."
+}

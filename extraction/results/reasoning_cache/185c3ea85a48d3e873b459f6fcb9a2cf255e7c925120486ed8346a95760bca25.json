@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine punktuelle Delle bei leichtem Parkschaden spricht für Instandsetzung statt Austausch.",
+ "evidence": "Kotflügel hinten links kleine Delle, punktuell, mehrere Stellen."
+}

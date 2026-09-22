@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzspuren deuten auf einen leichten, oberflächlichen Schaden hin, der typischerweise repariert (z. B. Smart Repair) wird.",
+ "evidence": "Weiterer Schaden Stoßstange vorne links, feine Kratzspuren."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Delle mit Lackschaden ohne Angabe zu Reparierbarkeit oder Austausch; KVA wird erbeten.",
+ "evidence": "An Stoßstange hinten rechts Delle mit Lackschaden (auf ganzer Länge)."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Gebrochene Halterung am Kotflügel deutet auf nicht wirtschaftlich reparierbaren Strukturschaden hin, Austausch naheliegend.",
+ "evidence": "Kotflügel vorne rechts Halterung gebrochen, handtellergroß."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichter Lackabrieb am Schweller deutet auf eine Reparatur (Lackierung) hin, kein Austausch erkennbar.",
+ "evidence": "Weiterer Schaden Schweller rechts, Lackabrieb."
+}

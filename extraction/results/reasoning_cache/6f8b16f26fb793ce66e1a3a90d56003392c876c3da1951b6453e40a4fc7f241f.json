@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Heckklappe ist nur eine abgerissene Aufnahme beschrieben, ohne dass Reparatur oder Austausch ausdrücklich genannt wird.",
+ "evidence": "An Heckklappe Aufnahme abgerissen (ca. 25 cm)."
+}

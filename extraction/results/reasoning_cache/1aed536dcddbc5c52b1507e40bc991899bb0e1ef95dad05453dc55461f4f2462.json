@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Mehrere Hageldellen ohne Angabe zur Reparierbarkeit; ohne KVA-Freigabe ist keine eindeutige Maßnahme ableitbar.",
+ "evidence": "Heckklappe mit mehreren Dellen aus Hagelschlag."
+}

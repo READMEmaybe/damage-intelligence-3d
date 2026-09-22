@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Tür hinten links ist nur eine Beule ohne Angabe zu Reparierbarkeit oder Austausch dokumentiert.",
+ "evidence": "Tür hinten links ebenfalls: Beule."
+}

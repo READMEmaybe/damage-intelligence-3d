@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Lackriss über zwei Bauteile, aber keine explizite Reparatur- oder Austauschanweisung für die Stoßstange vorne links.",
+ "evidence": "Riss im Lack an Stoßstange vorne links, über zwei Bauteile."
+}

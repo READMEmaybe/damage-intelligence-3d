@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Heckklappe sind nur Dellen ohne Angabe zu Reparaturfähigkeit oder Austausch genannt; die Maßnahme ist nicht begründbar.",
+ "evidence": "Heckklappe übersät mit Dellen, Zählung Dellenkarte offen."
+}

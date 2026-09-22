@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Lackabplatzung von 3 cm lässt sich ohne weitere Details nicht eindeutig als Reparatur oder Austausch einordnen, und die Notiz verlangt zunächst eine KVA-Abstimmung.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung ist ein typischer Reparaturfall (Lackierung), kein Austausch der Tür erforderlich.",
+ "evidence": "Weiterer Schaden Tür hinten links, Lack abgeplatzt."
+}

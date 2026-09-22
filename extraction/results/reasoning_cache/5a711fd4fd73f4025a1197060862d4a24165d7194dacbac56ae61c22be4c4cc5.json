@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer nur im Klarlack, Lack nicht durch, Smart Repair angefragt – Instandsetzung naheliegend.",
+ "evidence": "Motorhaube: Kratzer, Lack nicht durch, punktuell, mehrere Stellen."
+}

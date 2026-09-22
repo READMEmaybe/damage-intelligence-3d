@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Durchgebrochenes Bauteil an der Motorhaube deutet auf nicht reparierbaren Schaden hin, Austausch naheliegend.",
+ "evidence": "Zusätzlich Motorhaube betroffen, Bauteil durchgebrochen."
+}

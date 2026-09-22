@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Fahrertür ist nur ein Riss im Lack beschrieben; ob Smart Repair ausreicht oder ein Austausch nötig ist, lässt sich daraus nicht ableiten.",
+ "evidence": "Auch Fahrertür beschädigt (Riss im Lack)."
+}

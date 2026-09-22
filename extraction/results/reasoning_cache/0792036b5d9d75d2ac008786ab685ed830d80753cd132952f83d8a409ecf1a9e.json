@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle bei leichter Schadensart spricht für Reparatur statt Austausch.",
+ "evidence": "Zusätzlich Stoßstange hinten links betroffen, kleine Delle."
+}

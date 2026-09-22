@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Durchgebrochenes Bauteil bei schwerem Auffahrunfall und bestellte Teile legen Austausch nahe.",
+ "evidence": "Kotflügel hinten rechts ca. 15 cm Bauteil durchgebrochen."
+}

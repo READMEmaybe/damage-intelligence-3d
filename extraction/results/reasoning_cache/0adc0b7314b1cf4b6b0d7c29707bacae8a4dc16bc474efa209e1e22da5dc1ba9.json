@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Es liegt nur eine Beule ohne Angabe zur Reparierbarkeit vor; die Notiz verlangt ausdrücklich eine KVA-Abstimmung vor der Reparatur.",
+ "evidence": "Bitte KVA vor Reparatur abstimmen."
+}

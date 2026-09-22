@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt zahlreiche Dellen auf der Motorhaube, aber ohne Angabe zur Reparierbarkeit oder Austauschnotwendigkeit.",
+ "evidence": "Motorhaube mit zahlreichen Dellen"
+}

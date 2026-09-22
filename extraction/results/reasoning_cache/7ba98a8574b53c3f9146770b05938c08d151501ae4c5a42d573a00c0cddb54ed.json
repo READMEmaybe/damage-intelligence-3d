@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine kleine Verformung, ohne Reparatur oder Austausch ausdrücklich festzulegen; die Maßnahme bleibt unklar.",
+ "evidence": "Stoßstange vorne links ca. 3 cm Durchmesser Blech verzogen."
+}

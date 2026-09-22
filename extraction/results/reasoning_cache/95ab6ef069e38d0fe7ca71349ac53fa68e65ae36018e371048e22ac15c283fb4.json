@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung an der Stoßstange hinten rechts ist ein typischer, oberflächlicher Schaden, der durch Lackieren instandgesetzt wird.",
+ "evidence": "Auch Stoßstange hinten rechts beschädigt (Lack abgeplatzt)."
+}

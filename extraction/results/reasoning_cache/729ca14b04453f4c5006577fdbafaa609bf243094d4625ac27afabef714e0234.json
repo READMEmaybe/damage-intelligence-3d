@@ -1,0 +1,8 @@
+{
+ "zone": "Dach",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für das Dach sind nur mehrere Hageldellen ohne Angabe zu Reparaturfähigkeit oder Austausch beschrieben.",
+ "evidence": "Dach mit mehreren Dellen aus Hagelschlag."
+}

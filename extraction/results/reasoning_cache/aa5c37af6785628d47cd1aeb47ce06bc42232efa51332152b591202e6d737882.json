@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Punktueller Lackabplatzer ohne Angabe zu Reparaturfähigkeit oder Austauschbedarf, daher nur Begutachtung möglich.",
+ "evidence": "An Stoßstange vorne Lack abgeplatzt (punktuell, mehrere Stellen)."
+}

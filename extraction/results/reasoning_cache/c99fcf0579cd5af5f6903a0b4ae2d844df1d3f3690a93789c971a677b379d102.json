@@ -1,0 +1,8 @@
+{
+ "zone": "Schweller links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Feine Kratzer im Klarlack am Schweller links sind ein leichter Oberflächenschaden, der typischerweise durch Lackieren repariert wird.",
+ "evidence": "Zusätzlich Schweller links betroffen, Kratzer im Klarlack."
+}

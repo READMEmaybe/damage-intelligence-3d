@@ -1,0 +1,8 @@
+{
+ "zone": "Beifahrertür",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabplatzung von ca. 25 cm lässt sich in der Regel durch Lackieren instand setzen, kein Hinweis auf Austausch.",
+ "evidence": "Lack abgeplatzt, ca. 25 cm"
+}

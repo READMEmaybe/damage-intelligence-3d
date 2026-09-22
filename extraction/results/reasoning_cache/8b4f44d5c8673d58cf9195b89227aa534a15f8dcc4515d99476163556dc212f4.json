@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für die Heckklappe ist nur 'Kunststoff eingedrückt' beschrieben, ohne Angabe ob Reparatur möglich oder Austausch nötig.",
+ "evidence": "Weiterer Schaden Heckklappe, Kunststoff eingedrückt."
+}

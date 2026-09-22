@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Handtellergroße Kratzer bis auf die Grundierung sind typischerweise durch Lackieren reparierbar, kein Austausch angezeigt.",
+ "evidence": "Schaden an Kotflügel vorne rechts, Kratzer bis auf Grundierung, handtellergroß."
+}

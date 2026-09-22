@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Hageldellen ohne Lackschaden lassen Reparatur oder Austausch offen; keine explizite Maßnahme genannt.",
+ "evidence": "Hagel: Heckklappe betroffen, Lack laut Sichtprüfung intakt."
+}

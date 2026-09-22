@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Ein 10 cm langer Lackriss an der Tür ist typischerweise durch Lackierung reparierbar, kein Austauschgrund.",
+ "evidence": "Fahrertür Riss im Lack, ca. 10 cm."
+}

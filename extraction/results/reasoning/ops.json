@@ -1,0 +1,40 @@
+{
+ "latency_total_s": 658.26,
+ "latency_per_case_ms": 658.26,
+ "cases_processed": 1000,
+ "model": "deepseek-chat",
+ "prompt_version": "2",
+ "api_calls": 624,
+ "api_retries": 0,
+ "invalid_outputs": 0,
+ "needs_review": 0,
+ "failed": 0,
+ "tokens_in": 450411,
+ "tokens_out": 51386,
+ "estimated_cost_usd": 0.1781,
+ "cache_hits": 27,
+ "cache_misses": 624,
+ "distribution": {
+  "damage_cases": 450,
+  "zone_decisions": 785,
+  "action_%": {
+   "assess": 49.4,
+   "repair": 34.3,
+   "replace": 16.3
+  },
+  "source_%": {
+   "insufficient_information": 49.4,
+   "inferred": 45.2,
+   "explicit": 5.4
+  },
+  "confidence_bands": {
+   "medium": 352,
+   "low": 388,
+   "high": 45
+  },
+  "statuses": {
+   "valid": 984,
+   "needs_review": 16
+  }
+ }
+}

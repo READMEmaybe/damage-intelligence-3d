@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Hagelschaden mit zahlreichen Dellen auf der Motorhaube, Smart Repair angefragt, keine Ersatzteil-/Austauschhinweise für diese Zone.",
+ "evidence": "Hagelschlag flächig, Motorhaube mit zahlreichen Dellen."
+}

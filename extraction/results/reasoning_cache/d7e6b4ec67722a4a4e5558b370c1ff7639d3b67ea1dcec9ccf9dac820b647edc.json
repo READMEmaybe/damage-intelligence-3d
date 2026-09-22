@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine eingedrückte Kunststoffstelle ohne Angabe, ob Reparatur möglich oder Austausch nötig ist.",
+ "evidence": "An Stoßstange hinten links Kunststoff eingedrückt (ca. 3 cm Durchmesser)."
+}

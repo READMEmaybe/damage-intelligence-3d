@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle von ca. 25 cm bei leichtem Schaden deutet auf Reparatur hin, zumal der Kunde Smart Repair anfragt.",
+ "evidence": "Motorhaube ca. 25 cm kleine Delle."
+}

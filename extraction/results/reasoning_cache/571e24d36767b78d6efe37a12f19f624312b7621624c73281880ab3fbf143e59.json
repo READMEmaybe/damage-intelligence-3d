@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer ohne Lackdurchtrennung deuten auf eine Lackreparatur hin, kein Austausch erforderlich.",
+ "evidence": "Tür hinten rechts ebenfalls: Kratzer, Lack nicht durch."
+}

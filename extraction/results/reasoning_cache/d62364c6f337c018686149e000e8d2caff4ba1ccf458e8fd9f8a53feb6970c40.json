@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.4,
+ "reason": "Starke Eindrückung, aber keine explizite oder eindeutig ableitbare Maßnahme für die Stoßstange hinten.",
+ "evidence": "Stoßstange hinten stark eingedrückt, ca. 15 cm."
+}

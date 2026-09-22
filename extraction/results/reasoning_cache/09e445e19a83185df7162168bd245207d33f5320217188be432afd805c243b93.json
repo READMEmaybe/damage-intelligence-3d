@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf Grundierung bei mittlerem Schweregrad legen eine Lackierreparatur nahe, kein Austausch erwähnt.",
+ "evidence": "Weiterer Schaden Kotflügel hinten links, Kratzer bis auf Grundierung."
+}

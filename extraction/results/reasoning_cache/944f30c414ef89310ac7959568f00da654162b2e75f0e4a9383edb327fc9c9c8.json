@@ -1,0 +1,8 @@
+{
+ "zone": "Motorhaube",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt nur eine eingedrückte Kunststoffstelle an der Motorhaube, ohne Reparatur- oder Austauschentscheidung zu nennen.",
+ "evidence": "An Motorhaube Kunststoff eingedrückt (ca. 5 cm)."
+}

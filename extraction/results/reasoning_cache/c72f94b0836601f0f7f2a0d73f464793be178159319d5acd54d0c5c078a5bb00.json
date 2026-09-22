@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne rechts",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer im Klarlack ohne Lackdurchtrennung sind typischerweise polier- bzw. lackierbar, also reparierbar.",
+ "evidence": "An Kotflügel vorne rechts Kratzer im Klarlack (ca. 5 cm)."
+}

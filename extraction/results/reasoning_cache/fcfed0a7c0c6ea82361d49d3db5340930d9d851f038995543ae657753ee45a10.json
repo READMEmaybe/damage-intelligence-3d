@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kratzer bis auf Grundierung sind typischerweise durch Lackierung/Beilackierung reparierbar, kein Austausch angezeigt.",
+ "evidence": "Stoßstange vorne links ebenfalls: Kratzer bis auf Grundierung."
+}

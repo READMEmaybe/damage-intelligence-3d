@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel vorne links",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Für den Kotflügel vorne links wird nur eine gebrochene Halterung beschrieben, ohne dass Reparatur oder Austausch explizit genannt wird.",
+ "evidence": "Halterung gebrochen an Kotflügel vorne links, ca. 3 cm Durchmesser."
+}

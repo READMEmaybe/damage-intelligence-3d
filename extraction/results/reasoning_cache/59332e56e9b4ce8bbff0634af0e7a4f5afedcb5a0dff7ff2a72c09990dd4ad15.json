@@ -1,0 +1,8 @@
+{
+ "zone": "Kotflügel hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Kleine Delle am Kotflügel hinten links bei leichtem Schaden deutet auf eine instandsetzbare Reparatur hin.",
+ "evidence": "Kotflügel hinten links ebenfalls: kleine Delle."
+}

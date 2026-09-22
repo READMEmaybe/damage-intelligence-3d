@@ -1,0 +1,8 @@
+{
+ "zone": "Fahrertür",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Abgerissene Aufnahme an der Fahrertür deutet auf einen nicht reparierbaren Befestigungsschaden hin, der einen Austausch des Bauteils erfordert.",
+ "evidence": "Auch Fahrertür beschädigt (Aufnahme abgerissen)."
+}

@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange vorne rechts",
+ "action": "replace",
+ "action_source": "inferred",
+ "confidence": 0.75,
+ "reason": "Abgerissene Aufnahme an der Stoßstange vorne rechts deutet auf einen nicht reparierbaren Strukturschaden hin.",
+ "evidence": "Stoßstange vorne rechts: Aufnahme abgerissen, ca. 10 cm."
+}

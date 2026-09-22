@@ -1,0 +1,8 @@
+{
+ "zone": "Tür hinten rechts",
+ "action": "assess",
+ "action_source": "insufficient_information",
+ "confidence": 0.3,
+ "reason": "Die Notiz beschreibt einen Lackriss über zwei Bauteile, nennt aber weder eine Reparaturfreigabe noch einen Austausch, und die technische Freigabe steht noch aus.",
+ "evidence": "Riss im Lack, über zwei Bauteile"
+}

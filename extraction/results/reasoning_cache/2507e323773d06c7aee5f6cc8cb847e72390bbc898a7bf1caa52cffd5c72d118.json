@@ -1,0 +1,8 @@
+{
+ "zone": "Stoßstange hinten links",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Leichte Kratzer im Klarlack mit notwendiger Beilackierung deuten auf eine Reparatur statt Austausch hin.",
+ "evidence": "An Stoßstange hinten links Kratzer im Klarlack (über zwei Bauteile)."
+}

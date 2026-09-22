@@ -1,0 +1,8 @@
+{
+ "zone": "Heckklappe",
+ "action": "repair",
+ "action_source": "inferred",
+ "confidence": 0.7,
+ "reason": "Lackabrieb an der Heckklappe ist ein leichter Oberflächenschaden, der typischerweise durch Lackreparatur behoben wird.",
+ "evidence": "Zusätzlich Heckklappe betroffen, Lackabrieb."
+}
